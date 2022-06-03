@@ -1,0 +1,146 @@
+ball 1 
+
+@tprs./
+this is a ball/
+what color is this ball?/
+is it red or blue or green?/
+no, it is no tred or blue or gree./
+it is yellow. the color of the ball is yellow/
+is this ball big or small?/
+yes, it is big. it is not small/
+what shape is this ball?. is this ball rounded?/
+yes, the shape of a ball is rounded/
+is the ball on the sand?/
+yes, the ball is on the sand/
+is the ball on the water?/
+yes, the ball is floating on the water/
+is this ball heavy or not?/
+no, the ball is not heavy. the ball is light/
+does ball floats on the water?/
+yes, it does. the ball does floats on the water/
+the ball is under the tree/
+the ball is inside the boat/
+am i holding the ball?/
+yes, i am holding the ball/
+what is she doing with the ball?/
+is she holding the ball?/
+yes, she is holding the ball/
+is she holding the ball with her feet?/
+no, she is not holding the ball with her feet/
+is she holding the ball with her hands?/
+yes, she is holding the ball with her hands/
+can i hold the ball with my feet?/
+no, i do not think so. i cannot hold the ball with my feet/
+but can i hold it with my hands?/
+aboslutely i can. i can hold it with my hands and not with my feet/
+can i walk with my feet?/
+absolutely. i can walk with my feet but not with my hands/
+i am taking the ball/
+am i taking the ball?/
+yes, i am taking the ball to the beach/
+where am i taking the ball? do you know where i am taking it?/
+am i taking it to the water?/
+yes, i am taking the ball to the water/
+look! he is taking the ball up to the tree/
+can i take the ball up to the tree?/
+no, i can't. i cannot take the ball up to the tree/
+the tree is very high/
+i am afraid i could fall/
+i am puting the ball/
+i am putting the ball to the ground/
+is he putting the ball inside the basket?/
+no, he is not putting the ball inside the basket/
+is he putting the ball to the ground?/
+yes, he is putting the ball to the ground/
+i am taking the ball and he is putting the ball to the ground/
+and then Putri is holding the ball with her hands/
+she is giving me the ball/
+is she giving me the ball?/
+yes, she is giving me the ball/
+now i am giving the ball to ROni/
+and then Roni is taking the ball from me/
+and then he give it to Putri/
+Putri put the ball to the ground/
+i take the ball from the ground/
+Ayah is coming to us/
+he has a ball/
+he has a green ball/
+he is bringing a green ball/
+look Ambuh has many balls/
+she is bringing too many balls/
+there are red, blue, green, and yellow balls/
+there are so many balls/
+balls are everywhere/
+is Ayah bringing a ball?/
+yes, Ayah is bringing one ball/
+is Ambuh bringing some balls?/
+yes, Ambuh is bringing too many balls/
+she is holding them with her hands/
+can she hold them with her hands?/
+yes, she can. she can hold too many balls with her hands/
+they are bringing too many  balls/
+they are giving us some balls/
+Ayah and Ambuh are giving some balls/
+we are taking the balls/
+are we taking the balls?/
+yes we are, we are taking too many balls/
+me and Putri and also Roni is taking the balls from Ayah and Ambuh/
+we are holding the balls/
+me and Putri are holding two balls/
+Roni is holding so many balls with his hands/
+now, i am holding one ball with my hand/
+Putri is also holding one ball with her hand/
+can i hold many balls with my hand?/
+no, i cannot hold too many balls with my hand/
+now, i am putting the ball to the ground/
+am i putting the ball to the ground?/
+yes, i am putting the ball to the ground with my hands/
+can i eat the ball?/
+of course not. i cannot eat the ball/
+can you eat or drink the ball?/
+no, you cannot eat or drink the ball/
+can she eat or drink the ball?/
+no, she cannot eat or drink the ball/
+can they eat the ball?/
+no, they cannot eat the ball/
+no one can eat or drink the ball/
+Ayah and Ambuh also cannot eat or drink the ball/
+the ball is not a food/
+it is an object/
+what am i doing with the ball?/
+do you know what am i doing with the ball?/
+can you tell me what am i doing with the ball?/
+am i playing with the ball?/
+yes, i am playing with the ball/
+Putri is also playing with the ball/
+Roni too is also playing with the ball/
+they are playing with the balls/
+are they playing with the balls?/
+yes, they are. they are playing with the balls/
+Roni and Putri are playing with the balls/
+we are playing with the balls/
+me, Putri, and Roni are all playing with the balls/
+what are we doing with the ball?/
+do you know what we are doing with the balls?/
+are we palying with the balls?/
+yes, we are playing with the balls/
+
+@pair.
+ball.ground.tree.water.sand 
+
+@pair.
+take.hold.put.give.bring.play 
+
+@ask.
+hold.put.give.take.bring.play 
+
+@ask.
+i put.he put.she put.they put.you put.we put.
+@ask.
+i take.he take.she take.they take.you take.we take.
+@ask.
+i hold.he hold.she hold.they hold.you hold.we hold.
+@ask.
+i bring.he bring.she bring.they bring.you bring.we bring.
+@ask.
+i guve.he guve.she guve.they guve.you guve.we guve.

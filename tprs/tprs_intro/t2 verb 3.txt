@@ -1,0 +1,81 @@
+
+t verb 3
+@tprs./
+tell/
+i am telling/
+i am telling you/
+tell him to go to the airport/
+i am telling him to go to the airport/
+she is telling me to stay at my house/
+they are telling me to leave the train station/
+we are telling theme to come to the office/
+are we telling him?/
+yes, we are telling him/
+we are telling him to what?/
+are we telling him to come to the hotel?/
+yes, we are telling him to come to the hotel/
+is he telling me to go to the hospital?/
+no, he is not telling me to go to the hospital/
+are they telling me to stay at the hotel?/
+no, they are not telling me to stay at the hotel/
+are they telling me to leave the house?/
+yes, they are telling me to leave the house/
+are you telling me to wait for you?/
+yes, you are telling me to wait for you/
+what are you saying?/
+i don't know what are you saying?/
+are you saying that i have to go to the train station?/
+are you saying that she is not going to the hospital?/
+what is he saying?/
+do you know what she is saying?/
+is she saying that we need to go to the office?/
+yes, she is saying that we need to go to the office/
+call/
+i am calling him/
+i am calling you to come/
+he is calling me to go leave the house/
+she is calling me to stay at home/
+they are calling me to come to the airport/
+we are calling you to wait at the police station/
+i am calling him to wait at the hotel/
+what is she calling?/
+is she calling my name?/
+yes, she is calling my name/
+they are calling you to come to the hospital/
+we are calling him to come to our house/
+hear/
+i hear a sound/
+i hear you/
+we hear you/
+they hear me/
+do you hear me?/
+yes, you do hear me/
+do i hear you?/
+no, i do not hear you/
+does she hear us?/
+no, she does not hear us/
+can you hear me?/
+yes, you can hear me/
+can i hear you?/
+no, i cannot hear you/
+can he hear me?/
+no, he cannot hear me/
+can they hear you?/
+no, they cannot hear you speaking/
+i am saying/
+i am calling/
+i am hearing/
+i am telling/
+i am speaking/
+he is speaking with me/
+we are speaking/
+they are speaking at the airport/
+we are speaking at the office/
+you are speaking at the police station/
+i am listening to the music/
+we are listening to the sound/
+you are listening to the song/
+am i listening to the music?/
+yes, i am listening to the music/
+are we listening to the song?/
+yes, we are listening to the song/

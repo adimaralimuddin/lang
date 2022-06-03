@@ -1,0 +1,76 @@
+
+the tree 1 
+
+@tprs./
+this is the yard/
+i am in the yard/
+what am i doing in the yard?/
+am i sleeping?/
+am i sleeping in the yard?/
+no, i am not sleeping in the yard/
+am i standing in the yard?/
+yes, i am standing in the yard/
+what else?/
+what else i'm doing?/
+am i speaking?/
+yes, i am speaking/
+i am standing and speaking/
+where am i standing and speaking?
+am i standing and speaking in the yard?/
+yes, i am standing and speaking in the yard/
+that is a tree/
+is that a grass?/
+no, that is not a grass/
+is that a roof?/
+no, that is not a roof/
+is that a tree?/
+absolutely, that is a tree/
+that tree is high/
+it is tall/
+is that tree short?/
+no, that tree is not short/
+is that tree high?/
+yes, that tree is high/
+that tree is high and tall/
+is that a cat?/
+yes, that is a cat/
+his name is Miming/
+is Miming a cat?/
+yes, Miming is a cat/
+where is Miming?/
+do you see Miming?/
+do you see where Miming is?/
+is Miming at the top of the roof?/
+no, Miming is not at the top of the roof/
+do you see where Miming is?/
+Look! is that Miming?/
+yes, that is Miming/
+is Miming up the tree?/
+yes, Miming is up the tree/
+what is Miming doing?/
+is Miming sleeping?/
+yes, Miming is sleeping/
+how?/
+how did Miming get up?/
+how did Miming get up the tree?/
+do you know how?/
+do you know how Miming get up the tree?/
+did Miming just fly?/
+no, Miming did not flew/
+can Miming fly?/
+no, Miming cannot fly/
+but how?/
+how did Miming get up the tree?/
+did Miming climbed?/
+yes Miming climbed the tree/
+what is Roni doing?/
+is Roni walking on the tree?/
+no, Roni is not walking on the tree/
+is Roni flying?/
+is Roni flying to the tree?/
+no, Roni is not flying/
+can Roni fly?/
+no, Roni cannot fly/
+is Roni climbing?/
+yes, Roni is climbing the tree/
+

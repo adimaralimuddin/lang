@@ -1,0 +1,25 @@
+@tprs./
+i am calling/
+i am calling you/
+i am calling you today/
+i am calling you to come/
+i am calling you to come to me/
+i am calling you to come to me today/
+i am calling you to come home today/
+i am calling you to come home to me today/
+i will call you to come home tomorrow/
+i will call you to come home to me tomorrow/
+i called you to come yesterday/
+i called you to come home yesterday/
+i called you to come home to me yesterday/
+
+she is eating the apple/
+she is eating the apple for me/
+she is eating the delicious apple for me/
+she is eating the delicious red apple for me/
+she is eating the delicious red apple for you/
+she is eating the delicious red apple for him/
+she is eating the delicious red apple for me today/
+she is eating the delicious red apple for you today/
+
+

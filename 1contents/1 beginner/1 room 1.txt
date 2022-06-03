@@ -1,0 +1,93 @@
+
+@tprs./
+this is the room/
+this is my room/
+my room is very big/
+my room is pink/
+i am inside my room/
+am i inside my room or outside my room?/
+yes, i am inside my room and not outside/
+is my room black or yellow or pink?/
+yes, my room is pink. my room is not black or yellow/
+this is the door of my room/
+i am opening the door/
+am i opening the door or am i closing the door?/
+yes, i am opening the door and i am not closing the door/
+i am going inside my room/
+now i am inside my room/
+my room looks great/
+this is my bed/
+my bed is white/
+my bed is also very big/
+i am on my bed/
+i am laying/
+i am laying on my bed/
+i feel so good on my bed/
+i love to lay on my bed/
+it feels so good to lay on my bed/
+i often lay on my bed/
+this is a pillow/
+that is also my pillow/
+these are my pillows/
+how many pillows do i have?/
+do i have one pillow?/
+no, i do not have one pillow/
+do i have two pillows?/
+yes, i have two pillows/
+my pillows are small/
+my pillows are also white/
+i also love to lay on my pillows/
+i often lay on my pillows everyday/
+this is my table/
+and this is my books/
+this is my table and my books/
+my table is near my bed/
+and my books are on my table/
+i have so many books/
+how many books do i have?/
+do i have a few books?/
+no, i do not have a few books/
+do i have so many books?/
+yes, i have so many books/
+where are my books?/
+are my books under the table?/
+no, my books are not under the table/
+are my books outside my room?/
+no, my books are not outside my room/
+are my books on my table?/
+yes, my books are on my table/
+what am i doing now?/
+do you knwo what i am doing right now?/
+am i reading?/
+yes, i am reading/
+what am i reading?/
+am i reading a table?/
+no, i am not reading a table/
+can i read the table?/
+no, i cannot read the table/
+what am i reading then?/
+am i readng a book?/
+yes, i am reaing a book/
+can i read a book?/
+yes, i can read a book/
+why?. why can i read a book?/
+and why can't i read a table?/
+because books has letters and tables do not have/
+i love to read books/
+everyday i read my books/
+i read my books on my bed everyday/
+i always read my book in the morning/
+and then on the afternoon as well/
+i always read my book in the morning and on the afternoon/
+i really love reading books/
+books are greet/
+books are a good thing/
+i need to read books/
+you too, you really need to read books/
+books are good for you/
+
+
+
+
+
+

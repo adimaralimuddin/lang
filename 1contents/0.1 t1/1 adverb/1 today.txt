@@ -1,0 +1,42 @@
+@tprs./
+today/
+today is monday/
+today, i am eating an apple/
+what is today?/
+is today monday?/
+yes, today is monday/
+is today friday?/
+no, today is not friday/
+is today saturday?/
+no, today is not saturday/
+today is not friday or saturday/
+today is monday/
+i will go/
+i will go to school/
+i will go to school today/
+i am going/
+i am going to school/
+i am going to school today/
+am i going to the office today?/
+no, i am not going to the office/
+am i going to the hospital today?/
+no, i am not going to the hospital today/
+where am i going today?/
+do you know?/
+do you know where i am going today?/
+am i going to school today?/
+yes, i am going to school today/
+i am going with my friend/
+today i am sick/
+am i sick today?/
+yes, i am sick today/
+i am not going to school today/
+why?/
+why am i not going to school today?/
+because i am sick today/
+where am i today?/
+am i at home today?/
+yes, i am at home today/
+can i go to school today?/
+no, i cannot go to school today/
+

@@ -1,0 +1,111 @@
+@tprs./
+this is a house/
+this is our house/
+that is their house/
+our house is blue/
+their house is green/
+is our house blue or green?/
+yes, our house is blue and not green/
+this is house is big/
+that house is small/
+which house is big?/
+is that house big?/
+no, that house is not big. that house is small/
+is this house big?/
+yes, this house is big/
+this is a big blue house/
+i am inside the house/
+where am i?/
+do you see me?/
+can you tell me?/
+can you tell me where i am?/
+am i outside the house?/
+no, i am not outside the house/
+am i inside the house?/
+yes, i am inside the house/
+i am inside the big blue house/
+is this our house?/
+no, this is not our house/
+our house is not big/
+our house is small blue house/
+Putri is inside the small blue house/
+where is putri?/
+do you see her?/
+can you tell me where she is?/
+is she outside the small blue house?/
+no, she is not outside the small blue house/
+is she inside the small blue house?/
+yes, she is inside the small blue house/
+is the small blue house our house?/
+yes, the small blue house is our house/
+is the big green house ours house?/
+no, the big green house is not our house/
+this is the roof/
+the roof is at the top of the house/
+is the roof under the house?/
+no, the roof is not under the house/
+is the roof at the top of the house?/
+yes, the roof is at the top of the house and not under the house/ 
+what is this?. is this the window?/
+yes, this is the window of the house/
+where is the window?/
+can you tell me where the window is?/
+what do you think?/
+is the window on the floor?/
+no, the window is not on the floor/
+is the window at the top of the roof?/
+no, the window is not at the top of the roof/
+is the window on the wall?/
+yes, the window is on the wall/
+the window is not on the floor or at the top of the roof. it is on the wall/
+is this the window?/
+no, this is not the window/
+is this the roof?/
+no, this is not the roof/
+is this the floor?/
+no, this is not the floor/
+is this the door?/
+yes, this is the door/
+this door is orange/
+is this door blue?/
+no, this door is not blue/
+is this door green?/
+no, this door is not green/
+is this door orange?/
+yes, this door is orange/
+this door is new/
+this is a new door/
+is this door old?/
+no, this is not an old door/
+is this a new door?/
+yes, this is a new door/
+this is a new orange door/
+this door is opened/
+that window is always close/
+which is opened?/
+is the door opened or is it the window is opened?/
+yes, the door is opened. it is not closed/
+is the window closed or opened?/
+yes, the window is close. it is the door which is opened/
+the new orange door is opened/
+i am opening the door/
+he is closing the window/
+who is closing the window?/
+is it me or him?/
+yes, him. he is closing the window/
+what about me?/
+what am i doing?/
+am i opening the door?/
+yes, i am opening the door/
+i always open the door/
+he always close the window/
+we are always in the house/ 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+
+@tprs./
+from/
+i am from jakarta/
+he is from tokyo/
+she is from istanbul/
+you are from new york/
+we are from california/
+where are we?/
+are we in bandung?/
+yes, we are in bandung/
+are we in delhi?/
+yes, we are in delhi/
+we are going to delhi/
+are we going to istanbul?/
+yes, we are going to istanbul/
+where is istanbul?/
+istanbul is in turkey/
+istanbul is the capital city of turkey/
+i am coming/
+i am coming from home/
+i am coming from there/
+she is coming from new york/
+i came from madagascar/
+he came from india/
+she came from cambodia/
+they came from paris/
+you cam from germany/
+they came from the island/
+

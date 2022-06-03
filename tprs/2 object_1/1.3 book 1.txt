@@ -1,0 +1,151 @@
+book 1 
+
+@tprs./
+do you know what this is?/
+is this an apple or an orange?/
+no, this is not an apple or an orange/
+this is also not a table or a chair/
+can you tell me what this is?/
+yes, this is a book/
+this is my book/
+i have a book/
+do i have a book?/
+and i like my book/
+i like my book very much/
+yes, i do have a book/
+what color is this book?/
+is this book blue?/
+no, this book is not blue/
+is this book red?/
+yes, this book is red/
+is this Putri's book?/
+no, this is not Putri's book/
+is this Roni's book?/
+no, this is also not Roni's book/
+this is not their book, this is my book/
+this book is so thick/
+it is very thick/
+it has two hundred pages/
+how many pages?/
+can you tell me how many pages?/
+are there two hundred pages?/
+yes, this book has two hundred pages/
+i have a red thick book with two hundred pages/
+where is my book?/
+do you know where my book is?/
+can you tell me where my book is?/
+is my book on the table or inside the basket?/
+no, my book is not on the table or inside the basket/
+is my book under the table or between the baskets?/
+no, my book is not under the table or between the baskets/
+is my book in my hand?/
+yes, the book is in my hand/
+is my book in my feet?/
+no, the book is not in my feet. the book is in my hand/ 
+what am i doing?/
+what am i doing with this book?/
+do you know what am i doing with this book?/
+can you tell me what am i doing with this book?/
+am i sitting on it?/
+no, i am not sitting on my book/
+am i eating it?/
+no, i am not eating it either/
+can i eat my book?/
+no, i cannot eat my book?/
+can you eat a book?/
+of coures no, you cannot eat a book/
+you do not eat the book/
+i do not eat the book/
+am i cooking it?/
+of coures not. i am not cooking it/
+can i cook the book?/
+i can. but i don't/
+i don't cook the book/
+do you cook the book?/
+no, you do not cook the book/
+am i drinking my book?/
+no, i am not drinking my book or eating it/
+i cannot drink my book/
+i do not drink the book/
+i do not want to drink the book/
+i do not want to drink my book/
+what exactly am i doing?/
+what exactly am i doing with my book?/
+do you know exactly what i am doing?/
+do you know exactly what i am doing with my book?/
+can you you tell me what exactly i am doing?/
+can you you tell me what exactly i am doing with my book?/
+am i reading it?/
+am i reading my book?/
+yes, i am reading my book/
+i love reading my book/
+i love reading the book/
+i love reading books/
+i want to read the book/
+everyday, i want to read the book/
+how about you?/
+do you love reading books?/
+sure you do. you love reading lots of books/
+do you have a book?/
+yes, you do have/
+how many books do you have?/
+can you tell me how many?/
+can you tell me how many books do you have?/
+do you have so many books?/
+yes, you do have so many books/
+do you read them everyday?/
+sure you do. you do read books everyday/
+do you love reading books?/
+of course you do/
+you do love reading books/
+you do love reading books everyday/
+can you read a book?/
+of course you can/
+you can read a book/
+you can read books/
+you can read books everyday/
+
+what is Roni doing?/
+do you see Roni?/
+do you see where Roni is?/
+do you see what Roni is doing?/
+is he reading?/
+yes, he is reading/
+what is he reading?/
+can you tell me what he is reading?/
+is he reading a book?/
+yes, he is reaing a book/
+what book?/
+what book is he reading?/
+do you know what book is he reading?/
+do you see what book he is reading?/
+can you tell me what book he is reading?/
+is he reaing a math book?/
+yes, he is reading a math book/
+he loves maths/
+he loves maths books/
+he loves reading math books/
+he reads math everyday/
+today he is reading/
+tomorrow he will read/
+now he is reading/
+he has so many books/
+he has so many math books/
+can he read?/
+can he read books?/
+yes, he can. he can read books/
+how about me?/
+can i read books?/
+sure, i can read books too/
+do i love to read books?/
+yes, i love to read books/
+i want to read books/
+my book is red and thick/
+his book is also red and thick/
+he is happy/
+he is happy reading books/
+me too. i am happy reading books/
+reading books is good/
+is reading books good?/
+yes, reading books is good/
+

@@ -1,0 +1,93 @@
+lesson 4 verb negation 1
+
+eat. 
+do not eat. 
+
+i eat. 
+i do not eat. 
+you do not eat. 
+he does not eat. 
+she does not eat. 
+
+i eat an apple. 
+do not eat an apple.
+i do not eat an apple. 
+you do not eat an apple. 
+he does not eat an apple. 
+she does not eat an apple.
+
+eating. 
+i am eating. 
+i am not eating. 
+you are not eating.
+he is not eating. 
+she is not eating. 
+
+eating an apple. 
+i am eating an apple. 
+i am not eating an apple. 
+you are not eating an apple.
+he is not eating an apple. 
+she is not eating an apple. 
+
+do i eat?.
+don't i eat?.
+don't you eat?.
+doesn't he eat?. 
+doesn't she eat?.
+
+are you eating?. 
+am i not eating?. 
+aren't you eating?.
+isn't he eating?.
+isn't she eating?.
+
+am i eating an appple?.
+am i not eating an apple?.
+aren't you eating an apple?.
+isn't he eating an apple?.
+isn't she eating an apple?.
+
+---------------------------------------
+
+@practice 1 
+hi mike, do you eat?
+no, i do not eat 
+
+hi romio, do you eat an apple? 
+no, i do not eat an apple 
+
+hi bob, are you eating?
+no, i am not eating
+
+hi ahmed, are you eating an apple?
+no, i am not eating an apple 
+
+does he eat?
+no, he does not eat 
+
+does she eat?
+no she does not eat.
+
+is he eating?
+no, he is not eating 
+
+is she eating?
+no, she is not eating 
+
+is she eating an apple?
+no. she is not eating an apple
+
+do i eat?
+no, you dont eat 
+
+do i eat an apple?
+no, you do not eat an apple 
+
+am i eating? 
+no, you are not eating 
+
+am i eating an apple?
+no, you are not eating an apple.
+
+@practice 2 

@@ -1,0 +1,7 @@
+@tprs./
+always/
+i always eat/
+i always go to school/
+she always eats an apple/
+he always goes the hotel/
+you are always late/

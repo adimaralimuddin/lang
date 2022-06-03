@@ -1,0 +1,81 @@
+
+friend 
+
+@tprs./
+this is my friend/
+her name is Raya/
+she is a girl/
+now, i ask you/
+who is she?/
+what is her name?/
+is her name Roni?/
+no, her name is not Roni/
+is her name Raya?/
+yes, her name is Raya/
+what is she?/
+what is her gender?/
+is she a male?/
+no, she is not a male/
+is she a boy?/
+no, she is not a boy/
+her gender is not male/
+is she a girl?/
+yes, she is a girl/
+is she female?/
+yes, she is female/
+is she my sister?/
+no, she is not my sister/
+is she my friend?/
+yes, she is my friend/
+she is my girl friend/
+her name is Raya and she is my friend/
+i love her/
+i love Raya/
+Raya loves me/
+we love each other/
+where is Raya?/
+do you see Raya?/
+yes, you do see Raya/
+Raya is over there/
+she is inside the room/
+is she inside the room?/
+yes, she is inside the room/
+what is she doing?/
+is she eating?/
+no she is not eating/
+is she sleeping?/
+no, she is not sleeping/
+is she cleaning?/
+no, she is not cleaning/
+is she sitting?/
+no, she is not sitting/
+is she cooking?/
+no, she is not cooking/
+she is not eating or sleeping or cleaning or sitting or cooking/
+what is she doing?/
+is she studying?/
+yes, she is studying/
+she is smart/
+Raya is smart/
+how about me?/
+am i smart?/
+yes, i am also smart/
+how about you?/
+are you smart too?/
+yes, you are also smart/
+we are all smart/
+what is she studying?/
+do you know what is she studying?/
+is she studying math?/
+no, she is not studying math/
+is she studying a language?/
+yes, she is studying a language/
+what language is she studying?/
+do you know what language is she studying?/
+is she studying arabic?/
+yes, she is studying arabic/
+is arabic hard?/
+no, arabic is not hard/
+is arabic easy?/
+yes, arabic is easy/
+

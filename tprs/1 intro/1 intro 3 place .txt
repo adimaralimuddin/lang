@@ -1,0 +1,206 @@
+
+1 lesson 
+1 intro 
+3 place 
+
+
+@tprs./ 
+what is this?/
+do you know this?/
+can you tell?/
+can you tell me?/
+can you tell me what this is?/
+is this a table?/
+yes, this is a table/
+this is my table/
+that is his table/
+is this my table?/
+no, this is not my table/
+is this his table?/
+yes, this is his table/
+at the table/
+the apple is at the table/
+where is the apple?/
+do you know?/
+do you know where the apple is?/
+can you tell me?/
+can you tell me where?/
+can you tell me where the apple is?/
+is the apple under the table?/
+no, the apple is not under the table/
+is the apple away from the table?/
+no, the apple is not away from the table/
+is the apple beside the table?/
+no, the apple is not beside the table/
+is the apple at the table?/
+yes, the apple is at the table/
+what is that?/
+is that an orange?/
+yes, that is an orange?/
+is that your orange?/
+no, that is not your orange/
+is that Putri's orange?/
+yes, that is Putri's orange/
+Putri has an orange/
+does Putri has an orange?/
+yes, Putri has an orange/
+she has one orange/
+where is the orange?/
+where is her orange?/
+do you know where the orange is?/
+do you know where her orange is?/
+can you tell me where?/
+can you tell me where the orange is?/
+is the orange on the table?/
+no, the orange is not on the table/
+is the orange under the table?/
+no, the orange is not under the table/
+is her orange beside the table?/
+no, her orange is not beside the table/
+is the orange away from the table?/
+no, the orange is not away from the table/
+where is the orange then?/
+do you know where the orange is?/
+do you see the orange?/
+is the orange on the basket?/
+yes, the orange is on the basket/
+is the orange under the basket?/
+no, the orange is not under the basket/
+is the orange between the basket?/
+no, the orange is not between the basket/
+is the orange on the basket?/
+yes, the orange is on the basket/
+is the orange inside the basket?/
+yes, the orange is inside the basket/
+on the basket/
+inside the basket/
+this is a basket/
+is this a table?/
+no, this is not a table/
+that is a table and this is a basket/
+this is my table/
+and that is his table/
+this is Putri's basket/
+my table and his talbe and Putri's basket/
+the apple is at the table/
+the orange is on the basket/
+the apple is under the table/
+the orange is between the baskets/
+the apple is away from the table/
+the orange is outside the basket/
+where is Roni?/
+do you know?/
+do you know where Roni is?/
+can you tell me where Roni is?/
+is Roni on the table?/
+no, Roni is not on the table/
+is Roni on the basket?/
+no, Roni is not on the basket/
+is Roni under the table?/
+no, Roni is not under the table/
+is Roni between the baskets?/
+no, Roni is not between the baskets/
+where is Roni?/
+do you know where Roni is?/
+do you see where Roni is?/
+is Roni on a chair?/
+yes, Roni is on a chair/
+is Roni under or between the chair?/
+no, Roni is not under or between the chair/
+Roni is on the chair/
+what is he doing?/
+do you know what he is doing?/
+what is he doing on a chair?/
+do you know what he is doing on a chair?/
+can you tell me what he is doing?/
+can you tell me what he is doing on a chair?/
+is he eating?/
+is he eating on a chair?/
+no, he is not eating/
+he is not eating on a chair/
+is he sitting?/
+is he sitting on a chair?/
+yes, he is sitting/
+he is sitting on a chair/ 
+is he sitting under the chair?/
+no, he is not sitting under the chair/
+is he sitting away from the chair?/
+no, he is not sitting away from the chair/
+is he sitting on the chair?/
+yes, he is sitting on the chair/
+who is that?/
+is that Putri?/
+yes, that is Putri/
+that is my sister Putri/
+where is she?/
+do you see her?/
+can you see her?/
+yes, you do see her/
+yes, you can see her/
+is she on a table?/
+no, she is not on a table/
+is she on a chair?/
+no, she is not on a chair/
+is she on the bed?/
+yes, she is on the bed/
+what is this?/
+is this a bed?/
+yes, this is a bed/
+is this not a table?/
+no, this is not a table. this is a bed/
+this is putri's bed/
+is this my bed?/
+no, this is not my bed/
+whos bed is this?/
+do you know?/
+do you know whos bed is this?/
+is this putri's bed?/
+yes, this is putri's bed/
+what is she doing?/
+what is she doing in the bed?/
+do you know what she is doing?/
+do you know what she is doing on the bed?/
+can you tell?/
+can you tell me what she is doing?/
+can you tell me what she is doing on the bed?/
+is she sitting?/
+is she sitting on the bed?/
+no, she is not sitting/
+she is not sitting on the bed/
+is she sleeping?/
+yes, she is sleeping/
+she is sleeping on the bed/
+she is sleeping on her bed/
+
+
+@chat./
+hi Roni, what is this?/
+2 hi Dewi, this is an orange/
+where is the orange?/
+2 the orange is on a basket/
+what is that?/
+2 that is an apple/
+where is the apple?/
+2 the apple is at the table/
+what is that?/
+2 that is a table/
+what is this?/
+2 this is a chair/
+what are you doing?/
+2 i am sitting/
+you are sitting on what?/
+are you sitting on a table?/
+2 no, i am not sitting on a table/
+2 i am sitting on a chair/
+what are you doing on a chair?/
+are you sleeping on a chair?/
+2 no, i am not sleeping on a chair/
+2 i am eating on a chair/
+2 i am sitting and eating on a chair/ 
+where is Putri?/
+2 there. there is putri/
+what is she doing?/
+2 she is sleeping/
+where is she sleeping?/
+2 she is sleeping on the bed/
+2 she is sleeping on her bed/

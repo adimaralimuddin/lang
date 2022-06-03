@@ -1,0 +1,245 @@
+l
+
+
+-------------------------------------------------------------
+test 
+@chat./
+1 this is a #cat.
+
+
+@chat./
+2 hi, i am mike. what is your name? ./
+1 hi mike, my name is aisha ./
+2 what is her name? ./
+1 her name is maria. /
+2 what is his name?./
+1 his name is romio. /
+
+
+2 hi, i am mike. what is your name?./ 
+1hi mike, my name is maria. /
+2who is he?. /
+1he is romio. /
+2who is she?. /
+1she is maria. /
+
+@practice 1 --------------------------
+hi, i am mike, what is your name?.
+hi mike. my name is aisha. 
+it's nice to meet you aisha. 
+nice to meet you too. 
+how are you? 
+i am fine thank you. how about you?.
+i fine too. who is she?. is she maria?.
+yes, he is maria. 
+who is he?. is he romio? 
+yes, he is romio.
+
+@learn 2----------------------------------------
+i am not mike 
+
+i am.
+i am not.
+you are not. 
+he is not.
+she is not.
+
+am i not?.
+aren't you?.
+isn't he?.
+isn't she?.
+
+i am mike .
+i am not mike .
+you are not aisha. 
+he is not romio.
+she is not maria.
+
+am i not mike?.
+aren't you aisah?.
+isn't he romio?.
+isn't she maria?.
+
+my.
+my name.
+not my name.
+not your name.
+not his name.
+not her name. 
+
+my name is mike .
+my name is not mike.
+your name is not aisha.
+his name is not romio.
+her name is not maria.
+
+isn't my name mike?. 
+aren't your name aisha?.
+isn't his name romio?.
+isn't her name maria?. 
+
+mike is my name. 
+mike is not my name. 
+aisha is not your name. 
+romio is not his name. 
+maria is not her name.
+
+is mike not my name?.
+is aisah not your name?.
+is romio not his name?.
+is maria not her name?. 
+
+
+@practice 2 
+hi aisah, how are you?. 
+i am fine, thakyou, how about you?. 
+i am fine too. who is he? is he romio?. 
+no, he is not romio. 
+what is his name?. is his name bob?. 
+no, his name is not bob. 
+isn't he ahmed?.
+no, he is not ahmed. 
+isn't his name james?. 
+no, his name is not james. his name is john .
+who is she? is she maria? 
+no, she is not maria. 
+is her name jane?.
+no, her name is not jane.
+isn't her name sitti? 
+no, he name is not sitti. 
+what is her name? 
+her name is tina. 
+
+
+test 2 
+
+-------------------------------------------------------------------------------------
+learn 1 
+i am mike 
+
+i, you, he she 
+i am, you are , he is , she is 
+i am mike, you are aisha, he is romio, she is maria 
+
+hi, i am mike, hi, i am  aisha, hi, i am romio, hi, i am maria 
+
+who
+who am i, who are you, who is he? who is she? 
+
+am i, are you, is he, is she 
+am i mike, are you aisha, is he romio, is she maria 
+
+@conver 
+who are you?, 
+hi, i am mike. 
+who is he?. 
+he is romio, 
+who is she? 
+she is maria 
+
+my, your, his, her 
+name
+my name, your name, her name, his name, 
+my name is mike, your name is aisha, his name is romio, her name is maria 
+
+what 
+what is my name? what is your name? what is her name? what is his name? 
+
+is my name? is your name? is her name? is his name? 
+is my name mike? is your name aisah? is his name romio? is her name maria? 
+
+@conver 
+hi, i am mike, 
+what is your name?. 
+hi, my name is aisha
+who is she? 
+she is maria 
+who is he? 
+he is romio 
+
+@extra 
+who is he? 
+he my brother 
+what is his name? 
+his name is romio 
+is he a student? 
+yes, he is a student 
+who is she? 
+she is my sister. her name is maria 
+is she also a student? 
+no, she is not a student. she had a job. 
+what is her job? 
+she is a doctor. she works at the hospital. 
+and your mother? 
+my mother? she is a teacher.
+what is her name? 
+her name is sitti 
+
+
+@askeach review  
+
+---------------------------------------------------------
+learn 2 
+i am not mike 
+
+not 
+not me, not you, not him, not her 
+
+i am
+i am not, you are not, he is not, she is not 
+
+i am mike 
+i am not mike, you are not aisha, he is not romio, she is not maria 
+
+am i?
+am i not? are you not? is he not? is she not? 
+
+am i mike? 
+am i not mike? are you not aisha? is he not romio? is she not maria? 
+
+no 
+yes 
+
+@conver 
+hi, i am mike. what is your name? 
+hi mike, my name is aisha. 
+who is he?. isnt he romio? 
+no, he is not romio. 
+is he bob?
+yes, he is bob 
+
+my name 
+not my name, not your name, not his name, not her name 
+
+my name is mike 
+my name is not mike, your name is not aisha, his name is not romio, her name is not maria 
+
+is my name mike 
+isnt my name mike? arent your name aisha? isnt his name romio? isnt her name maria 
+
+
+@conver 
+hi aisha how are you? 
+hi mike, i am fine thankyou 
+who is she? isnt her name maria? 
+no, her name is not maria  
+what is her name? 
+her name is jane 
+who is he? isnt his name romio? 
+no, his name is not romio 
+what is his name?
+his name is bob 
+
+@extra 
+who is that woman? is that your sister? 
+no, that is not my sister. 
+who is she then? do you know her?
+yes i know her. she is my frined.
+do you know her name?
+of course, i know her name. her name is jane. 
+she worked here. she sells fruits. 
+she is young.
+yes, she is very young 
+
+ 
+

@@ -1,0 +1,88 @@
+
+@tprs./
+i am coming/
+i am coming home tomorrow/
+my father is coming this way/
+you are coming to the office/
+where am i going?/
+can you tell me where i am going?/
+am i going to the office?/
+yes, i am going to the office/
+where is my father? do you see my father?/
+yes, that is my father. what is he doing?/
+do you know what he is doing?/
+is he coming to the office?/
+yes, he is coming to the office/
+who is coming with him?/
+is his friend coming with him to the office?/
+yes, his friend is coming with him to the office/
+they are both coming to the office/
+are they coming now or later?/
+when do you think they will come?/
+yes, they are coming right now/
+how about me? am i coming or leaving?/
+yes, i am coming and i am not leaving/
+where am i coming? am i coming to the office?/
+no, i am not coming to the office. i am coming home/
+i am leaving the office and i am going home/
+why am i going home and leaving the office?/
+because today is my day off/
+i have nothing to do at the office/
+but i have things to do at home/
+i need to make my project/
+so that is why i am coming home/
+am i coming home with someone?/
+no, i am not coming home with anybody/
+i am coming home alone/
+i need to do a lot of things at home/
+i need to clean my room/
+i need wash my clothes/
+i need to do my project/
+and then tomorrow i will go back to the office/
+i am leaving the house again tomorrow/
+
+
+@chat./
+where are you Aisha?/
+B: i am at home?/
+are you coming?/
+B: yes, i am coming/
+are you coming alone?/
+B: no, i am not coming alone. Putri is coming with me/
+Putri is also coming with you?. that is great/
+B: how about you? do you come as well?/
+yes, i am also coming/
+when will the party start?/
+B: the party will start tomorrow/
+B: when will you come?/
+after i finish my homework/
+B: you have a homework?/
+yes, i have a lot of homework to do. i need to finish it/
+B: when will you finish your homework?/
+i will finish my homework as soon as i can/
+B: make sure to come early okay/
+sure i will. i just need to work fast/
+B: don't be so late/
+sure, i will come early/
+
+@tprs./
+they are coming to the hotel/
+who is coming the to hotel?/
+is it my parent?/
+yes, my parent are coming to the hotel/
+they are bringing gifts for me/
+when will they come?/
+do you know when will they come?/
+are they coming today or tomorrow?/
+no, they are not coming today or tomorrow/
+they are coming next week/
+why are they coming?/
+do they want to visit me?/
+yes, they wanted to visit me/
+why should they come next week. why not today?/
+is it because they are busy this week?/
+yes, it is because they are really busy this week/
+only next week they are not busy/
+
+
+

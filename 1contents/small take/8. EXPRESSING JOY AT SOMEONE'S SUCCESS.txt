@@ -1,0 +1,68 @@
+@chat./
+A: Did you hear the good news?/
+
+B: No, I haven't./
+
+A: I got a promotion at my job./
+
+B: Did you really?/
+
+A: Seriously, I am so excited./
+
+B: Well, congratulations./
+
+A: Thank you./
+
+B: I'm so happy for you./
+
+A: Really?/
+
+B: Yes. You really deserved this./
+
+A: You think so?/
+
+B: Yes. Good for you./
+
+A: Have you heard my good news?/
+
+B: You haven't told me anything yet./
+
+A: I got a promotion at work earlier this week.
+
+B: Is that right?/
+
+A: It's the truth. I am really happy./
+
+B: Congratulations on your promotion./
+
+A: Thank you very much./
+
+B: I am really excited for you./
+
+A: Are you really?/
+
+B: I'm serious. You deserved this promotion./
+
+A: Is that what you really think?/
+
+B: Yes, I do./
+
+A: I haven't told you what happened yet, have I?/
+
+B: I haven't heard anything./
+
+A: My boss offered me a promotion, and I took it./
+
+B: Are you serious?/
+
+A: Yes, I am really excited./
+
+B: That's great. Congratulations./
+
+A: I appreciate that./
+
+B: You have no idea how happy I am for you./
+
+A: For real?/
+
+B: I believe you were the best choice for that promotion. I really do./

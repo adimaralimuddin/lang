@@ -1,0 +1,77 @@
+
+
+@tprs./
+go/
+i am going/
+today, i am going to the hospital/
+where am i doing?/
+do you know where am i going?/
+can you tell me where i am going?/
+am i going to the hospital?/
+yes, i am going to the hospital/
+why am i going to the hospital?
+what's the reason why?/
+am i sick?/
+yes, i don't feel very well/
+i need to go to the hospital to see a doctor/
+can i go?/
+can i go to the hospital?/
+of course i can go to the hospital/
+Roni is going with me to the hospital today/
+shall we go tomorrow or today?/
+what do you think?/
+do you think i should go today or tomorrow?/
+i think i should go today right?/
+yes, it's better if i go today/
+who am i going with?/
+am i going alone?/
+or course no, i cannot go alone to the hospital/
+i needed someone to go with me/
+who is that someone? do you know that someone?/
+yes, he is ROni. he is going with me today/
+and where are we going? are we going to the hospital?/
+yes, today we are going to the hospital together/
+can we go to the hospital together?/
+absoulutely yes, we can go to the hospital together/
+
+@chat./
+B: hi Dewi, what are you doing today?/
+hi Bob, i am not feeling very well/
+B: are you sick? are you going to the hospital today?/
+yes, i am sick. i am going to the hospital today/
+B: are you going alone?. can you go alone to the hospital?/
+no, i cannot go alone to the hospital/
+i need someone to go with me/
+B: who is with you? is there anyone going with you?/
+B: i can go with you if you want to/
+really! do you really want to go with me to the hospital?/
+B: sure, i will help you go to the hospital/
+when should we go? when do you have a free time?/
+B: i have free time today. we can go today if you want/
+do you think we should go today or tomorrow?/
+B: i think it's better if we should go today/
+okay we will go later. i will tell you when it's time/
+B: okay, i'll be here.
+
+@tprs./
+how can i go there?/
+can i go there or not?/
+is it easy to go there or is it hard?/
+i do not know how to go there/
+what do i do to go there?/
+should i take a bus or train?/
+i really want to go there/
+but it is not easy to go there/
+why is not easy to go there?/
+is it because the road is very dangerous?/
+yes, the road is very dengerous/
+do i have a car to get there?/
+yes, i have a car to get there but the road is very dengerous/
+my car cannot go there/
+i really need to go there but i do not know how/
+do you have any idea how?/
+can we go there by sea?/
+of course not, we cannot get there by sea/
+
+
+

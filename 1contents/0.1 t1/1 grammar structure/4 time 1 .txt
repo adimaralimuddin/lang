@@ -1,0 +1,54 @@
+
+@tprs./
+i am eating an apple/
+i am eating an apple today/
+i am eating a delicious apple today/
+i am eating a delicious red apple today/
+i am eating a red apple on a restaurant today/
+i am eating a red apple with my friend on a restaurant today/
+i always eat a delicious apple on a restaurant today/
+i often eat a delicious apple on a restaurant today/
+i never eat a delicious apple on a restaurant today/
+i sometimes eat a delicious apple on a restaurant today/
+i usually eat a delicious apple on a restaurant today/
+i want to eat an apple with my father on a restaurant today/
+i want to eat a delicious apple with my mother on a restaurant today/
+i really want to eat an apple with my father on a restaurant today/
+i really want to eat a delicious apple with my mother on a restaurant today/
+i always want to eat an apple with my father on a restaurant today/
+i always want to eat a delicious apple with my mother on a restaurant today/
+i often want to eat an apple with my father on a restaurant today/
+i often want to eat a delicious apple with my mother on a restaurant today/
+i never want to eat an apple with my father on a restaurant today/
+i never want to eat a delicious apple with my mother on a restaurant today/
+i sometimes want to eat an apple with my father on a restaurant today/
+i sometimes want to eat a delicious apple with my mother on a restaurant today/
+i usually want to eat an apple with my father on a restaurant today/
+i usually want to eat a delicious apple with my mother on a restaurant today/
+i can eat a delicious apple with my friend on a restaurant today/
+i can eat a delicious red apple with my sister on a restaurant today/
+
+i will eat an apple tomorrow/
+i will eat a delicious apple tomorrow/
+i will eat a delicious red apple tomorrow/
+i will eat a red apple on a restaurant tomorrow/
+i will eat a red apple with my friend on a restaurant tomorrow/
+i want to eat an apple with my father on a restaurant tomorrow/
+i want to eat a delicious apple with my mother on a restaurant tomorrow/
+i really want to eat an apple with my father on a restaurant tomorrow/
+i really want to eat a delicious apple with my mother on a restaurant tomorrow/
+i always want to eat an apple with my father on a restaurant tomorrow/
+i always want to eat a delicious apple with my mother on a restaurant tomorrow/
+i can eat a delicious apple with my friend on a restaurant tomorrow/
+i can eat a delicious red apple with my sister on a restaurant tomorrow/
+
+i ate an apple yesterday/
+i ate a delicious apple yesterday/
+i ate a delicious red apple yesterday/
+i ate a red apple on a restaurant yesterday/
+i ate a delicious red apple with my friend on a restaurant yesterday/
+i ate a delicious green apple with my father on a restaurant yesterday/
+i ate a delicious yellow apple with my mother on a restaurant yesterday/
+i ate a delicious yellow banana with my sister on a restaurant yesterday/
+i ate a delicious blue cake with my brother on a restaurant yesterday/
+i ate a delicious green cake with vanilla with my brother on a restaurant yesterday/

@@ -1,0 +1,84 @@
+
+
+@tprs./
+where?/
+where is the apple??
+do you know?/
+do you know where is the apple?/
+do you see the apple?/
+do you see where the apple is?/
+yes, the apple is on the table/
+this is a table/
+and the apple is on the table/
+under the table/
+the apple is under the table/
+behind the chair/
+the apple is behind the chair/
+this is a chair/
+where is the apple?/
+is the apple behind the chair?/
+yes, the apple is behind the chair/
+is the apple stil behind the chair?/
+no, the apple is no longer behind the chair/
+is the apple under the table?/
+yes, the apple is under the table/
+this is a glass/
+these are glasses/
+these are two glasses/
+between the glasss/
+the apple is between the glasses/
+the red apple is between the glasses/
+the delicious red apple is between the glasses/
+the delicious red apple is between the two glasses/
+where is the delicious red apple?/
+do you see?/
+do you see the delicious apple?/
+do you see the delicious red apple?/
+is the delicious red apple between the two glasses?/
+yes, the delicious red apple is between the two glasses/
+is the delicious yellow apple under the table?/
+yes, the delicious yellow apple is under the table/
+is the delicious green apple on the table?/
+yes, the delicious green apple is on the table/
+is the small red apple behind the chair?/
+no, the small red apple is not behind the chair/
+is the big green apple in front of the table?/
+yes, the big green apple is in front of the table/ 
+
+
+@tprs./
+the apple and the banana/
+the apple and the banana are on the table/
+the apple and the banana are under the table/
+the apple and the banana are behind the table/
+where are the apple and the banana?/
+are the apple and the banana on the table?/
+no, the apple and the banana are not on the table/
+are the banana and the apple between the chairs?/
+no, the banana and the apple are not between the chair/
+the yellow banana is on the table and the delicious green apple is under the chair/
+is the yellow banana under the chair or on the table?/
+the yellow banana is on the table and the green apple is under the table/
+this is a coffee/
+this is a coffee with cream/
+that is a cake/
+that is a cake with vanilla/
+this is a cake with vanilla and a coffee with cream/ 
+is this a cake with vanilla or a coffee with cream?/
+yes, this is a cake with vanilla/
+this is not a coffee with cream/
+is this a coffee with cream or a cake with vanilla?/
+yes, this is a coffee with cream and not a cake with vanilla/
+this is a delicious cake with vanilla and a delicious coffee with cream/ 
+that is a delicious green cake with vanilla and a delicious yellow coffee with cream/
+is that a delicious yellow coffee with cream or a delicious green cake with vanilla?/
+yes, that is a delicious yellow coffee with cream/
+and that is not a delicious green cake with vanilla/ 
+
+
+
+@ask./
+under.on.at.behind.between
+
+@ask./
+delicious.red.blue.green.yellow.big.

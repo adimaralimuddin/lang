@@ -1,0 +1,139 @@
+lesson 7 
+verb 
+
+intro i eat an apple 
+
+@word.
+eat.
+i eat.
+
+@word.
+apple.
+eat an apple.
+eat the apple.
+eat this apple.
+eat that apple.
+
+@word.
+i eat.
+i eat apple.
+i eat an apple.
+i am eating this apple.
+i am eating that apple. 
+
+@ask.
+eat.
+i eat.
+apple.
+eat an apple.
+i eat an apple.
+
+
+@word.
+who?.
+who is eating?.
+who is eating an apple?.
+
+@word.
+who is eating this apple?.
+who is eating that apple?.
+
+@ask.
+eat.
+i eat.
+i eat an apple.
+
+@word.
+what?.
+what am i doing?.
+what am i eating?.
+
+@word.
+am i eating?.
+am i eating apple?.
+am i eating the apple?.
+am i eating an apple?.
+
+@ask.
+eat.
+what.
+who.
+i eat.
+
+@ask.
+who is eating?.
+what are you eating?.
+what are you doing?.
+
+@chat./
+1 hi mike, what is that?/
+2 this is an apple./
+1 what are you doing?/
+2 i am eating./
+1 what are you eating?/
+2 i am eating an apple./
+1 is it delicious?/
+2 yes, it is very delicious./
+2 do you want some?/
+1 sure, thanks 
+
+------------------------------------------------------------
+
+@word.
+my apple.
+i eat my apple.
+i eat your apple.
+i eat his apple.
+i eat her apple.
+
+@tprs./
+this is an apple./
+this apple is very delicious./
+
+
+@word.
+you.
+you eat.
+you eat an apple.
+you eat this apple.
+you eat that appple.
+
+@word.
+what?.
+are you eating?.
+what are you eating?.
+are you eating an apple?.
+are you eating this apple?.
+
+@word.
+you eat my apple.
+you eat your apple.
+you eat his apple.
+you eat her apple.
+
+@word.
+are you eating my apple?.
+are you eating your apple?.
+are you eating his apple?.
+are you eating her apple?.
+
+@word.
+he eats my apple.
+he eats your apple.
+he eats his apple.
+he eats her apple.
+
+@word.
+brother.
+my brother.
+my brother's apple. 
+
+@word.
+i am eating.
+i am eating my brother's apple. 
+
+
+
+negation i am not eating an apple 
+
+

@@ -1,0 +1,77 @@
+@tprs./
+stay /
+i am staying/
+am i staying?/
+yes, i am staying at my house/
+why am i staying?/
+because it is my house/
+i am inside my house/
+i am studying/
+what am i studying?/
+do you know what i am studying?/
+am i studying a language?/
+yes, i am studying a language/
+so that is why i am staying at my house/
+i am staying inside my room today/
+can i stay outside?/
+of course i can stay outside/
+but i don't want to stay outside/
+i want to stay inside/
+why do i want to stay inside?/
+becuase i can study inside my room/
+can i study outside the house?/
+no, i cannot study outside the house/
+why can't i study outside?/
+because it's too noisy outside/
+so i am staying inside/
+
+@chat./
+hi bob, where are you?/
+B: i am at the hotel/
+why are you still at the hotel?/
+are you staying at the hotel right now?/
+B: yes, i am staying at the hotel/
+why are you staying at the hotel?/
+why are you not coming home today?/
+B: i have works to do here/
+B: my friend needs my help/
+B: i have to help my friend/
+when will you come?/
+B: i think i will go home tomorrow/
+are you staying there tonight?/
+B: yes, i am staying here tonight/
+but you will come tomorrow?/
+B: yes, i am going home tomorrow/
+B: i am not staying here tomorrow/
+okay, just tell me if you are going/
+B: sure, i will tell you soon/
+okay bye/
+
+@tprs./
+they are staying on the island/
+my father and my mother are staying on that island/
+they love that island/
+they want to stay there for sometimes/
+i do not know when will they come/
+are they on that island?/
+yes, they are on that island they are not in the city/
+why are they on that island?/
+can you tell me why are they staying on that island?/
+yes, becuase they love that island/
+they want to spend sometimes on that island/
+when will they leave the island?/
+do you know when will they leave that island?/
+can you tell me when will they leave the island?/
+no, you don't know when will they leave/
+me too. i do not know when will they leave the island/
+how long will they stay on that island?/
+are they staying for a very long time?/
+no, they are not staying for a very long time/
+they are only spending sometimes on that island/
+they will be coming home sooner or later/
+they will call me when it is time/
+
+
+
+
+

@@ -1,0 +1,106 @@
+room 1 
+
+@tprs./
+this is a room/
+this room is very spacious/
+this room is pink/
+the color of this room is pink/
+this is my room/
+am i in my room?/
+yes, i am inside my room/
+this is a bed. my bed/
+i am on my bed/
+what am i doing on my bed?/
+am i cooking?/
+no, i am not cooking. i am sleeping/
+i am sleeping on my bed/
+this is a pellow. this is my pellow/
+how many pellow are there?/
+what do you see?/
+do you see one pellow?/
+no, how many pellow?/
+how many pellow do you see?/
+do you see two pellows?/
+yes, there are two pellows/
+i have two pellows/
+where are the pellows?/
+are the pellows at the kitchen?/
+no, the pellows are not at the kitchen/
+is the pellows on the bed?/
+yes, the pellows are on the bed. the pellows are on my bed/
+is this a pellow?/
+no, this is not a pellow/
+is this a blanket?/
+yes, this is a blanket. this is my blanket/ 
+when i sleep, i put on a blanket/
+where is the blanket?/
+is the blanket on my bed?/
+yes, the blanket is on my bed/
+what is the color of this blanket?/
+is this blanket white?/
+yes, this blanket is white/
+how about this one?/
+do you know what this one is?/
+is this a pellow?/
+no, it is not a pellow/
+is this a bed?/
+no, it is not a bed/
+is this a drawer?/
+yes, this is a drawer/
+this is my drawer/
+what is the color of this drawer?/
+is this drawer white?/
+no, this drawer is not white/
+is this drawer brown?/
+yes, this drawer is brown/
+i am opening my drawer/
+what is inside the drawer?/
+what do you see?. do you see anything?/
+no, there is nothing/
+there is nothing in my drawer/
+there is nothing in my drawer yet/
+now, i am closing my drawer/
+my drawer is now closed/
+is my drawer opened?/
+no, my drawer is not opened/
+my drawer is closed/
+what is this?. do you know what this is?/
+is this a drawer?. no, it is not a drawer/
+is this a closet?/
+yes, this is a closet/
+this is my closet/
+i am opening my closet/
+what is inside my closet?/
+is there anything?/
+is there anything inside?/
+is there anything inside my closet?/
+yes, there are/
+what are there?/
+are there clothes?/
+yes, there are clothes/
+there are clothes in my closet/
+how many?/
+how many clothes?/
+how many clothes are there?/
+are there many clothes?/
+yes, there are many clothes/
+there are many clothes in my closet/
+this is my window/
+i am looking/
+i am looking through the window/
+i am looking through my window/
+this is a picture/
+this is my picture/ 
+i have many pictures/
+where is my picture?/
+do you see where my picture is?/
+are they on the walls?/
+yes, my pictures are on the walls/
+i put them/
+i put them on the walls/
+i put my pictures on the walls/
+what am i doing?/
+am i putting?/
+am i putting my pictures on the wall?/
+yes, i am putting my pictures on the walls/
+

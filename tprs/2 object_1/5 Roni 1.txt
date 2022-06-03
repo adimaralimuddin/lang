@@ -1,0 +1,67 @@
+roni 1 
+
+@tprs./
+this is roni/
+he is my brother/
+he is a boy/
+what is his name?/
+do you know his name?/
+yes, you do know his name/
+tell me his name/
+can you tell?/
+can you tell me his name?/
+yes, you can/
+you can tell me his name/
+is his name Putri?/
+no, his name is not putri/
+is his name Roni?/
+yes, his name is Roni/
+is he a girl?/
+no, he is not a girl/
+do you know his gender?/
+yes, you do know his gender/
+tell me his gender/
+can you tell me his gender?/
+yes, you can tell me his gender/
+is his gender female?/
+no, his gender is not female/
+is his gender male?/
+yes, his gender is male/
+is he a girl?/
+no, he is not a girl/
+is he a boy?/
+yes, he is a boy/
+is he my friend?/
+no, he is not my friend/
+is he my mother?/
+no, he is not my mother/
+is he my sister?/
+no, he is not my sister/
+he is not my friend or my mother or my sister/
+is he my brother?/
+yes, he is my brother/
+he is Roni and hi is my brother/
+now, where is Roni/
+do you see Roni?/
+yes, you do see Roni/
+where is he?/
+is he inside the houes?/
+no, he is not inside the house/
+is he in the kitchen?/
+no, he is not in the kitchen or inside the house/
+is he outside the house?/
+yes, he is outside the house/
+where is he outside?/
+where is he outside the house?/
+is he on the street?/
+yes, he is on the street/
+what is he doing?/
+what is he doing on the street?/
+is he studying?/
+no, he is not studying/
+he is not studying on the street/
+is he walking on the street?/
+yes, he is walking on the street/
+
+
+

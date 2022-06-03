@@ -1,0 +1,119 @@
+1 lesson 
+1 start
+1 intro
+
+@tprs./
+hi, i am Dewi./
+i am a girl/
+this is Roni/
+he is a boy/
+he is my brother/ 
+is Roni a girl?/
+no, Roni is not a girl/
+is Roni a boy?/
+yes, Roni is a boy/
+am i a boy?/
+no, i am not a boy/
+i am a girl/
+what is my name?/
+is my name Roni?/
+no, my name is not Roni/
+is my name Dewi?/
+yes, my name is Dewi/
+this is Putri/
+she is a girl/
+she is my sister/
+is she a boy?/
+no, she is not a boy/
+is she a girl?/
+yes, she is a girl/
+what is her name?/
+is her name Roni?/
+no, her name is not Roni/
+her name is Putri/
+is she my brother?/
+no, she is not my brother/
+Roni is my brother/
+is she my sister?/
+yes, she is my sister/
+who is he?/
+is he Dewi?/
+no, he is not Dewi/
+i am Dewi/
+is he Roni?/
+yes, he is Roni/
+is he a girl?/
+no, he is not a girl/
+is he a boy?/
+yes, he is a boy/
+is he my sister?/
+no, he is not my sister/
+Putri is my sister/
+is he my brother?/
+yes, he is my brother/
+who is she?/
+is she Roni?/
+no, she is not Roni/
+this is Roni/
+is she Putri?/
+yes, she is putri./
+is she a boy?/
+no, she is not a boy/
+what is she?/
+is she a girl?/
+yes, she is a girl/ 
+is she my brother?/
+no, she is not my brother/
+Roni is my brother/
+is she my sister?/
+yes, she is my sister/
+who am i?/
+what is my name?/
+am i Roni?/
+no, i am not Roni/
+am i Putri?/
+no, i am not Putri/
+am i Dewi?/
+yes, i am Dewi. my name is Dewi/
+what am i?/
+am i a boy?/
+no, i am not a boy/
+am i a girl?/
+yes, i am a girl/
+this is Roni and Putri/
+this is me, and my name is Dewi/
+
+@chat./
+Hello./
+2 hi/
+how are you?/
+2 i am fine. how about you?/
+i am fine. what is your name?/
+2 my name is Roni/
+what are you?/
+are you a girl?/
+2 no, i am not a girl/
+what are you?/
+are you a boy?/
+2 yes, i am a boy/
+are you my sister?/
+2 no, i am not your sister/
+are you my brother?/
+2 yes, i am your brother/
+who is she?/
+is she Putri?/
+2 yes, she is putri/
+2 her name is putri/
+is she a boy?/
+2 no, she is not a boy/
+is she a girl?/
+2 yes, she is a girl/
+is she my brother?/
+2 no, she is not your brother/
+is she my sister?/
+2 yes, she is your sister/
+is she your sister?
+2 yes, she is also my sister/
+bye Roni/
+2 bye Dewi/
+

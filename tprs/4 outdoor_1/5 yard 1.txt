@@ -1,0 +1,96 @@
+
+yard 1
+
+@tprs./
+this is the yard/
+this is our yard/
+this yard is so big/
+i am on the yard/
+what am i doing in the yard/
+am i running?/
+yes, i am running/
+what am i doing in the yard/
+am i gardening?/
+yes, i am gardening/
+am i climbing?/
+yes, i am climbing/
+i am climbing the tree/ 
+this are ladder/ 
+what am i doing?/
+am i climbing on a ladder?/
+yes, i am climbing on a ladder/ 
+i am falling/
+am i falling?/
+yes, i am falling/
+where am i falling?/
+am i falling into the ground?/
+yes, i am falling into the ground/
+this is a ball/ 
+this is my ball/
+this ball is yellow/
+what am i doing with the ball?/
+am i kicking the ball?/
+yes, i am kicking the ball/
+what is she doing?/
+is she throwing the ball?/
+yes, she is throwing the ball/
+what is he doing?/
+is he catching the ball?/
+yes, he is catching the ball/
+she throws the ball and he catches it/
+am i sitting on a ball?/
+yes, i am sitting on a ball/
+i am playing with the ball/
+what am i doing?/
+am i playing with the ball?/
+yes, i am playing with the ball/
+what are we doing?/
+are we playing?/
+yes we are playing/
+are we playing with the ball?/
+yes, we are playing with the ball/
+where are we playing?/
+are we playing in the yard?/
+yes, we are playing in the yard/
+are we playing with the ball in the yard?/
+yes, we are playing with the ball in the yard/
+this is a bench/
+and this is a fence/
+this fence is short/
+can i go?/
+can i go near the fence?/
+yes, i can go near the fence/
+i am near the fence/
+i am standing near the fence/
+can i jump?/
+can i jump over the fence?/
+yes, i can jump over the fence/
+why can i jump over the fence?/
+is it because the fence is short?/
+yes, i can jump over the fence because the fence is short/
+now, i am jumping/
+i am jumping over the fence/
+am i jumping over the fence?/
+yes, i am jumping over the fence/
+i am standing and jumping over the fence/
+why am i jumping?/
+why am i jumping over the fence?/
+is it fun?/
+is it because it is fun?/
+yes, it is fun/
+this is a bush/
+where is Roni?/
+is Roni behind the bush?/
+yes, Roni is behind the bush/
+what is he doing?/
+what is he doing behind the bush?/
+do you know what is he doing behind the bush?/
+is he hiding?/
+yes, he is hiding/
+where is he hiding?/
+do you know where he is hiding?/
+is he hiding behind the bush?/
+yes, he is hiding behind the bush/
+is he happy?/
+yes, he is very happy/
+

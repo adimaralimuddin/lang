@@ -1,0 +1,214 @@
+
+text color for verb, pronoun and noun, prepositon etc..
+text must be clicable with lib as value or the dic as second option
+
+@chat./
+hello. i am dewi /
+i am a girl/
+what am i?/
+am i a boy?/
+no, i am not a boy./
+i am a girl./
+
+@chat./
+what is this?/
+this is an apple./
+what is this?/
+is this an apple?/
+no, this is not an apple/
+what is this?/
+this is an orange./
+
+@chat./
+this is roni./
+roni is a boy/
+who is he?/
+is he dewi?/
+no, he is not dewi/
+is he roni?/
+yes, he is roni./
+
+roni eats/
+roni eats an apple/
+roni drinks/
+roni drinks some water/
+
+what does roni do?/
+is Roni eating?/
+no, Roni is not eating/
+what does roni do?/
+is Roni drinking?/
+yes, roni is drinking./
+
+@pair.
+what.who.
+@pair.drink.eat. 
+@pair.apple.water. 
+
+@chat./
+roni drinks./
+what is roni drinking?/
+is roni drinking an apple?/
+no, roni is not drinking an apple./
+what is he drinking?/
+roni is drinking some water/
+
+
+------------------------------------------------
+
+@tprs./
+hello. i am dewi/
+i am a girl/
+what am i/
+am i a boy?/
+no, i am not a boy/
+am i a girl?/
+yes, i am a girl /
+
+@tprs./
+this is romio/
+he is a boy/
+what is he?/
+is he a girl?/
+no, he is not a girl/
+he is a boy/
+what is his name?/
+is his name dewi?
+no, his name is not dewi/
+is his name roni?/
+yes, his name is roni.
+
+@tprs./
+what is this?/
+this is an apple/
+what is this?/
+is this an apple?/
+no, this is not an apple/
+what is it?
+it is an orange/
+this is an apple/
+and this is an orange/
+this is an apple and an orange.
+
+@chat./
+roni eats/
+roni eats an apple/
+what is romio doing?/
+is romio eating?/
+yes, romio is eating/
+what is he eating?/
+is he eating an apple?/
+yes, he is eating an apple/
+what is he eating?/
+is he eating an apple?/
+no, he is not eating an apple/
+what is he eating?/
+he is eating an orange/ 
+
+------------------------------
+
+@chat./
+this is tom/
+tom is a cat/
+tom is my cat/
+is tom a cat?/
+yes, tom is a cat/
+is tom a mouse?/
+no, tom is not a mouse. tom is a cat.
+
+@chat./
+tom is sleeping/
+what does tom doing?/
+is tom #sleeping?/
+yes, tom is sleeping/
+what does tom doing?/
+is tom sleeping?/
+no, tom is not sleeping/
+what is tom doing?/
+tom is eating/
+what is tom eating?/
+is tom eating an apple?/
+no, tom is not eating an apple/
+is tom eating an orange?/
+no, tom is not eating an orange/
+what is tom eating?/
+tom is eating a fish/
+is tom eating a fish?/
+yes, tom is eating a fish.
+
+@chat./
+this is a table/
+what is this?/
+is this a table?/
+no, this is not a table. this is a chair./
+where is tom?/
+is tom at the table?/
+yes, tom is at the table/
+is tom at the table?/
+no, tom is not at the table/
+where is tom?/
+tom is on a chair/
+what is tom doing?/
+is tom eating?/
+no, tom is not eating/
+is tom sleeping?/
+yes, tom is sleeping/
+where is tom sleep?/
+is tom sleeping at the table?/
+no, tom is not sleeping at the table/
+is tom sleeping on a chair?/
+yes, tom is sleeping on a chair.
+
+--------------------------------------
+
+@tprs./
+eat /
+eat an apple /
+he eats an apple/
+she eats an apple/
+romio eats an apple./
+sitti eats an apple/
+what is she doing?/
+is she eating?/
+yes, she is eating/
+what is she eating?/
+is she eating an apple?
+yes, she is eating an apple./
+what is he eating?/
+is he eating an apple?/
+no, he is not eating an apple/
+what is he eating?/
+is he eating an orange?/
+yes, he is eating an orange/
+
+what is she doing?/
+is she eating?/
+no, she is not eating. she is drinking/
+drink./
+i drink/
+he drinks/
+she drinks/
+you drinks/
+what is he doing?/
+he is drinking/
+what is she doing?/
+is she drinking?/
+yes, she is drinking/
+what is she drinking?/
+is she drinking some water?/
+yes, she is drinking some water/
+water./
+what is this?/
+this is a water/
+this is a water and an apple/
+what are these?/
+are these apples?/
+no, these are not apples. theses are oranges/
+
+
+
+
+
+
+
+

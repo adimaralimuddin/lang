@@ -1,0 +1,19 @@
+
+@tprs./
+these are foods/
+these are vegetables/
+vegetables are green/
+vegetables are healthy/
+i love to eat vegetables/
+this is a cocumber/
+is cocumber a vegetable?/
+yes, a cocumber is a vegetable/
+this is an apple/
+is apple a vegetable?/
+no, apple is not a vegetable. apples are fruits/
+i love to eat fruits and vegetables/
+i love to eat apples and cocumbers/ 
+apples and cocumbers are healthy/
+they are both a healthy food/
+
+

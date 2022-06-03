@@ -1,0 +1,73 @@
+@chat./
+
+A: Tell me, what do you enjoy doing in your spare time?/
+
+B: I enjoy drawing and painting./
+
+A: You know how to draw and paint?/
+
+B: Yes, I do./
+
+A: When did you learn how to do that?/
+
+B: I learned back in high school./
+
+A: Oh, so you took an art class?/
+
+B: Yeah, I loved that class./
+
+A: I see that you're pretty talented./
+
+B: Thank you very much./
+
+A: I wish I had a talent like that./
+
+B: I'm sure you have a talent. It's just hidden./
+
+A: What kinds of things do you like to do?/
+
+B: I've always liked to draw and paint./
+
+A: I didn't know you knew how to draw and paint./
+
+B: I do it every once in a while./
+
+A: How long have you known how to do that?/
+
+B: I first learned how to do it in high school./
+
+A: Did you take some sort of art class or something?/
+
+B: That was my favorite class./
+
+A: You have got to be talented./
+
+B: Thanks./
+
+A: If only I was talented./
+
+B: You have a talent. You just don't know what it is yet./
+
+A: Are there any hobbies you do?/
+
+B: When I have time, I sometimes draw and paint./
+
+A: Oh, you actually do that?/
+
+B: Every so often, I do./
+
+A: Did you always know how to draw and paint?/
+
+B: I was taught in high school how to draw and paint./
+
+A: You had an art class?/
+
+B: Exactly, it was my favorite class./
+
+A: Well, it's good that you're so talented./
+
+B: I appreciate that./
+
+A: Talent is a great thing, I wish I had one./
+
+B: Everyone has a talent. They just need to find it./

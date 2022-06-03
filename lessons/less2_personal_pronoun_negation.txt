@@ -1,0 +1,575 @@
+lesson 2 personal pronoun negation 
+I AM NOT
+
+
+
+
+
+
+@trps./
+#hello, I am Dewi./
+I am a girl./
+#this is Roni./
+#he is a #boy./
+he is #my #brother./
+
+#what is my #name?/
+do you #know my name?/
+#yes, my name is Dewi./
+
+what is #his name?/
+do you #know his name?/
+#yes, #his name is Roni./
+#he is my #brother./
+
+#this is an #apple./
+this is an #orange./
+#what is this?/
+this is an apple./
+what is this?/
+this is an orange./
+
+Roni #eats./
+Roni eats an apple./
+what is Roni #doing?/
+is Roni eating?/
+yes, Roni is eating./
+#what does Roni #eat?/
+roni is eating an apple./
+
+this is #my #sister./
+#her #name is maya./
+#what is #she doing?/
+she is #eating./
+what is #she eating?/
+she is eating an apple./
+
+romio #and maya #are eating apples./
+
+@pair.what.who.name.
+
+@pair.apple.eat.sister.brother.
+
+----------------------------
+@chat./
+Hi, i am dewi. What is your name?/
+Hi Dewi. My name is simon./
+#How are you Simon?/
+i am fine. #Thank you./
+#Who is he?/
+#He is my #brother./
+#What is his #name?/
+#His #name is ahmed./
+He is #cool. #Who is she?/
+#She is #my #sister./
+What is her #name?/
+Her name is maria. /
+She is #beutiful. /
+#What #time is it dewi?/
+It is #now #one pm  on the #afternoon. /
+i have to go. It is nice to meet you./
+Nice to meet you too./
+
+@word.
+name.my name.your name.
+
+@pair.
+hello.name.nice to meet you.
+
+--------------------------
+@trps./
+this is our #house./
+#that is roni./
+roni is #inside the house./
+
+#where is roni?/
+is roni at #school?/
+#no, roni is #not at #school/
+is roni at the #restaurant?/
+#no, roni is #not at the restaurant.
+#where is roni?/
+roni is #inside the #house./
+
+@pair.
+where.house.school.restaurant.
+@pari.
+yes.no.not.inside.
+
+what is Roni #doing?/
+Roni is #eating./
+what is he eating?/
+he is eating an #apple and an #orange.
+
+this is a #room./
+maya is #inside the #room./
+this is #her room./
+#where is maya?
+is maya #inside the #kitchen?/
+#no, maya is #not #inside the #kitchen./
+is maya at #school?/
+#no, maya is #not at #shcool.
+#where is maya then?/
+maya is #inside her #room.
+
+what is maya doing?/
+she is #sleeping./
+
+this is #my #mother./
+her #name is sitti./
+where is she?/
+do you #know where she is?/
+is she at her #room?/
+no, she is not at her room./
+is she #outside the #house?/
+no, she is #not #outside the house./
+is she at #school?/
+no she is #not at school/
+#where is she?/
+she is at the #kitchen./
+what is she #doing?/
+she is #cooking./
+#what is she #cooking?
+she is cooking #some #fish./
+
+#this is #my #father./
+his #name is aki./
+#where is he?/
+is he #inside the #house?/
+yes, #he is #inside the #house./
+where is he #inside the #house?/
+is he inside his #room?/
+#no, he is #not #inside his room./
+is he at the #kitchen?/
+no, #he is not at the kitchen./
+is he at #school?
+#no, he is #not at school./
+#where is he then?/
+he is at the living room./
+what is he #doing?/
+is #he #eating?/
+no, he is #not eating./
+is he #cooking?/
+no, he is not cooking./
+what is he doing?/
+he is #watching./
+#what is he #watching?/
+#he is #watching #tv. /
+
+-------------------------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+@tprs./
+this is a boy/
+this is roni./
+roni is a boy./
+is roni a boy?/
+yes, roni is a boy./
+this is maya./
+is maya a boy?/
+no, maya is not a boy./
+maya is a girl./
+is roni a boy or a girl?/
+yes, roni is a boy./
+is maya a boy or a gril?/
+yes, maya is a girl./
+
+------------------------------------
+
+@tprs./
+this is tom./
+tom is a cat./
+is tom a boy?/
+no, tom is not a boy./
+what is tom?/
+tom is a cat. /
+where is tom?/
+do you know where tom is?/
+yes, tom is at the kitchen./
+what is tom doing?/
+tom is sleaping. /
+is tom sleeping?/
+yes, tom is sleeping./
+is tom still spleeping?/
+no, tom is not sleeping./
+what is tom doing?/
+tom is eating./
+what is tom eating?/
+tom is eating a fish./
+tom loves fish./
+tom loves to eat fish./
+where is tom?/
+is tom inside the kitchen?/
+no, tom is not inside the kitchen./
+tom is outside the house./
+what is tom doing?/
+tom is playing./
+do you know what is this?/
+yes, this is a ball./
+tom is playing with a ball./
+tom loves to play./
+tom loves to play with a ball./
+
+--------------------------------------
+i have an apple 
+
+@tprs./
+have/
+I have an apple/
+Roni has an apple/
+Maya has an apple./
+
+how many apple do you see?/
+is there one apple?/
+or, are there two apple?/
+yes, there are two apples./
+
+Roni has two apples./
+how many many apples does Roni has?/
+does Roni have one apple?/
+no, Roni does not have one apple./
+does Roni have two apples?/
+yes, Roni has two apples./
+
+what is this?/
+this is a table./
+there are apples on the table./
+where are the apples?/
+the apples are on the tabel./
+there are two apples on the table./
+how many apples are there on the table?/
+yes, there are two apples on the table. /
+
+what is this?/
+do you know what this is?/
+yes, this is a basket. /
+it has one orange./
+is there an orange on the basket?/
+yes, there is an orange on the basket./
+how many orange is on the basket?/
+is there one orange on the basket?/
+or, are there two oranges on the basket?/
+yes, there are two oranges on the basket./
+
+where is the apple?/
+the apple are on the table./
+where are the oranges?/
+the oranges are on the basket. /
+
+how many apples are on the table?/
+there are two apples on the table./
+how many oranges on the basket?/
+there are two oranges on the basket. /
+
+Roni has an apple./
+how many apples does Roni has?/
+Roni has one apples./
+Maya has two oranges./
+how many oranges does Maya has?/
+Maya has two oranges./
+
+-------------------------------------------
+
+
+
+-----------------------------------------------
+
+@word.
+i
+i am.
+i am not.
+
+@word.
+i am mike.
+i am not mike.
+i am not aisha.
+
+@ask.
+i am. i am not. i am mike. i am not mike.
+
+@word.
+my.
+my name.
+not my name.
+
+@word.
+my name is mike.
+my name is not mike.
+my name is not aisha.
+
+@word.
+mike is my name.
+mike is not my name.
+aisha is not my name.
+
+@ask.
+i am. i am not.
+i am mike.i am not mike.
+
+@ask.
+my name.not my name.
+my name is mike. my name is not mike.
+
+@ask.
+mike is my name.mike is not my name.
+
+
+@ask.
+i am.i am not.
+i am mike.i am not mike.
+
+@ask.
+my name. not my name.
+my name is mike.my name is not mike.
+
+@ask.
+name.hi.who.what.
+
+@chat./
+2 hi, i am mike. are you maria?/
+1 no, i am not maria./
+2 is your name jane?/
+1 no, my name is not jane./
+2 what is your name?/
+1 my name is aisha.
+
+@ask.
+i.you.he.she.
+my.your.his.her.
+
+@ask.
+i am.you are.he is.she is.
+
+@ask.
+i am mike.you are mike.he is mike.she is mike.
+
+////////////////////////////////////////////////////////////////
+YOU ARE NOT 
+
+@word.
+you
+you are.
+you are not.
+
+@word.
+you are mike.
+you are not mike.
+you are not aisha.
+
+@ask.
+you are. you are not. 
+you are mike. you are not mike.
+
+@word.
+your.
+your name.
+not your name.
+
+@word.
+your name is mike.
+your name is not mike.
+
+@word.
+mike is your name.
+mike is not your name.
+
+
+@ask.
+you are. you are not.
+you are mike.you are not mike.
+
+@ask.
+your name.not your name.
+your name is mike. your name is not mike.
+
+@ask.
+mike is your name.mike is not your name.
+
+@chat./
+1 excused me, are you mike?/
+2 no, i am not mike./
+1 is your name romio?/
+2 no, my name is not romio./
+1 is james your name?/
+2 no, james is not my name./
+1 what is your name?/
+2 my name is bob./
+
+@ask.
+i.you.he.she.
+my.your.his.her.
+
+@ask.
+i am.you are.he is.she is.
+
+@ask.
+i am mike.you are mike.he is mike.she is mike.
+
+////////////////////////////////////////////////////////////////
+NOT HIM 
+
+@word.
+he
+he is.
+he is not.
+
+@word.
+he is mike.
+he is not mike.
+he is not aisha.
+
+@ask.
+he is. he is not. 
+he is mike. he is not mike.
+
+@word.
+his.
+his name.
+not his name.
+
+@word.
+his name is mike.
+his name is not mike.
+
+@word.
+mike is his name.
+mike is not his name.
+
+@ask.
+he is. he is not.
+he is mike.he is not mike.
+
+@ask.
+his name.not his name.
+his name is mike. his name is not mike.
+
+@ask.
+mike is his name.mike is not his name.
+
+@chat./
+2 hi, i am mike. are you aisha?/
+1 yes, i am aisha./
+2 who is he?/
+2 is he romio?/
+1 no, he is not romio./
+2 is his name bob?/
+1 no, his name is not bob/
+2 is james his name?/
+1 no, james is not his name./
+2 what is his name?/
+1 his name is ahmed.
+
+@ask.
+i.you.he.she.
+my.your.his.her.
+
+@ask.
+i am.you are.he is.she is.
+
+@ask.
+i am mike.you are mike.he is mike.she is mike.
+
+
+@chat./
+2 hi aisha, how are you?/
+1 i am fine mike, thank you./
+2 who is that man? do you know him?/
+1 who? that man?/
+2 yes, that man over there./
+2 do you know his name?/
+1 no, i do not know him./
+2 i do not know what his name is./
+
+////////////////////////////////////////////////////////////////
+NOT HER.
+
+@word.
+she.
+she is.
+she is not.
+
+@word.
+she is mike.
+she is not mike.
+she is not aisha.
+
+@ask.
+she is. she is not. she is mike. she is not mike.
+
+@word.
+her.
+her name.
+not her name.
+
+@word.
+her name is mike.
+her name is not mike.
+
+@word.
+mike is her name.
+mike is not her name.
+
+@ask.
+she is. she is not.
+she is mike.she is not mike.
+
+@ask.
+her name.not her name.
+her name is mike. her name is not mike.
+
+@ask.
+mike is her name.mike is not her name.
+
+@chat./
+1 hi, i am aisha. what is your name?/
+2 hi aisha, my name is mike./
+1 who is that girl?/
+1 do you know her?/
+2 no, i do not know her. /
+1 isn't she romio's sister?/
+2 no, she is not romio's sister/
+
+@chat./
+1 excused me, are you mike?/
+2 no, i am not mike./
+1 is your name romio?/
+2 no, my name is not romio./
+1 is james your name?/
+2 no, james is not my name./
+1 what is your name?/
+2 my name is bob./
+1 who is he?/
+1 is he romio?/
+2 no, he is not romio./
+1 is his name james?/
+2 no, his name is not james./
+1 is ahmed his name?/
+2 no, ahmed is not his name./
+1 what is his name?/
+2 his name is john./
+1 who is she?/
+1 is she maria?/
+2 no, she is not maria/
+1 is her name jane?/
+2 no, her name is not jane./
+1 is dewi her name?/
+2 no, dewi is not her name/
+1 what is her name?/
+2 her name is sitti.
+
+@ask.
+i.you.he.she.
+my.your.his.her.
+
+@ask.
+i am.you are.he is.she is.
+
+@ask.
+i am mike.you are mike.he is mike.she is mike.
+
+@ask.
+i am not.you are not.he is not.she is not.
+
+@ask.
+i am not mike.you are not mike.he is not mike.she is not mike.
+
+@ask.
+my name is not mike.your name is not mike.his name is not mike.her name is not mike.

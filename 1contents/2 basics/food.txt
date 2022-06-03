@@ -1,0 +1,22 @@
+
+@chat./
+Do you like to cook?/
+B: Yes, I do. Cooking helps me feel relaxed after long hours working./
+Is there any kind of food you don’t like?/
+B: I don’t really like fried chicken, which is very high in fat./
+Do you eat out or cook at home?/
+B: I usually cook at home, sometimes when I’m busy, I go out to eat./
+How often do you cook?/
+B: Just when I have free time. My mom is often responsible for preparing meals. She’s the best cook ever./
+What’s your favorite food?/
+B: I’m addicted to sushi. I can eat sushi every day./
+Is it Western or Asian cuisine?/
+B: It’s Asian cuisine. Sushi is derived from Japan./
+Is it easy to make your favorite food?/
+B: Yes, I guess. The recipe is quite simple./
+What ingredients do you need to make that food?/
+B: I would need rice, eggs, meat, seafood, and vegetables./
+What do you think about fast food?/
+B: I don’t really like fast food. It’s not healthy at all./
+Would you say that you have a healthy diet?/
+B: Yes, I would. I prefer eating vitamins, protein and less fat./

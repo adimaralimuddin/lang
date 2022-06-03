@@ -1,0 +1,141 @@
+
+@tprs./
+this is my friend/
+he is a boy/
+he is a very nice friend/
+he has a black hair/
+his eyes are blue/
+he is tall/
+he has a white t-shirt/
+and his pans are blue/
+he is my best friend/
+his name is Joko/
+he is outside his house/
+his house is very huge/
+his house is near our house/
+this is our house and that is his house/
+Joko is walking/
+he is walking on the street/
+he is always walking on the street/ 
+he is coming/
+he is coming to me/
+what is he doing?/
+is he coming towards me or not?/
+yes, he is coming towards me right now/
+when is he coming?/
+is he coming later?/
+no, he is not coming later/
+is he coming right now?/
+yes, he is coming right now/
+he is coming towards me right now/
+he is walking towards me right now/
+he is talking with me/
+is Joko talking with me?/
+yes, Joko is talking with me/
+we are talking to each other/
+
+@chat./
+hi Joki, how are you today/
+B: hi dewi, i am doing well. how about you?/
+hi am fine thank you/
+B: do you want to play?/
+to play?. what play?/
+B: basket ball/
+B: let's play basket ball/
+do you play basket ball?/
+B: yes, i love playing basket ball/
+is it your favorite game?/
+B: yes, it is my favorite game/
+do you really love playing basket ball?/
+B: yes, i really love to play basket ball/
+B: how about you? do you love to play basket ball?/
+yes, i also love to play basket ball/
+B: okay! let's play basket ball together/
+okay! let's go/
+where do we play?/
+B: let us go to my house/
+okay, let's go to your house/
+you play very well basket ball/
+B: thank! you too/
+you win again/
+B: next time, you will win/
+
+@tprs./
+that is Linda/
+she is also my best friend/
+she is a girl/
+she is a very beautiful girl/
+she has a blond hair/
+and her eyes are green/
+she is also tall like Joko/
+she is from french/
+this is the garden/
+this is her garden/
+she is in her garden/
+do you know what she is doing?/
+do you know what she is doing on her garden?/
+is she cleaning on her garden?/
+yes, she is cleaning/
+she is cleaning the garden/
+everyday, she cleans the garden/
+she loves garden/
+she loves to clean the garden/
+her garden is very clean/
+her garden is very clean and beautiful/
+does she love to clean her garden everyday?/
+yes, she really love to clean her garden everyday/
+that is a water/
+she is taking the water/
+what is she doing with the water?/
+do you know what she is doing with the water?/
+is she watering her beautiful garden?/
+yes, she is watering her beautiful garden/
+she loves to water her garden everyday/
+in the morning and in the afternoon/
+that is a sun flower/
+the sun flower is yellow/
+she likes sun flower/
+she likes beautiful sun flowers it's beautiful/
+she likes beautiful sun flowers it's colors are yellow/
+i am going to her/
+i am going to talk to her/
+i am going to ask her/
+i am going to ask her about her garden/
+i am going to ask her about how she loves her garden/
+
+@chat./
+hi Linda, how are you doing today?/
+B: hi Dewi, i am doing well today/
+what are you doing today?/
+are you watering your garden?/
+B: yes, i am watering my garden/
+do you love to water your garden?/
+B: yes, i love to water my garden everyday/
+how often do you water your garden?/
+B: i water my garden very often/
+B: i water them in the morning and in the afternoon/
+what type of flower is this?/
+B: this is a sun flower. it is a very beautiful sun flower/
+do you like sun flower?/
+B: yes, i really love sun flowers/
+why?. why do you like sun flowers very much?/
+B: i like sun flowers very much because of it's color/
+what color is the sun flower?/
+B: the color of the sun flowers are yellow/
+B: and i really love yellow colors/
+B: yellow is my favorite color/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

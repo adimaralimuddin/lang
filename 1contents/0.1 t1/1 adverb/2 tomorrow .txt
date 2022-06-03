@@ -1,0 +1,38 @@
+
+@tprs./
+tomorrow/
+tomorrow is monday/
+tomorrow is saturday/
+tomorrow is friday/
+i am going tomorrow/
+i am going to school tomorrow/
+she is going to the office tomorrow/
+he is going to the airport tomorrow/
+am i going to school today?/
+no, i am not going to school today/
+when?/
+when will i go?/
+am i going to school tomorrow?/
+yes, i am going to school tomorrow/
+can i go to school today?/
+no, i cannot go to school today/
+he will eat/
+he will eat the apple tomorrow/
+will he eat?/
+will he eat the apple today?/
+no, he will not eat the apple today/
+when will he eat the apple?/
+he will eat the apple tomorrow/
+she is leaving/
+she is leaving tomorrow/
+is she leaving today?/
+no, she is not leaving today/
+when is she leaving?/
+she is leaving tomorrow/
+we are going/
+we are going tomorrow/
+we are going to school tomorrow/
+are we going to school today?/
+no, we are not going to school today/
+when are we going to school?/
+we are going to school tomorrow/

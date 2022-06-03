@@ -1,0 +1,66 @@
+
+@tprs./
+leave/
+i am leaving/
+i am leaving the island/
+i am leaving for tokyo/
+i am leaving you/
+i am leaving my friends/
+am i leaving?/
+yes, i am leaving/
+where am i leaving?/
+am i leaving for the island?/
+no, i am not leaving for the island/
+am i leaving for tokyo?/
+yes, i am leaving for tokyo/
+am i coming to my friends?/
+no, i am not coming to my friends/
+am i staying on the island?/
+no, i am not staying on the island. i am leaving the island and my friends/
+who is leaving with me?/
+is there any body want to leave with me?/
+where am i going?. am i going home?/
+yes, i am going home to tokyo/
+
+
+@chat./
+are you leaving?/
+B: no, not yet. i am not leaving today/
+when will you leave?/
+are you leaving to tomorrow?/
+B: no, i am not leaving to tomorrow/
+when will you leave then?/
+B: i will leave next week/
+are you really excited to go back?/
+B: yes, i really wanted to leave this place/
+B: i really want to go back home/
+B: i can't wait to go back/
+why can't you this week?/
+are you busy this week?/
+B: no, i am not busy this week/
+B: i am just waiting for someone/
+who is that someone?/
+B: it's my girlfriend. i am waiting for my girlfriend/
+is she coming with you?/
+B: yes, she will come with me/
+is she staying with you?/
+B: yes, she wants to stay with me/
+B: she wants to go with me where ever i want/
+when will she come?/
+B: maybe about next three days/
+B: i will be waiting for her here/
+that's great. so she is leaving with you/
+where will you stay?/
+B: we will stay at jakarta/
+me too, i want to live in jakarta/
+i want to stay there/
+is it easy to go there?/
+B: yes, it is easy to go and live there/
+can i go there?/
+B: yes, you can go there/
+B: if you want to live and stay there, it is easy/
+
+
+
+
+

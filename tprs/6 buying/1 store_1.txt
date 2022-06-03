@@ -1,0 +1,103 @@
+
+
+store 1
+
+@tprs./
+this is a store/
+i am in front of the store/
+where am i ?/
+am i behind the store?/
+no, i am not behind the store/
+am i in front of the store?/
+yes, i am in front of the store/
+what am i doing?/
+am i walking?/
+yes, i am walking/
+where am i going?/
+do you know?/
+do you know where am i going?/
+am i going to the store?/
+yes, i am going to the store/
+where am i now?/
+am i outside the store?/
+no, i am not outside the store/
+am i inside the store?/
+yes, i am inside the store/
+what is this?/
+this is the clerk person/
+who is that?/
+is that a man?/
+yes that is a man/
+what is the man doing?/
+do you know what the man is doing?/
+is the man buying?/
+yes, the man is buying/
+what is he buying?/
+do you know what?/
+do you know what is he buying?/
+is he buying some bread?/
+yes, he is buying some bread/
+he is buying some delicious bread/
+is this bread delicious?/
+yes, this bread is delicious/
+this man loves breads/
+he loves buying breads/
+how many?/
+do you know how many breads?/
+is there one bread?/
+no, it is not one bread/
+are there two breads?/
+no, there are not two breads/
+are there three breads?/
+yes, there are three breads/
+the man is buying three breads/
+where is he going now?/
+do you know where he is going?/
+is he going to the counter?/
+yes, he is going to the counter/
+what is this?. is this a counter?/
+yes, this is a counter/
+what is he doing now?/
+do you know what is he doing now?/
+is he paying?/
+yes, he is paying/
+he is paying the breads/
+what is this?. is this a cart?/
+yes, this is a cart/
+what am i doing?/
+do you know what am i doing?/
+am i putting?/
+yes, i am putting/
+what am i putting?/
+do you know what am i putting?/
+am i putting the bread?/
+yes, i am putting the bread/
+where am i putting the bread?/
+am i putting the bread to the basket?/
+no, i am not putting the bread to the basket/
+am i putting the bread to the cart?/
+yes, i am putting the bread to the cart/
+how many?/
+how many breads are there?/
+how many breads are there on the cart?/
+do you see how many breads?/
+is there one bread? no. is there two breads no/
+is there three breads?. no, is there four breads?/
+yes, there are four breads./
+there are four breads inside the cart/
+there are four breads inside my cart/
+now what is this?. is this a bread?/
+no, this is not a bread/
+no, this is not a bread/
+this is an egg/
+what color is this?/
+do you know what color is this?/
+do you know what color the egg is?/
+is it white?. is the color white?/
+is the egg's color white?/
+yes, the egg's color is white/
+
+
+
+
+

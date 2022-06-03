@@ -1,0 +1,83 @@
+
+
+body parts 
+
+@tprs/
+body/
+human body/
+this is a human body?/
+what is this?. is this a human body?/
+yes, this is a human body/
+how about this one?. is this a human body?/
+no, this is not a human body/
+this is a head/
+my head/
+Roni's head/
+her head/
+is this a head?/
+yes, this is a head/
+my head is big/
+is my head big?/
+yes, my head is big/
+Roni's head is long/
+is Roni's head big?/
+no, Roni's head is not big/
+Roni's head is long/
+my head is big, and Roni's head is long/
+this is my hair/
+hair/
+my hair is black/
+is my hair black?/
+yes, my hair is black/
+is my hair blue?/
+no, my hair is not blue./
+my hair is black and big/
+Roni's hair is black and long/
+what am i doing?/
+do you know what am i doing?/
+am i coming my hair?/
+yes, i am coming my hair/
+is my hair long?/
+no, my hair is not long/
+Putri's hair is long. but my hair is short/
+is my hair short?/
+yes, my hair is short/
+my hair is short and black/
+am i coming my hair?/
+yes, i am coming my hair/
+what is Putri doing?/
+is she coming her hair?/
+yes, she is coming her hair/
+she is coming her long hair/
+Putri is coming her long beautiful hair/
+what is Roni doing?/
+is he coming his hair?/
+no, he is not coming his hair?/
+what is he doing with his hair?/
+do you know what he is doing?/
+do you know what he is doing with his hair?/
+is he cutting his hair?/
+yes, he is cutting his hair/
+is his hair short?/
+yes, his hair is short/
+is his hair black?/
+yes, his hair is black/
+he likes his hair/
+his hair is also beautiful/
+he has a beautiful hair/
+he has a beautiful short hair/
+he is happy/
+Roni and Putri are happy/
+why are they happy?/
+do you know why?/
+do you know why they are happy?/
+because they have beautiful hairs?/
+yes, it's because they have beautiful hairs/
+do i have beautiful hair too?/
+yes, i also have a beautiful hair/
+am i happy too?/
+yes, i am also happy/
+why am i happy?/
+do you know why?/
+do you know why am i happy?/
+yes, it is because i have a beautiful hair too/

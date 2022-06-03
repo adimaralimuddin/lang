@@ -1,0 +1,113 @@
+house 1 
+
+@tprs./
+this is a house/ 
+this house is big/
+it is very big/
+this is our house/
+where am i?/
+am i inside the house?/
+no i am not. i am not inside the house/
+am i outside the house?/
+yes, i am outside the house/
+this is the door/
+i am at the door/
+am i at the door?/
+yes, i am at the door/
+i am standing/
+i am standing in front of the door/
+am i sitting in front of the door?/
+no, i am not sitting in front of the door/
+am i standing in front of the door?/
+yes, i am standing in front of the door/
+open the door/
+i open the door/
+what am i doing?/
+am i eating the door?/
+no, i am not eating the door/
+am i opening the door?/
+yes, i am opening the door/
+where am i going?/
+do you know where am i going?/
+yes, i am going inside the house/
+am i going outside the house?/
+no, i am not going outside the house/
+am i going inside the house?/
+yes, i am going inside the house/
+now, i am inside the house/
+am i inside the house?/
+yes, i am inside the house/
+this is the inside of the house/
+this is the floor/
+this is the wall/
+and that is the ceiling/
+where is the floor?/
+is the floor up there?/
+no, the floor is not up there/
+the floor is down here/
+i am on the floor/
+i am standing on the floor/
+what is up there?/
+is up there the ceiling?/
+yes, up there is the ceiling/
+down here is the floor and up there is the ceiling/
+what is this?/
+is this the wall?/
+yes, this is the wall/
+i am near the wall/
+i am againts the wall/
+i am standing againts the wall/
+this wall is blue/
+and the ceiling is red/
+the floor is white/
+what is this?/
+do you know what this is?/
+yes, this is the window/
+the window is closed/
+let us open the window/
+i am opening the window/
+the window is now opened/
+now, i am closing the window/
+am i opening the window?/
+no, i am not opening the window/
+am i closing the window?/
+yes, i am closing the window/
+now, the window is close/
+how many windows?/
+how many windows do you see?
+do you know?/
+do you know how many windows?/
+do you know how many windows do you see?/
+is there one window?/
+are there two windows?/
+yes, there is two windows/
+where am i?/
+am i inside the house?/
+am i still inside the house?/
+no, i am not inside the house/
+i am no longer inside the house/
+am i outside the house?/
+yes, i am outside the house/
+where am i outside?/
+where am i outside the house?/
+am i on the ground?/
+no, i am not on the ground/
+am i in front of the door?/
+no, i am not in front of the door/
+am i at the roof?/
+yes, i am at the roof/
+i am at the top of the roof/
+what am i doing?/
+do you know what am i doing at the top of the roof?/
+am sleeping at the top of the roof?/
+no, i am not sleeping at the top of the roof/
+am i sitting at the top of the roof?/
+yes, i am sitting at the top of the roof/
+i am also studying/
+i am sitting and studying at the top of the roof/
+how about your?/
+are you at the top of the roof?/
+of course not/
+you are not at the top of the roof/
+do not go to the top of the roof/
+do not study on the top of the roof/

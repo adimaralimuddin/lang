@@ -1,0 +1,222 @@
+
+
+outdoor 1 
+
+outdoor 
+
+@tprs./
+this is a house/
+these are streets/
+these are cars/
+these are people/
+where am i?/
+do you know where am i?/
+am i inside the house?/
+no, i am not inside the house/
+am i on the street?/
+yes, i am on the street/ 
+what are these?/
+do you know what these are?/
+yes, these are street/ 
+what is that?/
+is that a street?/
+no, that is not a street/
+is that a car?/
+yes, that is a car/
+where is Roni?/
+do you know where Roni is?/
+is Roni inside the car?/
+yes, Roni is inside the car/
+is Roni on the street?/
+no, Roni is not on the street/
+Roni is inside the car/
+who are they?/
+do you know who they are?/
+yes, they are people/
+where are the people?/
+do you know where the people are?/
+are they on the streets?/
+yes, they are on the streets/
+are they inside the car?/
+no, the are not inside the car/
+Roni is inside the car/
+are they inside the house?/
+no, they are not inside the house/ 
+where are they?/
+are they on the streets?/
+yes, they are on the streets/
+
+2 -----------------------------------------------
+walking on the streets
+
+@tprs./
+walking /
+i am walking /
+Roni is walking /
+what is he doing?/
+do you know what he is doing?/
+is he walking?/
+yes, he is walking/
+where is he walking?/
+is he walking inside the car?/
+no, he is not walking inside the car/
+is he walking on the street?/
+yes, he is walking on the street/
+what are they?/
+are they people?/
+yes, they are people/
+where are they?/
+are they on the streets?/
+yes, they are on the streets/
+what are they doing?/
+are they walking?/
+yes, they are walking/
+the people are walking/
+where are they waking?/
+are they waking inside the house?/
+no, they are not walking inside the house/
+are they walking on the streets?/
+yes. they are walking on the streets/
+
+3 -----------------------------------------------##
+driving the car 
+
+@tprs./
+this is a car/
+i am inside the car/
+what am i doing?/
+what am i doing inside the car?/
+do you know what am i doing?/
+am i sleeping?/
+no, i am not sleeping/
+am i driving?/
+yes, i am driving the car/ 
+what is he doing?/
+is he driving the car?/
+yes, he is driving the car/
+where is the car?/
+is the car inside the house?/
+no, the car is not inside the house. the car is outside the house/ 
+is the car on the street?/
+yes, the car is on the street/
+am i driving a car?/
+yes, i am driving a car/
+am i driving the car?/
+no, i am not driving the car. Roni is driving the car/ 
+
+4 --------------------------------------------
+going to my friend's house 
+
+@tprs./
+this is Li/
+she is my friend/
+she is beautiful/
+she is Chinese/
+what is her name?/
+yes, her name is Li?/
+is she my friend?/
+yes, she is my friend
+is she beautiful?/
+yes, she is beautiful/
+is she Chinese?/
+yes, she is Chinese/
+i am going to her/
+where am i going?/
+do you know where am i going?/
+am i going to Li?/
+yes, i am going to her/
+this is her house/
+and this is her car/
+where is Li?/
+do you see her?/
+do you see Li?/
+yes, you do see her/
+where is she?/
+there she is. she is on the street/
+is she in her room?/
+no, she is not in her room/
+is she in the kitchen?/
+no, she is not in the kitchen/
+is she in the car?/
+no, she is not in the car/
+is she on the street?/
+yes, she is on the street/
+what is she doing?/
+is she sitting?/
+no, she is not sitting/
+is she sleeping?/
+no, she is not sleeping/
+she is not sitting or sleeping/
+is she walking?/
+yes, she is walking/
+where is she going?/
+do you know where she is going?/
+is she going inside the house?/
+yes, she yes going inside the house/
+how about me/
+am i going?/
+where am i going?/
+do you know where am i going?/
+yes, i am going to her/
+i am going to my friend/
+i am going to my friend's house/ 
+where is her house?/
+do you see her house?/
+yes, you do see her house/
+is that her house?/
+yes, that is her house/
+now, i am going to her house/
+
+
+5-----------------------------------------
+Nisha and her pet Max
+
+@tprs./
+this is Nisha/
+she is a woman/
+she is a beautiful woman/ 
+this is Max/
+Max is a dog/
+Max is a pet. a pet dog/
+Max is Nisha's pet/
+what are they doing?/
+are they walking?/
+yes, they are walking/
+what Max is doing?/
+is Max walking?/
+no, Max is not waking/
+is Max runing?/
+yes, Max is runing/
+Max runs fast/
+does Max run fast?/
+yes, Max run fast/
+does Nisha run fast?/
+no, Nisha does not run fast/
+this is a tree/ 
+and this is a grass/
+trees are gree/
+are grass green?/
+yes, grass are green/
+trees and grass are green/
+where is Max?/
+is Max on the street?/
+no, Max is not on the street/
+is Max under the tree?/
+yes, Max is under the tree/
+what Max is doing?/
+is Max eating?/
+is Max eating under the tree?/
+no, Max is not eating/
+Max is not eating under the tree/ 
+is Max sleeping?/
+yes, Max is sleeping/
+where is Max sleeping?/
+is Max sleeping inside the room?/
+no, Max is not sleeping inside the room/
+is Max eating at the kitchen?/
+no, Max is not eating at the kitchen/
+is Max sleeping on the grass?/
+yes, Max is sleeping on the grass/
+is Max sleeping under the tree?/
+yes, Max is sleeping under the tree/ 
+

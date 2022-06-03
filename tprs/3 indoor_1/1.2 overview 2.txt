@@ -1,0 +1,138 @@
+
+2 indoor overview  2
+
+@tprs./
+i am inside the room/
+this is the door/
+i am opening the door/
+what door am i opening?/
+am i opening the room's door?/
+yes, i am opening the door's room/
+that is Roni inside the room/
+what is he doing inside the room?/
+do you know and can you tell me what he is doing inside the room?/
+is he studying?/ yes, he is studying/
+is he studying math?/
+yes, he is studying math/
+he loves to study math/
+he loves to study math alone/
+what is Putri doing?/
+is she speaking?/
+yes, she is speaking/
+what is she saying?/
+do you know what she is saying?/
+sure, you know what she is saying/
+is she calling me?/
+yes, she is calling me/
+what is she saying?/
+is she saying my name?/
+yes, she is saying my name/
+she is speaking and calling my name/
+what is Ayah doing?/
+is he playing music?/
+yes, he is playing music/
+he loves music/
+he loves to play music/
+what is he doing?/
+is he listening?/
+yes, he is listening/
+he is listening to what?/
+is he listening to music?/
+yes, he is listening to the music/
+he loves to listen to the music/
+he loves to play and listen to the music/
+how about you, do you love music?/
+do you love to play and listen to the music?/
+of courese you do. you do love to play and listen to the music/
+what are you doing?/
+can you tell me what are you doing?/
+are you watching?/
+yes, you are watching/
+what are you watching?/
+can you tell me what are you watching?/
+are you watching me?/
+yes , you are watching me/
+what am i doing?/
+what do you think?/
+what do you think i am doing?/
+can you tell me what am i doing?/
+am i speaking?/
+yes, i am speaking/
+am i teaching??
+yes, i am teaching/
+am i teaching you?/
+yes, i am teaching you/
+am i teaching you to speak?/
+yes, i am teaching you to speak/
+are you listening?/
+are you listening to me?/
+of courese you do listen to me/
+do you understand?/
+do you understand me?/
+yes, you do understand/
+you do understand me/
+you are understand me/
+you are understand what i am saying/
+you are understand what i am speaking/
+are you seeing me?/
+yes, you are also seeing me/
+you are watching me/
+are you listening to me?/
+yes, you are listening to me/
+you are listening to what i am saying/
+and you understand me/
+you understand what i am saying/
+do you hear me?/
+yes you do. you do hear me/
+you do hear me speaking/
+can you see me?/
+yes, you can. you can see me/
+can you see me speaking?/
+yes, you can see me speaking/
+can you hear me?/
+yesm you can. you can hear me/
+you can hear me speaking/
+can you listen to me?/
+yes, you can listen to me/
+you can listen to what i am saying/
+what is Ambuh doing?/
+can you tell me what she is doing?/
+is she calling me?/
+yes, she is calling me/
+she is calling my name/
+is she calling Putri?/
+yes, she is calling Putri/
+is Putri calling me?/
+yes, Putri is calling me/
+am i talking?/
+yes, i am talking/
+am i talking with Putri?/
+yes, i am taking with Putri/
+is Putri talking to me?/
+yes, Putri is talking to me/
+is Roni speaking?/
+yes, ROni is speaking/
+is Ayah listening?/
+yes, Ayah is listening to the music/
+
+
+@pair.
+say.call.hear.listen.speak.talk.see 
+@ask.
+hear.speak.listen.see.talk.say.call 
+
+@ask.
+i call.you call. she call.he call.
+@ask.
+i speak.you speak. she speak.he speak.
+@ask.
+i listen.you listen. she listen.he listen.
+@ask.
+i talk.you talk. she talk.he talk.
+@ask.
+i see.you see. she see.he see.
+
+
+
+
+

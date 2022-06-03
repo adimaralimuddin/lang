@@ -1,0 +1,68 @@
+@tprs./
+apple/
+an apple/
+the apple/
+this apple/
+that apple/
+this is an apple/
+that is an apple/
+what is this?/
+is this an orange?/
+no, this is not an orange?/
+is this an apple?/
+yes, this is an apple/
+is this a blue apple?/
+is this a blue apple?/
+no, this apple is not blue/ 
+this is not a blue apple/
+is this apple red?/
+is this a red apple?/
+yes, this apple is red/
+this is a red apple/
+this apple is very red/
+that apple is very yellow/
+is this apple a very red apple?/
+yes, this apple is a very red apple/
+is that apple a very yellow apple?/
+no, that apple is not a very yellow apple/
+this is really a delicious apple/
+that is really a very delicious apple/
+this apple is really a very delicious red apple/
+is this apple a delicious apple?/
+yes, this apple is a delicious apple/
+is that really apple a delicious apple?/
+no, that is not really a delicious apple/
+is this really a very delicious apple?/
+yes, this is really a very delicious red apple/
+this apple is really a very delicious red apple/
+
+an apple and a banana 
+a red apple and a yellow banana 
+a delicious red apple and a delicious yellow banana 
+is this an apple or a banana?/
+yes, this is a banana/
+this is not an apple/
+is this a yellow banana or a red apple?/
+yes, this is a yellow banana/
+this is not a red apple/ 
+
+this is a coffee/
+a coffee with cream/
+an apple and a coffee with cream/
+is this an apple or a coffee with cream?/
+yes, this is a coffee with cream/
+
+this is a cake/
+this is a vanilla cake/
+that is a chocolate cake/
+this is a chocolate cake with vanilla/
+this is a yellow banana and a chocolate cake with vanilla/
+is this a yellow cake?/
+no, this is not a yellow cake/
+is that a delicious green cake or a delicious yellow banana/
+yes, that is a delicious green cake/
+and not a delicious yellow banana/
+
+
+
+

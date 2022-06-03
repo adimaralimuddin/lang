@@ -1,0 +1,93 @@
+
+street 1 
+
+these are streets/
+i am on the streets/
+where is Putri?/
+do you see Putri?/
+is Putri on the street?/
+yes, Putri is on the street/
+i am walking/
+what am i doing?/
+am i walking?/
+yes, i am walking/
+what am i walking on?/
+am i walking on the street?/
+yes, i am walking on the street/
+they are people/
+what are they?/
+do you know what they are?/
+yes, they are people/
+where are they?/
+are they inside the house?/
+no, they are not inside the house/
+are they on the street?/
+yes, they are on the street/
+what are they doing?/
+are they sleeping?/
+no, they are not sleeping/
+are they walking?/
+yes, they are walking/
+this is a car/
+these are cars/
+that is a taxi/ 
+i am on a car/
+where am i?/
+am i on a car?/
+yes, i am on a car/
+what am i doing?/
+what am i doing inside the car?/
+do you know what am i doing?/
+do you know what am i doing inside the car?/
+am i walking?/
+am i walking inside the car?/
+no, i am not walking inside the car/
+am i drinking?/
+am i driving in the car?/
+yes, i am driving/
+i am driving the on car/ 
+i am driving the car/ 
+this is a traffic light/
+and this is a street signs/
+where am i?/
+am i near the traffic light?/
+yes, i am near the traffic light/
+what am i doing?/
+what am i doing near the traffic light?/
+am i sitting?/
+no, i am not sitting/
+i am not sitting near the traffic light/
+am i standing?/
+yes, i am standing/
+i am standing near the traffic light/
+where am i?. am i near the traffic light?/
+no, i am not near the traffic light/
+am i beside the street sign?
+yes, i am beside the street sign/
+what am i doing?. what am i doing beside the street sign?/
+am i standing?. am i standing beside the street sign?
+yes, i am standing. i am standing beside the street sign./
+this is a street vendor/
+where am i?/
+i am in front the street vendor/
+what am i doing?/
+am i standing?/
+yes, i am standing/
+what else?
+what else am i doing?/
+am i buying?/
+yes, i am buying/
+i am buying some food/
+i am buying an ice cream from the street vendoor/
+this is a bench /
+i am sitting on a bench/
+look! Putri is sitting on a bench/
+look over there! Roni is in front of the street vendor/
+do you see that?. Putri is standing beside the street sign/
+over here! i am standing near the traffic light/
+Look over there! the people are walking/
+the people are walking on the street/
+look at him! he is inside the car/
+he is driving the car/
+look at her! she is inside the taxi/
+she is on a taxi/

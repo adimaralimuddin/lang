@@ -1,0 +1,75 @@
+@tprs./
+on/
+apple/
+table/
+on the table/
+the apple is on the table/
+where is the apple?/
+do you see?/
+do you see the apple?/
+do you see where is the apple?/
+is the apple on the table?/
+yes, the apple is on the table/
+is the apple still on the table?/
+no, the apple is not on the table/
+is the apple on the basket?/
+yes, the apple is on the basket/
+where is the cat?/
+do you see the cat?/
+look! what is that?/
+is that a cat?/
+yes, that is a cat/
+where is the cat?/
+tell me where the cat is/
+is that cat on the table?/
+no, the cat is not on the table/
+is the cat on the chair?/
+no, the cat is not on the chair/
+is the cat on the bed?/
+no, the cat is not on the bed/
+the cat is not on the tabble or on the chair or on the bed/
+where is the cat anyway?/
+do you see the cat?/
+yes, over there! that is the cat/
+the cat is on the sofa/
+where is the banana?/
+is the banana on the table?/
+no, the banana is not on the table/
+is the banana on the basket?/
+no, the banana is not on the basket/
+is the banana on the sofa?/
+no, the banana is also not on the sofa/
+is the banana on the floor?/
+yes, the banana is on the floor/
+this is a box/
+this is my box/
+what is inside the box?/
+do you know?/
+do you know what is inside?/
+do you know what is inside the box?/
+yes, a ball is in the box/
+this is a ball/
+this is my ball/
+where is my ball?/
+is my ball inside the box?/
+yes, the ball is in the box/
+is this my ball?/
+yes, this is my ball/
+where is my mother?/
+do you see my mother?/
+is my mother in the kitchen?/
+yes, my mother is in the kitchen/
+where is my sister?/
+is my sister in the restaurant?/
+yes, my sister is in the restaurant/
+where is my father?/
+is my father in the hotel?/
+yes, my father is in the hotel/
+where is my brother?/
+do you see my brother?/
+is my brother at the hospital?/
+yes, my brother is at the hospital/ 
+where is Ahmed?/
+is Ahmed at school?/
+yes, Ahmed is at school/
+

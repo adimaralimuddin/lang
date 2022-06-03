@@ -1,0 +1,186 @@
+1 lesson 
+1 intro
+2 verb
+
+@tprs./
+what is this?/
+do you know what this is?/
+tell me/
+tell me what this is/
+can you tell?/
+can you tell me?/
+can you tell me what this is?/
+what do you see?/
+do you see an apple?/
+is this an apple?/
+yes, this is an apple/
+what is this?/
+is this an apple?/
+no, this is not an apple/
+what is this then?/
+tell me what this is/
+can you tell me what this is?/
+is this an orange?/
+yes, this is an orange/ 
+what is this?/
+is this an orange?/
+no, this is not an orange/
+what is it?/
+is it an apple?/
+yes, it is an apple/ 
+what is this?/
+this is an apple and an orange/ 
+eat/
+i eat/
+i am eating/
+i am eating an apple/
+what am i doing?/
+do you know?/
+do you know what am i doing?/
+am i eating?/
+yes, i am eating/
+what am i eating?/
+do you know what am i eating?/
+can you tell me?/
+can you tell me what am i eating?/
+am i eating an orange?/
+no, i am not eating an orange/
+am i eating an apple?/
+yes, i am eating an apple/
+this apple is very delicious/
+i love this apple/
+i love eating this apple/
+how about you?/
+do you like apples?/
+sure you do. apples are delicious/
+who is he?/
+is he Roni?/
+yes, he is Roni/
+Roni eats/
+Roni is eating an apple/
+what is he doing?/
+do you know what?/
+do you know what he is doing?/
+do i know what he is doing?/
+yes, i know what he is doing/
+can you tell me what?/
+can you tell me what he is doing?/
+can i tell you what he is doing?/
+yes, i can tell you what he is doing/
+is he eating?/
+is Roni eating?/
+yes, Roni is eating?/
+what is he eating?/
+is he eating an orange?/
+no, he is not eating an orange/
+do you know what he is eating?/
+me?. i know what he is eating/
+is he eating an apple?/
+yes, he is eating an apple/
+what is he eating?/
+is he eating an apple?/
+no, he is not eating an apple/
+what is he eating then?/
+he is eating an orange/
+yes, Roni is eating an orange/
+who is she?/
+do you know her?/
+yes, you know her/
+tell me who she is?/
+can you tell me who she is?/
+is she Putri?/
+yes, she is Putri/
+what is she doing?/
+do you know what she is doing?/
+can you tell me what she is doing?/
+is she eating?/
+no, she is not eating/
+is she drinking?/
+yes, she is drinking/
+what is she drinking?/
+is she drinking some water?/
+yes, she is drinking some water/
+is she drinking some apples?/
+no, she is not drinking some apples/
+is she drinking some water?/
+no, she is not drinking some water/
+she is not drinking some water or an apple/
+can you tell me what she is drinking?/
+is she drinking some coffee?/
+yes, she is drinking some coffee/
+what is this?/
+is this an apple?/
+no, this is not an apple/
+is this a water?/
+no, this is not a water/
+this is not an apple or a water/
+do you know what this is?/
+yes, this is a coffee/
+how about this?. do you know what this is?/
+is this a coffee?/
+no, this is not a coffee/
+is this a water?/
+yes, this is a water/
+this is a water and a coffee/
+this is a water and an apple and a coffee/
+Roni is eating an apple/
+Putri is drinking some water/
+how about me?/
+what am i doing?/
+do you know what am i doing?/
+can you tell me what am i doing?/
+am i eating?/
+no, i am not eating/
+am i drinking?/
+yes, i am drinking/
+what am i drinking?/
+do you know what am i drinking?/
+am i drinking some water?/
+no, i am not drinking some water?/
+am i drinking some coffee?/
+yes, i am drinking some coffee/
+
+@chat./
+hi Roni, how are you?/
+2 hi Dewi, i am fine/ 
+what is this?/
+2 this is an apple/
+what is that?/
+is that an apple?/
+2 no, that is not an apple/
+2 that is an orange/
+2 this is an apple and that is an orange/
+what are you doing?/
+are you drinking?/
+2 no, i am not drinking/
+are you eating?/
+2 yes, i am eating/ 
+what are you eating?/
+2 i am eating an apple/ 
+are you eating an orange?/
+2 yes, i am eating an orange and an apple/
+what is that?/
+is that an apple?/
+2 no, that is not an apple/
+2 that is a water/
+who is she?/
+2 she is putri/
+what is she doing?/
+is she eating?/
+is she eating an apple?/
+2 no, she is not eating/
+2 she is not eating an apple/
+what is she doing?/
+2 she is drinking/
+what is she drinking?/
+2 she is drinking some water/
+2 Putri is drinking some water/
+what is that?/
+2 that is a coffee/
+is Putri drinking some coffee?/
+2 yes, she is drinking some coffee/
+2 she is drinking some coffee and some water/
+2 i am eating and she is drinking/
+2 i am eating an apple. and she is drinking some water/
+okay Roni, see you later/
+2 bye Dewi/

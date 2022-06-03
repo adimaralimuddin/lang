@@ -1,0 +1,764 @@
+hi, name, i, my, what, who, brother 
+
+hi, i am mike. what is your name? 
+hi mike, my name is aisha.
+who is he? 
+he is my brother. 
+what is his name? 
+his name is romio. 
+
+what is this?  
+this is an apple 
+what is that? is that an orange? 
+yes, that is an orange. this is an apple and that is an orange 
+is this your apple? 
+yes, it is my apple. 
+your apple is delicious. 
+thank you.
+
+aisha, do you like apples? 
+yes, i like apples. 
+do you want to eat an apple? 
+yes, i want to eat an apple. do you have an apple? 
+yes, i have an apple. 
+can i eat an apple. 
+of course, you can eat an apple. 
+here is my apple. 
+your apple is delicious. 
+thanks. do you want more? 
+sure, i want more. 
+does your sister eat apples? 
+no, my sister does not eat apple 
+what does she like? 
+she likes oranges. 
+does she likes eating oranges? 
+yes, she likes eating oranges. 
+i have oranges too. 
+can i have some oranges? 
+yes, you can have some oranges. 
+can my sister have some oranges too?
+of course, your sister can have some oranges too. 
+
+
+this is my friend, his name is romio. he is my classmate. 
+
+
+
+
+---------------------- 
+i am 
+i am mike 
+hi, i am mike, hi, i am aisha  
+
+what? 
+that 
+what is that? 
+
+apple 
+an apple 
+that is an apple 
+
+he 
+he is romio 
+
+who 
+who is he? he is romio 
+
+@
+hi aisah, i am mike. who is he? 
+he is romio 
+
+name 
+my name 
+my name is mike 
+
+what? 
+your 
+your name 
+what is your name? 
+
+@
+hi, i am mike. what is your name? 
+hi mike, my name is aisha. 
+who is he? 
+he is romio 
+
+my 
+friend 
+my friend 
+
+he is romio 
+he is my friend 
+
+his 
+name 
+his name 
+his name is romio 
+
+@hi mike, who is he? 
+he is my friend. 
+what is his name? 
+his name is romio 
+
+----------------------------------------
+///////////////////////////////////////////////////////////
+verb 1 
+eat 
+
+apple 
+this 
+this is an apple 
+
+eat 
+i am eating 
+i am eating an apple 
+
+what? 
+what are you doing? 
+what are you eating?
+
+@
+hi aisha, what are you doing? 
+i am eating. 
+what are you eating? 
+i am eating an apple 
+
+what 
+what is this 
+
+want 
+i want 
+i want to eat 
+
+what do you want? 
+i want to eat an apple 
+
+my apple 
+i want to eat my apple
+
+@
+hi mike, what do you want? 
+i want to eat.
+what do you want to eat? 
+i want to eat an apple 
+what is this? 
+this is my apple 
+do you want an apple? 
+yes, i want to eat an apple 
+do you want to eat my apple? 
+yes, i want to eat your apple 
+my apple is delicious 
+yes, your apple is very delicious 
+who is he? 
+he is my friend 
+what is his name? 
+his name is romio 
+
+-----------------------------------------------------------------
+eat with my friend at the kitchen 
+
+kitchen 
+at the kitchen 
+i am at the kitchen 
+my friend is at the kitchen 
+i am eating 
+i am eating at the kitchen 
+i am eating an apple at the kitchen 
+
+where? 
+where are you? 
+where is the apple?
+
+@ 
+hi mike, where is your friend? 
+he is at the kitchen. he is eating 
+is he eating an apple? 
+yes, he is eating an apple. do you want an apple? 
+yes, i want an apple 
+
+beautiful 
+she is beautiful 
+mother 
+my mother 
+my mother is beautiful 
+
+cook 
+my mother is cooking 
+my mother is cooking at the kitchen 
+
+what? 
+what are you cooking? 
+what is she cooking? 
+she is cooking a fish 
+
+@ 
+hi aisha, who is she? 
+she is my mother 
+what is she doing? 
+she is cooking. 
+what is she cooking? 
+she is cooking a fish. 
+do you eat fish? 
+yes, i do eat fish? and you? 
+me?, no, i do not eat fish 
+what do you eat? 
+i eat bigetables. do you eat vigetable? 
+yes, i eat fish and vigetables 
+your mother is beautiful.
+thanks. 
+
+---------------------------------------------------------------------
+
+i am cleaning my room with my brother 
+
+room 
+my room 
+this room 
+this is my room 
+
+clean 
+i am cleaning 
+i am cleaning my room 
+
+@
+what are you doing mike? 
+i am cleaning 
+what are you cleaning? 
+i am cleaning my room 
+where is your brother? 
+he is at the kitchen 
+what is he doing? 
+he is eating 
+what is he eating? 
+he is eating fish 
+do you want help? 
+yes, i want a help. 
+i can help you. 
+thank you.
+
+hospital 
+at the hospital 
+i am at the hospital
+
+go 
+i go 
+you go 
+where are you going? 
+i am going to the hospital 
+
+what happend? 
+sick 
+i am sick 
+my brother is sick 
+
+@
+where are you going aisha?
+i am going to the hospital 
+where is your brother? 
+he is at the hospital 
+what happend? 
+he is sick. can you help me?  
+sure, what can i do? what do you want me to do?  
+can you help my mother.
+sure, where is your mother? 
+she is at the kitchen. 
+what is she doing? 
+she is cooking. 
+how can i help her? 
+i want you to help her cook. 
+okay. 
+thanks mike. 
+----------------------------------------------------------------------------
+how old are you 
+
+one 
+two 
+five 
+twenty five 
+
+old 
+years 
+i am old 
+i am twenty five years old 
+
+ten 
+six 
+sixteen 
+i am sixteen years old 
+i am young 
+
+how? 
+how old are you? 
+
+@
+hi, i am mike. what is your name? 
+hi, my name is aisha. 
+how old are you aisha? 
+i am sixteen years old. 
+you are young.
+thanks. how old are you mike? 
+i am fifty two years old 
+you are old.
+yes, i am very old. 
+no, you are not very old. 
+who is he? 
+he is my brother 
+what is his name? 
+his name is romio 
+how old is he? 
+he is twenty five years old. 
+he is young. who is she? 
+she is my mother 
+what is her name? 
+her name is maria 
+how old is she? 
+she is fourty two years old 
+she is beautiful.and she is still young
+what is she doing? 
+she is cleaning. 
+is she cleaning the room? 
+yes, she is cleaning my room. 
+
+
+-----------------------------------------------
+
+
+i am going to buy some clothes 
+
+buy 
+i am buying 
+
+clothes 
+some clothes
+i am buying some clothes 
+
+shoping
+go shoping 
+i am shoping 
+
+store 
+i am shoping on a store 
+
+@
+hi aisha, where are you going? 
+i am going shoping. i am going to buy some clothes 
+-favorite
+-my favorite clothes 
+mike: what is your favorite clotehs? 
+my favorite clothes are red clothes 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+================================================
+i 
+i am 
+i am mike 
+
+you 
+you are 
+you are aisha 
+
+hi, i am mike and you are aisha 
+
+name 
+my 
+my name 
+my name is mike 
+hi, my name is mike , hi my name is aisha 
+
+your 
+your name 
+your name is aisha 
+hi, my name is mike and your name is aisha 
+
+what? 
+what is your name? 
+hi, i am mike. what is your name? 
+hi mike. my name is aisha 
+
+he 
+he is romio 
+his 
+his name 
+his name is romio 
+
+who 
+who is he? 
+he is romio 
+
+brother 
+my brother 
+he is my brother 
+romio is my brother 
+
+hi, i am mike. what is your name? 
+hi, my name is aisha. who is he? 
+he is my brother 
+what is his name? 
+his name is romio 
+
+=======================================================
+
+do 
+i am doing 
+you are doing 
+
+what 
+what are you doing 
+
+he
+he is doing 
+what is he doing 
+
+eat 
+i eat 
+you eat
+he eats 
+
+hi aisha, what are you doing? 
+i am eating. what are you eating? 
+i am eating an apple 
+
+apple 
+orange 
+apple and orange 
+
+my 
+my apple 
+my apple and my orange 
+
+this 
+this apple 
+this is my apple 
+this is my apple and this is my orange 
+
+what 
+what is this? 
+
+hi aisha, how are you? 
+i am fine. thank you. 
+what is this? 
+this is an apple 
+what ar you doing? 
+i am eating an apple 
+who is he? 
+he is my brother 
+what is his name? 
+his name is romio 
+what is he doing 
+he is eating 
+what is he eating? 
+he is eating an apple  
+=============================================
+
+where? 
+where are you? 
+where is he? 
+where is mike? 
+
+kitchen 
+at the kitchen 
+i am at the kitchen 
+
+hi mike, where are you? 
+i am at the kitchen 
+what are you doing? 
+i am eating 
+what are you eating? 
+i am eating an apple 
+where is your brother? 
+he is with me 
+
+go 
+i go 
+where are you going? 
+
+hospital
+at the hospital  
+i am going to the hospital 
+
+sick 
+i am sick 
+my brother is sick 
+romio is sick 
+
+hi mike, what are you doing? 
+i am leaving 
+where are you going? 
+i am going to the hospital 
+where is your brother? 
+my brother is sick. he is at the hospital 
+============================================================
+
+friend 
+my friend 
+this is my friend 
+
+we 
+we are 
+we are eating 
+we are eating at the kitchen 
+i am eating with my friend at the kitchen 
+
+work 
+she is working 
+my mother is working 
+
+who is he? 
+he is my frined 
+what is his name? 
+his name is romio 
+what is he doing?
+he is working 
+where is he working? 
+he is working at the kitchen 
+
+mother 
+my mother 
+your mother 
+where is your mother 
+
+hi bob, what are you doing? 
+i am eating with my friend 
+where are you eating? 
+i am eating at the kitchen 
+what are you eating? 
+we are eating an apple and an orange 
+where is your mother? 
+my mother is at the hospital 
+what is she doing? 
+she is working 
+
+brother 
+my brother 
+he is my brother 
+my brother is working 
+
+drink 
+i am driking 
+he is drinking 
+my brother is drinking some water 
+
+hi mike, what are you doing? 
+i am eating an apple. 
+who is he? 
+he is my brother 
+what is his name? 
+his name is romio 
+what is he doing? 
+he is drinking 
+what is he drinking? 
+he is drnking some water? 
+is he working? 
+yes, he is working
+where is working? 
+he is working at the hospital. he is a doctor  
+
+=================================================================================
+
+clean 
+i am ceaning 
+he is cleaning 
+
+room 
+my room 
+i am in my room 
+i am cleaning my room 
+
+sister 
+my sister 
+she is my sister 
+my sister is maria 
+
+girl 
+this girl 
+that girl 
+this gril is my sister 
+
+hi mike, what are you doing? 
+i am eating an orange. 
+where are you? 
+i am at the kitchen 
+who is that girl? 
+she is my sister 
+where is she? 
+she is at my room 
+what is she doing? 
+she is cleaning. 
+what is she cleaning? 
+she is cleaning my room 
+where is your mother 
+my mother is leaving 
+where is she going? 
+she is going to the hospital 
+what is her job? 
+she is a doctor 
+
+sing 
+i am singing 
+my mother is singing 
+my sister and my brother are singing 
+
+house 
+my house 
+our house 
+inside the house 
+they are inside the house 
+
+mike, how are you? 
+i am not feeling well.
+what happend? 
+i am sick
+where is your sister? 
+she is inside the house
+what is she doing? 
+she is singing 
+where is your mother? 
+she is at the kithcen 
+what is she doing? 
+she is cooking 
+what is she cooking? 
+she is cooking a fish 
+where is your brother? 
+my brother is inside his room 
+what is he doing? 
+he is cleaning? 
+where is your father? 
+my father is leaving 
+where is he going? 
+he is going to the hospital 
+what will he do? 
+he is going to buy some medicine 
+
+=================================================================================
+buy 
+i am buying 
+she is buying 
+
+dress 
+my dress 
+this is my dress 
+i am buying a dress 
+
+mall 
+go 
+i am going 
+to the mall 
+i am going to the mall 
+i am going to the mall with my sister 
+
+come 
+i am coming 
+she is coming 
+
+want 
+i want to come 
+i want to come with you 
+do you want to come? 
+do you want to come with me? 
+
+hi mike, what are doing? 
+i am leaving.
+where are you going? 
+i am going to the mall. i am going to buy
+what will you buy? 
+i am going to buy a dress 
+who is with you? 
+my sister. she is coming with me 
+can i come with you? 
+sure, you can come with us. are you going to buy something? 
+yes, i am going to buy some clothes too. 
+here were are at the mall. 
+where are the dresses? 
+the dresses are over there 
+this dress is beautiful. 
+do you like that dress? 
+yes, i like this dress  
+
+hi mike, who is she? 
+she is my mother 
+what is she doing? 
+she is buying 
+what is she buying? 
+she is buying apples and oranges 
+does she like apples and oranges? 
+yes, my mother like apples and oranges 
+do you eat an apple? 
+yes, i do eat an apple. how about you? 
+of course, i do eat an apple too. 
+do you want some apple? 
+yes, i want some apple. do you have some apple? 
+no, i dont have any apple. but, i have some money 
+can we buy some apple? 
+yes, we are going to buy some apple.
+where can we buy an apple? 
+we can buy apples at the bakery store.
+
+=================================================================================================
+
+give 
+give me my apple 
+give me some apple 
+she give me some apple 
+my sister gave me some apples 
+
+know 
+i know 
+i know her 
+do you know? 
+do you know where to buy?
+do you know where to buy an apple? 
+
+hi sister, do you have some money? 
+yes, i do have some money. why? 
+can you give me some money? 
+what will you do? 
+i am going to buy. 
+what will you going to buy? 
+i am going to buy some bread. 
+where? where can you buy some bread? 
+at the bakery store. 
+of course, here is some money. can you do me a favore?
+sure, what is it? 
+can you buy me an apple and an orange? 
+sure, what else. 
+just an apple and an orange. 
+okay, see you.
+
+market
+at the market 
+i am going to the market 
+
+hi aisha, what are you doing? 
+i am cleaning. 
+what are you cleaning? 
+i am cleaning my room. 
+where is your brother? 
+he is at the market 
+what is he doing? 
+he is buying 
+what is he buying? 
+he is buying some fish. 
+do you eat fish? 
+yes, i like eating fish. 
+do you cook? 
+yes, i can cook. i like to cook a fish. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

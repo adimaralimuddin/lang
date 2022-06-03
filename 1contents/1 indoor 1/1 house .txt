@@ -1,0 +1,247 @@
+
+
+
+@tprs./ 
+this is a house/
+this is my house/ 
+that is my friend's house/ 
+
+my house is big/
+my friend's house is also big/
+my house and my friend's house are big/
+that house is small/
+his house is very small/
+is my house small?/
+no, my house is not small/
+is my house big?/
+yes, my house is big/
+is my house and my friend's house big?/
+yes, my house and my friend's house are big/
+
+his house is very small/
+is his house very big?/
+no, his house is not very big/
+is his house very small?/
+yes, his house is very small/
+
+i am inside my house/
+he is inside his house/
+i am inside my friend's house/ 
+where am i?/
+am i inside his house?/
+no, i am not inside his house/
+am i inside my house?/
+yes, i am inside my house/
+am i inside my sister's house?/
+no, i am not inside my sister's house/
+
+@tprs./
+i am outside the house/
+he is outside his house/
+i am outside my father's house/
+am i inside my father's house?/
+no, i am not inside my father's house/
+am i outside my father's house?/
+yes, i am outside my father's house/
+
+i am always inside my house/
+he is always outside his house/
+you are always inside your house/
+are you always outside your house?/
+no, you are not always outside your house/
+are you always inside your house?/
+yes, you are always inside your house/
+
+i am between the houses/
+am i inside the houses?/
+no, i am not inside the houses/
+am i between the houses?/
+yes, i am between the houses/
+am i always between the houses?/
+yes, i am always between the houses/
+
+@tprs./
+this is the roof/
+i am at the top of the roof/
+am i under the roof?/
+no, i am not under the roof/
+am i at the top of the roof?/
+yes, i am at the top of the roof/
+i am relaxing/
+i am relaxing at the top of the roof/
+what am i doing?/
+am i eating?/
+no, i am not eating/
+am i relaxing?/
+yes, i am relaxing/
+where am i relaxing?/
+am i relaxing under the roof?/
+no, i am not relaxing under the roof/
+am i relaxing at the top of the roof?/
+yes, i am relaxing at the top of the roof/
+that is the sky/
+i am watching/
+i am watching the sky/
+i am watching the sky at the top of the roof/
+the sky is beautiful/
+i am watching the beautiful sky/
+i am always watching the beautiful sky/
+i am watching the beautiful sky at the top of the roof/
+i am always watching the beautiful sky at the top of the roof/
+am i watching the beautiful sky under the roof?/
+no, i am not watching the beautiful sky under the roof/
+am i watching the beautiful sky at the top of the roof?/
+yes, i am watching the beautiful sky at the top of the roof/
+
+
+@tprs./
+this is the door/
+i am in front of the door/
+my friend is in front of the door/
+is my mother in front of the door?/
+no, my mother is not infront of the door/
+is my friend infront of the door?/
+yes, my friend is infront of the door/
+me and my friend are in front of the door/
+am i and my friend in front of the door?/
+yes, me and my friend are in front of the door/
+
+this is a cat/
+the cat is in front the door/
+the cat is behind the door/
+the cat is at the top of the roof/
+my friend and the cat are at the top of the roof?/
+where is the cat and my friend?/
+do you see theme?/
+are they on the top of the roof?/
+no, they are not on the top of the roof/
+are they in front of the door?/
+no, they are not infront of the door/
+are they behind the door?/
+yes, they are behind the door/
+my friend and the cat are behind the door/
+
+this is the window/
+this window is new/
+is the window old?/
+no, the window is not old/
+is the window opened?/
+yes, the window is opened/
+what is she doing?/
+do you know?/
+do you know what she is doing?/
+is she opening?/
+is she opening the window?/
+yes, she is opening the window/
+is she closing the window?/
+yes, she is closing the window/
+where is she?/
+is she at the top of the window?/
+no, she is not at the top of the window/
+is she under the window?/
+no, she is not under the window/
+is she behind the window?/
+no, she is not behind the window/
+is she infront of the window?/
+yes, she is infront of the window/
+
+@tprs./
+this is the table/
+the cat is near the table/
+the cat is sleeping/
+the cat is sleeping on the table/
+the cat is always sleeping/
+the cat is always sleeping on the table/
+where is the cat?/
+is the cat inside the table?/
+no, the cat is not inside the table/
+is the cat outside the table?/
+no, the cat is not outside the table/
+is the cat under the table?/
+no, the cat is not under the table/
+is the cat near the table?/
+yes, the cat is near the table/
+is the cat on the table?/
+yes, the cat is on the table/
+what the cat is doing?/
+is the cat eating?/
+no, the cat is not eating/
+no, the cat is not eating on the table/
+is the cat relaxing?/
+no, the cat is not relaxing/
+no, the cat is not relaxing on the table/
+is the cat sleeping on the table?/
+yes, the cat is sleeping on the table/
+
+this is the floor/
+what is this?/
+do you know what this is?/
+is this the roof or the floor?/
+yes, this is the floor. this is not the foor/
+where is the floor?/
+is the floor at the top of the roof?/
+no, the floor is not at the top of the roof/
+is the floor under the foor?/
+yes, the floor is under the roof/
+the floor is on the ground/
+where is Putri?/
+is Putri on the floor?/
+yes, Putri is on the floor/
+she is standing/
+she is standing on the floor/
+is she relaxing on the floor?/
+no, she is not relaxing on the floor/
+she is standing on the floor/
+she is always standing on the floor/
+she wants to stand on the floor everyday/
+she always want to stand on the floor everyday/
+
+
+@tprs./
+this is the wall/
+i am near the wall/
+i am standing near the wall/
+i am always standing near the wall/
+am i standing inside the wall?/
+no, i am not standing inside the wall/
+can i stand inside the wall?/
+no, i cannot stand inside the wall/
+i can only stand near or in front of the wall/
+
+i am coming/
+i am coming to my house/
+i want to come to my house/
+i want to come to my house today/
+he is coming to my house today/
+he wants to come to my house today/
+does he wants to come to my house today?/
+yes, he does want to come to my house today/
+am i coming to my house today?/
+yes, i am coming to my house today/
+i can come to his house/
+i can come to my friend's house/
+i can come to my friend's house today/
+he can come to my house/
+he can come to my house everyday/
+can i come to his house today?/
+yes, i can come to his house today/
+can he come to my house today?/
+yes, he can come to my house today/
+can he come to my house tomorrow?/
+yes, he can come to my house tomorrow/
+she came to my house yesterday/
+you came to my house yesterday/
+i came to her house yesterday/
+did i came to your house yesterday?/
+did he came to my house yesterday/
+did i came to my friend's house yesterday?/
+
+
+
+
+
+
+
+
+
+

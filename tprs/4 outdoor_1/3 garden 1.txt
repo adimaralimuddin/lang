@@ -1,0 +1,82 @@
+
+garden 1 
+
+
+where am i?/
+i am in the garden/
+this is the garden/
+this is our garden/
+this is a flower/
+this flower is beautiful/
+this flower is yellow/
+is this flower yellow?/
+no, this flower is not yellow/
+this flower is red/
+this is a plant/
+this plant is green/
+what am i doing?/
+am i watering the flower?/
+yes, i am watering the flower/
+am i watering the plant?/
+yes, i am watering the plant/
+this is a water/
+and i am watering the flower/
+i am watering the water and the plant/
+these are grass/
+these grass are green/
+these grass are yellow/
+i am on the grass/
+what am i doing on the grass/
+i am watering the grass/
+this is a Scissors/
+what do i do with the Scissors?/
+what can i do with the Scissors?/
+do you know what can i do with the Scissors?/
+yes, i cut/
+i cut with the Scissors/
+what am i doing?/
+am i cutting?/
+am i cutting the grass?/
+yes, i am cutting/
+i am cutting the grass/ 
+what am i doing?/
+am i cutting the grass?/
+no, i am not cutting the grass/
+am i watering the flower?/
+yes, i am watering the flower/
+what is this?/
+is this a pot/
+yes, this is a pot. it is a flower pot/
+where is the flower?/
+is the flower on the pot?/
+yes, the flower is on the pot/
+is the plant on the pot?/
+yes, the plant is on the pot/
+the flower and the plant are on the pots/
+this is fence/
+why is there a fence/
+fence protects the garden/
+do we need fence?/
+yes, we need fence/
+we need fence to protect the garden/
+the garden is inside the fence/
+i am inside the fence/
+i am on the garden/
+this is the soil/
+the flower is on the soil/
+this is a shovel/
+what am i doing?/
+am i shoveling/
+yes, i am shoveling/
+i am shoveling the soil/
+i am putting/
+i am putting the flower/
+i am putting the flower on the soil/
+i am putting the plant on the soil/
+i am watering the flower/
+i am watering the flower on the soil/
+i am watering the plant on the soil/
+i am watering the flower on the pot/
+i am watering the plant on the pot/
+i am watering the plant and the flower/
+i am watering the plant and the flower on the soil/

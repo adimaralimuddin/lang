@@ -1,0 +1,151 @@
+@tprs./
+i eat an apple/
+i eat an apple everyday/
+i eat a delicious red apple everyday/
+i eat a delicious red apple on a restaurant everyday/
+
+i eat an apple with my friend/
+i eat a delicious red apple with my friend/
+i eat a delicious red apple with my friend on a restaurant/
+i eat a delicious red apple with my friend on a restaurant everyday/
+i always eat a delicious red apple with my friend on a restaurant everyday/
+i always eat a delicious red apple with my father on a restaurant everyday/
+i always eat a delicious red apple with my sister on a restaurant everyday/
+i always eat a delicious red apple with my brother on a restaurant everyday/
+i always eat a delicious red apple with my mother on a restaurant everyday/
+
+i drink/
+i drink a coffee/
+i drink a coffee with cream/
+i drink a coffee with cream on a restaurant/
+i drink a coffee with cream on a restaurant everyday/
+i drink a coffee with cream on a restaurant with my friend everyday/
+i drink a coffee with cream on a restaurant with my father everyday/
+i drink a coffee with cream on a restaurant with my mother everyday/
+i drink a coffee with cream on a restaurant with my sister everyday/
+i drink a coffee with cream on a restaurant with my brother everyday/
+
+i always drink/
+i always drink a coffee/
+i always drink a coffee with cream/
+i always drink a coffee with cream on a restaurant/
+i always drink a coffee with cream on a restaurant everyday/
+i always drink a coffee with cream on a restaurant with my friend everyday/
+i always drink a coffee with cream on a restaurant with my father everyday/
+i always drink a coffee with cream on a restaurant with my mother everyday/
+i always drink a coffee with cream on a restaurant with my sister everyday/
+i always drink a coffee with cream on a restaurant with my brother everyday/
+
+i never drink/
+i never drink a coffee/
+i never drink a coffee with cream/
+i never drink a coffee with cream on a restaurant/
+i never drink a coffee with cream on a restaurant everyday/
+i never drink a coffee with cream on a restaurant with my friend everyday/
+i never drink a coffee with cream on a restaurant with my father everyday/
+i never drink a coffee with cream on a restaurant with my mother everyday/
+i never drink a coffee with cream on a restaurant with my sister everyday/
+i never drink a coffee with cream on a restaurant with my brother everyday/
+
+i often drink/
+i often drink a coffee/
+i often drink a coffee with cream/
+i often drink a coffee with cream on a restaurant/
+i often drink a coffee with cream on a restaurant everyday/
+i often drink a coffee with cream on a restaurant with my friend everyday/
+i often drink a coffee with cream on a restaurant with my father everyday/
+i often drink a coffee with cream on a restaurant with my mother everyday/
+i often drink a coffee with cream on a restaurant with my sister everyday/
+i often drink a coffee with cream on a restaurant with my brother everyday/
+
+i usually drink/
+i usually drink a coffee/
+i usually drink a coffee with cream/
+i usually drink a coffee with cream on a restaurant/
+i usually drink a coffee with cream on a restaurant everyday/
+i usually drink a coffee with cream on a restaurant with my friend everyday/
+i usually drink a coffee with cream on a restaurant with my father everyday/
+i usually drink a coffee with cream on a restaurant with my mother everyday/
+i usually drink a coffee with cream on a restaurant with my sister everyday/
+i usually drink a coffee with cream on a restaurant with my brother everyday/
+
+i sometimes drink/
+i sometimes drink a coffee/
+i sometimes drink a coffee with cream/
+i sometimes drink a coffee with cream on a restaurant/
+i sometimes drink a coffee with cream on a restaurant everyday/
+i sometimes drink a coffee with cream on a restaurant with my friend everyday/
+i sometimes drink a coffee with cream on a restaurant with my father everyday/
+i sometimes drink a coffee with cream on a restaurant with my mother everyday/
+i sometimes drink a coffee with cream on a restaurant with my sister everyday/
+i sometimes drink a coffee with cream on a restaurant with my brother everyday/
+
+i can drink/
+i can drink a coffee/
+i can drink a coffee with cream/
+i can drink a coffee with cream on a restaurant/
+i can drink a coffee with cream on a restaurant everyday/
+i can drink a coffee with cream on a restaurant with my friend everyday/
+i can drink a coffee with cream on a restaurant with my father everyday/
+i can drink a coffee with cream on a restaurant with my mother everyday/
+i can drink a coffee with cream on a restaurant with my sister everyday/
+i can drink a coffee with cream on a restaurant with my brother everyday/
+
+i can always drink/
+i can always drink a coffee/
+i can always drink a coffee with cream/
+i can always drink a coffee with cream on a restaurant/
+i can always drink a coffee with cream on a restaurant everyday/
+i can always drink a coffee with cream on a restaurant with my friend everyday/
+i can always drink a coffee with cream on a restaurant with my father everyday/
+i can always drink a coffee with cream on a restaurant with my mother everyday/
+i can always drink a coffee with cream on a restaurant with my sister everyday/
+i can always drink a coffee with cream on a restaurant with my brother everyday/
+
+i want to drink/
+i want to drink a coffee/
+i want to drink a coffee with cream/
+i want to drink a coffee with cream on a restaurant/
+i want to drink a coffee with cream on a restaurant everyday/
+i want to drink a coffee with cream on a restaurant with my friend everyday/
+i want to drink a coffee with cream on a restaurant with my father everyday/
+i want to drink a coffee with cream on a restaurant with my mother everyday/
+i want to drink a coffee with cream on a restaurant with my sister everyday/
+i want to drink a coffee with cream on a restaurant with my brother everyday/
+
+i always want to drink/
+i always want to drink a coffee/
+i always want to drink a coffee with cream/
+i always want to drink a coffee with cream on a restaurant/
+i always want to drink a coffee with cream on a restaurant everyday/
+i always want to drink a coffee with cream on a restaurant with my friend everyday/
+i always want to drink a coffee with cream on a restaurant with my father everyday/
+i always want to drink a coffee with cream on a restaurant with my mother everyday/
+i always want to drink a coffee with cream on a restaurant with my sister everyday/
+i always want to drink a coffee with cream on a restaurant with my brother everyday/
+
+i often want to drink/
+i often want to drink a coffee/
+i often want to drink a coffee with cream/
+i often want to drink a coffee with cream on a restaurant/
+i often want to drink a coffee with cream on a restaurant everyday/
+i often want to drink a coffee with cream on a restaurant with my friend everyday/
+i often want to drink a coffee with cream on a restaurant with my father everyday/
+i often want to drink a coffee with cream on a restaurant with my mother everyday/
+i often want to drink a coffee with cream on a restaurant with my sister everyday/
+i often want to drink a coffee with cream on a restaurant with my brother everyday/
+
+i usually want to drink/
+i usually want to drink a coffee/
+i usually want to drink a coffee with cream/
+i usually want to drink a coffee with cream on a restaurant/
+i usually want to drink a coffee with cream on a restaurant everyday/
+i usually want to drink a coffee with cream on a restaurant with my friend everyday/
+i usually want to drink a coffee with cream on a restaurant with my father everyday/
+i usually want to drink a coffee with cream on a restaurant with my mother everyday/
+i usually want to drink a coffee with cream on a restaurant with my sister everyday/
+i usually want to drink a coffee with cream on a restaurant with my brother everyday/
+
+
+i will eat an apple tomorrow/
+i ate an apple yesterday/

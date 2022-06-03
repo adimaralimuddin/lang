@@ -1,0 +1,49 @@
+@chat./
+
+A: Did you go to school today?/
+
+B: Yeah, I went to school today. Were you there?/
+
+A: No, I didn't go, I've been sick./
+
+B: That sucks. Did you want the assignments from English class?/
+
+A: That would be nice, thank you./
+
+B: No problem, you're welcome./
+
+A: I will be glad to do the same for you when you're sick./
+
+B: Well, thank you. I hope to see you at school tomorrow./
+
+A: Have you attended school today?/
+
+B: I attended school today. Did you?/
+
+A: I wasn't able to attend school because I was feeling ill./
+
+B: I'm sorry to hear that. Would you like the assignments from English class?/
+
+A: I would really appreciate that, thanks./
+
+B: It's no trouble at all./
+
+A: If you get sick, I'll return the favor./
+
+B: Thanks. See you at school tomorrow if you feel better./
+
+A: Have you gone to school today?/
+
+B: I went to school today. Did you go to school?/
+
+A: I couldn't go to school today, I was sick./
+
+B: That's horrible. I'd be happy to give you the assignments from English class./
+
+A: Thank you very much, that's kind of you./
+
+B: Don't mention it./
+
+A: When you miss a day of school, I'll be happy to give you the English assignments./
+
+B: That is greatly appreciated and I hope you feel well enough to go to school tomorrow./

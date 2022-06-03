@@ -1,0 +1,138 @@
+
+
+@tprs./
+i am eating/
+i am eating an apple/ 
+i am eating a red apple/ 
+i am eating a delicious red apple/
+he is eating/
+he is eating a delicious red apple/
+she is eating/
+she is eating a delicious yellow banana/
+you are eating/
+you are eating a green cake with vanilla/
+
+i always eat a red apple on a restaurant/
+you always eat a red apple on a restaurant/
+he always eats a red apple on a restaurant/
+she always eats a red apple on a restaurant/
+we always eat a red apple on a restaurant/
+they always eat a red apple on a restaurant/
+
+i never eat a red apple on a restaurant/
+you never eat a red apple on a restaurant/
+he never eats a red apple on a restaurant/
+she never eats a red apple on a restaurant/
+we never eat a red apple on a restaurant/
+they never eat a red apple on a restaurant/
+
+i often eat a red apple on a restaurant/
+you often eat a red apple on a restaurant/
+he often eats a red apple on a restaurant/
+she often eats a red apple on a restaurant/
+we often eat a red apple on a restaurant/
+they often eat a red apple on a restaurant/
+
+i usually eat a red apple on a restaurant/
+you usually eat a red apple on a restaurant/
+he usually eats a red apple on a restaurant/
+she usually eats a red apple on a restaurant/
+we usually eat a red apple on a restaurant/
+they usually eat a red apple on a restaurant/
+
+i sometimes eat a red apple on a restaurant/
+you sometimes eat a red apple on a restaurant/
+he sometimes eats a red apple on a restaurant/
+she sometimes eats a red apple on a restaurant/
+we sometimes eat a red apple on a restaurant/
+they sometimes eat a red apple on a restaurant/
+
+i am eating a delicious apple and a yellow banana/
+i am eating a green cake with vanilla and a delicious red apple/
+we are eating a delicious red apple and a delicious yellow banana/
+
+am i eating a delicious red apple or a delicious yellow banana?/
+yes, i am eating a delicious red apple and not a delicious yellow banana/
+
+i can eat/
+i can eat an apple/
+you can eat an apple/
+she can eat an apple/
+he can eat an apple/
+they can eat an apple/
+we can eat an apple/
+
+i love to eat a red apple./
+i love to eat a delicious big apple and a coffee with cream/
+i really love to eat a red apple./
+i really love to eat a delicious big apple and a coffee with cream/
+he really loves to eat a banana/
+you really love to eat a cake with vanilla/
+we really love to eat a delicious yellow banana/
+
+i want to eat a red apple/
+he wants to eat a yellow banana/
+she wants to eat a yellow banana and a coffee with cream/
+you want to eat a delicious green cake/
+we want to eat a delicious red apple/
+
+i really want to eat some banana/
+you really want to eat a coffee/
+she really wants to eat a yellow cake/
+we really want to eat a delicious yellow apple/ 
+
+i am eating an apple on a restaurant/ 
+he is eating an apple on a restaurant/
+she is eating a red apple in the kitchen/
+we are eating a delicious apple on a restaurant/
+they are eating a delicious yellow apple on a restaurant/
+
+i can eat an apple on a restaurant/ 
+he can eat an apple on a restaurant/
+she can eat a red apple in the kitchen/
+we can eat a delicious apple on a restaurant/
+they can eat a delicious yellow apple on a restaurant/
+
+i can always eat an apple on a restaurant/ 
+he can always eat an apple on a restaurant/
+she can always eat a red apple in the kitchen/
+we can always eat a delicious apple on a restaurant/
+they can always eat a delicious yellow apple on a restaurant/
+
+i want to eat an apple on a restaurant/
+you want to eat an apple on a restaurant/
+he want to eat an apple on a restaurant/
+she want to eat an apple on a restaurant/
+they want to eat an apple on a restaurant/
+
+i really want to eat an apple on a restaurant/
+you really want to eat an apple on a restaurant/
+he really want to eat an apple on a restaurant/
+she really want to eat an apple on a restaurant/
+they really want to eat an apple on a restaurant/
+
+i always want to eat an apple on a restaurant/
+you always want to eat an apple on a restaurant/
+he always want to eat an apple on a restaurant/
+she always want to eat an apple on a restaurant/
+they always want to eat an apple on a restaurant/
+
+i never want to eat an apple on a restaurant/
+you never want to eat an apple on a restaurant/
+he never want to eat an apple on a restaurant/
+she never want to eat an apple on a restaurant/
+they never want to eat an apple on a restaurant/
+
+i love to eat an apple on a restaurant/
+you love to eat an apple on a restaurant/
+he love to eat an apple on a restaurant/
+she love to eat an apple on a restaurant/
+they love to eat an apple on a restaurant/
+
+i really love to eat an apple on a restaurant/
+you really love to eat an apple on a restaurant/
+he really love to eat an apple on a restaurant/
+she really love to eat an apple on a restaurant/
+they really love to eat an apple on a restaurant/
+
+

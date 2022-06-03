@@ -1,0 +1,55 @@
+
+@tprs./
+the weather/
+the weather is cold/
+today the weather is cold/
+i am wearing my jacket/
+why am i wearing my jacket/
+because it is cold/
+outside is very cold/
+it is raining/
+this is a rain/
+is it raining today?/
+yes, it is raining today/
+look! an umbrella/
+i have an umbrella/
+i am using my umbrella/
+it's windy/
+the wind is strong/
+my umbrella is broken/
+it is freezing!/
+i need to go home/
+oh wait, the rain is stoping/
+the rain had stoped/
+it is snowing now/
+this is a snow/
+snow is white/
+it is very cold/
+i am really freezing/
+look at that!/
+is that a rainbow?/
+yes, that is a rainbow/
+that rainbow is very beautiful/
+how many colors rainbow has?/
+how many colors do you see?/
+are there lots of colors?/
+yes, there are lots of colors/
+there are red, blue, green and yellow/
+i like rainbow/
+do you like rainbow?/
+yes, you do like rainbow/
+rainbow is very beautiful/
+now, it's hot/
+it feels hot/
+i do not need a jacket/
+i am taking of the jacket/
+why?. why am i taking the jacket off?/
+is it becuase it's hot?/
+yes, it is because it's hot/
+why is it hot?/
+is it because it is a sunny day?/
+yes, it is because it's a sunny day/ 
+it is very hot/ 
+
+
+

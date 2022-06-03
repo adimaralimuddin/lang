@@ -1,0 +1,95 @@
+
+family
+
+@chat./
+1 How many #people are there in your #family?/
+2 There are 5 people in my family: my #father, #mother, brother, sister, and me./
+1 Does your family #live in a #house or an #apartment?/
+2 We live in a house in the countryside./
+1 What does your father do?/
+2 My father is a #doctor. He works at the local #hospital./
+1 How old is your mother?/
+2 She is 40 years old, 1 year #younger than my father./
+1 Do you have any #siblings? What’s his name?/
+2 Yes, I do. I have 1 elder #brother, David, and 1 younger #sister, Mary./
+1 Are you the #oldest amongst your brothers and sisters?/
+2 No, I’m not. I’m the second #child in my family./
+1 What does your mother and your father #like?/
+2 My father likes #playing football and my mother likes #cooking./
+1 Do your #parents let you stay out late?/
+2 Of course not. They #always #ask me to get home before 10 pm each night./
+1 Do you #stay with your parents?/
+2 Right #now, no, but I used to./
+1 Does your family #usually have dinner #together?/
+2 Yes, we do. My mom always #prepares delicious #meals for us./
+
+
+restaurant
+
+@chat./
+1 How #often do you eat out? Who do you #go with?/
+2 I often eat out on #weekends, when I hang out with my #friends./
+1 What #restaurant do you usually #visit?/
+2 Well, there are not #many restaurants in my neighborhood, so my best #choice is the deli in convenient stores like the Circle K, Mini-Stop, B-smart./
+1 What type of #food do you enjoy to eat? #Western or #Asian?/
+2 I’m #interested in Asian food, Western food is not my thing./
+1 How much do you usually #pay when you eat out?/
+2 It’s not very #expensive, just around $5 for each #meal./
+1 Do you #enjoy #spicy food?/
+2 Yes, I do, especially on cold #days./
+1 Are the #servers there #friendly to you?/
+2 Yes, they are. Most of them are really #helpful./
+1 Have you ever #tried Italian food?/
+2 Yes, at least #once, when I was in my friend’s #wedding party./
+1 Are you #concerned #about calories when eating out?/
+2 Yes, I am. I’m on diet #now, so this really matters to me./
+1 Are fast food restaurants like KFC or McDonald’s #famous in your #country?/
+2 Yes, they are. The youth in my country are big fans of fast food./
+1 Do you often #drink #alcohol when eating out?/
+2 No, not #often. Just when I have #parties with my friends./
+
+books 
+
+@chat./
+1 How #often do you #read #books?/
+2 I read books #almost every night #before I go to bed./
+1 What’s your #favorite type of book?/
+2 I love reading about different #cultures./
+1 What can you #learn from books?/
+2 Books can #broaden my horizon about thousands of #things around the #world, and books are #also my #best friends./
+1 #Where do you read books?/
+2 I read books at #home, #sometimes in the #library./
+1 What’s the most #interesting book you have ever read?/
+2 I think that would be #Nepal, a book #written #about the country of Nepal, #published in 1999./
+1 How long does it take you to #finish a book?/
+2 Well, it #depends on the length of the book, but it usually takes me a #week to finish a 300-page book./
+1 Do you usually #bring books with you when you #travel?/
+2 Yes, I do. When I’m at the #airport #or bus #station, I read books to kill time./
+1 Is there #any bookstore or library in your #area?/
+2 #Unfortunately, there are #none near my #house. The #nearest one is 3 kilometers #away./
+
+travel 
+
+@chat./
+1 How #many #places have you #traveled to?/
+2 I’ve visited all the #provinces throughout my #country./
+1 Who do you #usually #go #with?/
+2 I often go with my #family, #sometimes with my best friends./
+1 What’s your #favorite #tourist attraction?/
+2 That would be Venice #city in #Italy. I #love riding the gondola along the canals while #watching Italian #people live their daily lives./
+1 Have you ever been #abroad?/
+2 Yes, I have. I #came to Italy #last year for a #business #trip./
+1 What #language do you use when #traveling?/
+2 #English, but sometimes I have to use body language #since not all people are good at English./
+1 What do you usually #do #during your trip?/
+2 I #often go sightseeing, #take #pictures, mingle with the local people and sample the local #cuisine./
+1 What do you #do to #prepare for your trip?/
+2 #Before the trip, I #search for information #about the #location, weather, famous tourist attractions, transportation, local #cuisine and prices on the internet./
+1 What do you #usually #bring when you travel?/
+2 I usually pack my #suitcase with some necessary items such as #clothes, #medicine, #food, a map, and a camera./
+1 Do you #prefer traveling by #car, #train or #plane?/
+2 I prefer planes #although it can be a little #expensive. Planes are much #faster than any other mode of transport./
+1 Do you #prefer traveling #alone or joining a guided tour?/
+2 I #love backpacking with my #friends who share the same interests as me./
+
+

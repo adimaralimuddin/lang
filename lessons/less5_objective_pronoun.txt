@@ -1,0 +1,272 @@
+lesson 5 objective pronoun 
+
+@word.
+apple.
+an apple. 
+the apple.
+
+@word.
+this.
+this apple.
+
+@word.
+this is an apple 
+this is the apple.
+
+@ask. apple.an apple.this.this apple.
+
+@word.
+my apple.
+
+
+this is my apple.
+your apple.
+this is your apple.
+
+@word.
+that.
+that apple.
+
+@word.
+that is my apple.
+that is your apple. 
+
+@image.
+apple.orange.fish.girl.
+
+@ask.
+apple.an apple.the apple.
+
+@ask.
+this.that.
+this apple.that apple.
+
+@ask.
+this is an apple.that is an apple.
+this is my apple.that is my apple.
+
+@ask.
+this is his apple.that is his apple.
+this is her apple.that is her apple.
+
+@word.
+orange.
+and.
+orange and apple.
+
+@word.
+this orange.
+this orange and this apple.
+that orange and that apple. 
+
+@chat./
+1 what is this?./
+2 this is an apple./
+1what is that?./
+2that is an orange./
+1 is this an apple and an orange?./
+2 yes, it is an apple and an orange. 
+-------------------------------------------------------------
+@word.
+it.
+it is an apple.
+it is an orange.
+it is an apple and an orange.
+
+@chat./
+2 what is it? is it an apple?./
+1 no, it is not an apple./
+2 what is it then?.
+1 it is an orange. 
+
+@ask.
+apple.orange.
+an apple.an orange.
+the apple.the orange.
+
+@ask.
+this.that.and.
+this is an apple.
+that is an apple.
+apple and orange.
+
+@ask.
+apple and orage.
+an apple and an orange.
+this is an apple and an orange.
+
+@tprs./
+this is an apple./
+do you know what #color is an apple?/
+yes, red. apples are #red./
+#where is the apple?/
+do you #see the apple?/
+yes, you do see the apple./
+do you know where the apple is?./
+the apple is at the table./
+how many apples do you see?./
+there are #two apples./
+do you love apple?./
+of course you do love apples./
+apples are #delicious./
+
+
+@chat./
+2 hi aisha, what are you doing?./
+1 i am #eating./
+2 what are you eating?./
+1 i am eating an apple./
+2 do you eat orange?./
+1 yes, i do eat orange. orange are #delicous.
+
+///////////////////////////////////////////////////////////////////
+practice 
+
+---------------------------------------------------------------
+practice this is my cat.
+
+@word.
+cat.
+a cat.
+the cat.
+this cat.
+that cat. 
+
+@word.
+my cat.
+your cat.
+his cat.
+her cat.
+
+@word.
+this cat is #cute.
+this is her cat.
+that cat is #black.
+
+@tprs.
+what is this?.
+do you know what this is?.
+yes, you do know what this is, this is a cat.
+what #color does this cat has?.
+
+
+
+@chat./
+2 hi aisha, how are you?./
+1 hi mike, i am fine thankyou./
+2 is this your cat?./
+1 yes, it is my cat/
+2 your cat is cute/
+1 thanks, do you have a cat?/
+2 me? yes, i do have a cat/
+1 what is it like?/
+2 my cat is black.
+
+@ask. thank you. how are you. i am fine.
+@ask. cat.my cat.your cat.black.cute.
+
+-----------------------------------------------------------------
+practice your house is big 
+
+@word.
+house.
+a house.
+the house.
+this house.
+
+@word.
+this is a house.
+this house is #big.
+that is my house.
+
+@chat./
+1 hi mike, is that your house?./
+2 where? no, that is not my house./
+1 where is your house?./
+2 there is my house./
+1 where? i can't #see it./
+2 my house is right over there. do you see it?/
+1 yes, i do see it. wow! your house is #beautiful./
+2 it is #big too.
+
+@word.
+my house.your house.his house.her house. 
+
+@chat./
+2 do you see that house?/
+1 where? #which one?/
+2 the #blue one./
+1 yes, i do see it. why?/
+2 that is my #new house./
+1 #really? it is beautiful/
+2 would you like to #see it?/
+1 of course, i would love to it.
+
+@ask. house.my house.
+@ask. new.blue.beautiful 
+@ask. really.see.which.
+
+----------------------------------------------------------------
+practice this is my room 
+
+@word.
+room.
+a room.
+the room.
+this room.
+that room.
+
+@word.
+this is my room.
+this room is #spacious.
+that room is #dark.
+
+@chat./
+2 hi aisha, is this your room?/
+1 yes, this is my room. is it beautiful?/
+2 it is #very beautiful. i like the #color./
+1 i just painted it./
+2 oh really? it looks great. when did you #painted it?/
+1 i painted it #yesterday. 
+
+@ask.
+room.color.very beautiful.
+
+@ask.
+really.painted.yesterday.
+
+@chat./
+1 excused me sir, do you #know where my room is?/
+2 what is your room #number?/
+1 it is 206./
+2 yes, it is right over here, please #follow me./
+1 thank you ./
+2 here is your room miss./
+1 thankyou for your #help sir/
+2 you're welcome. 
+
+@ask. know.number.follow 
+@ask. thankyou.you're welcome.
+
+@chat./
+1 hi mike, can you help me find my room?/
+2 sure, can i see your room number?/
+1 my room number is 206/
+2 i know where your room is, follow me./
+2 here is your room aisha. /
+1 thanks for your help mike./
+2 no problem. who is your #roommate?/
+1 maria is my roommate./
+2 where is she?/
+1 she will be here soon./
+2 well, i must go find my room. see you./
+1 see you mike, and thanks for your help.
+
+
+
+
+
+
+
+
+

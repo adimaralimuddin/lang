@@ -1,0 +1,600 @@
+
+api-------------
+curl https://developer.voicemaker.in/voice/api \
+  -H "Authorization: Bearer 7098aab0-add7-11ec-8846-15839822bd7a" \
+  -H "Content-Type: application/json" \
+  -d '{"Engine": "neural", "VoiceId": "ai3-Jony", "LanguageCode": "en-US", "Text": "Welcome to the Air.", "OutputFormat": "mp3", "SampleRate": "48000", "Effect": "default", "MasterSpeed": "0", "MasterVolume": "0", "MasterPitch": "0" }' \
+  > '{ "success": true, "path": "https://developer.voicemaker.in/uploads/1605002662512-voicemaker.in-speech.mp3"}'
+---------------
+
+@stage start
+@word
+@convers
+@choice 
+@pair
+@finish stage
+
+
+this, that, it, the, a, and , of , to , for,
+
+what_, who_, how, where, when, which
+
+pronoun-----------------------------
+i_, me, we, us, my_, mine, our, ours
+you, your_, yours,
+he_, she, his_, him, her, they, thier, thiers
+
+noun------------------------------
+'fish', rice, cat, dob, boy, girl, table, apple, banana,
+street, mother, father, house, room, car, door, school,
+brother, sister, friend, teacher, book, bag, pen, store, motorbike
+
+adverb---------------------------
+if, but, because, with, yet, also, then, too, before, after, 
+already, always, never, again, still, untill, often
+almost, while, usually, 
+
+preposition place ---------------
+in, on, at , inside, outside, under, above, below, between
+
+preposition time ----------------
+now, today, tonight, tommorow, yesterday,
+later, soon, 
+
+adjective ----------------------
+delicious, cute, pretty, small, big, tall, short, hot, cold,
+fast, slow, long, old, new
+
+verb---------------------------
+do, can, will, want, like, love, make
+eat, drink , read, sit, sleep, walk, watch,
+see, smell, touch, taste, feel, hear, 
+call, listen, say, tell, speak,
+take, hold, give, bring, keep,
+find, search, hide, close, open, stop, start
+forget, remember, believe, think, understand,
+clean, brush,  
+
+language ----------------------------------------
+"translation":{108 items
+"af":{3 items
+"name":"Afrikaans"
+"nativeName":"Afrikaans"
+"dir":"ltr"
+}
+"am":{3 items
+"name":"Amharic"
+"nativeName":"አማርኛ"
+"dir":"ltr"
+}
+"ar":{3 items
+"name":"Arabic"
+"nativeName":"العربية"
+"dir":"rtl"
+}
+"as":{3 items
+"name":"Assamese"
+"nativeName":"অসমীয়া"
+"dir":"ltr"
+}
+"az":{3 items
+"name":"Azerbaijani"
+"nativeName":"Azərbaycan"
+"dir":"ltr"
+}
+"ba":{3 items
+"name":"Bashkir"
+"nativeName":"Bashkir"
+"dir":"ltr"
+}
+"bg":{3 items
+"name":"Bulgarian"
+"nativeName":"Български"
+"dir":"ltr"
+}
+"bn":{3 items
+"name":"Bangla"
+"nativeName":"বাংলা"
+"dir":"ltr"
+}
+"bo":{3 items
+"name":"Tibetan"
+"nativeName":"བོད་སྐད་"
+"dir":"ltr"
+}
+"bs":{3 items
+"name":"Bosnian"
+"nativeName":"Bosnian"
+"dir":"ltr"
+}  
+"ca":{3 items
+"name":"Catalan"
+"nativeName":"Català"
+"dir":"ltr"
+}
+"cs":{3 items
+"name":"Czech"
+"nativeName":"Čeština"
+"dir":"ltr"
+}
+"cy":{3 items 
+"name":"Welsh"
+"nativeName":"Cymraeg"
+"dir":"ltr"
+}
+"da":{3 items
+"name":"Danish"
+"nativeName":"Dansk"
+"dir":"ltr"
+}
+"de":{3 items
+"name":"German"
+"nativeName":"Deutsch"
+"dir":"ltr"
+}
+"dv":{3 items
+"name":"Divehi"
+"nativeName":"ދިވެހިބަސް"
+"dir":"rtl"
+}
+"el":{3 items
+"name":"Greek"
+"nativeName":"Ελληνικά"
+"dir":"ltr"
+}
+"en":{3 items
+"name":"English"
+"nativeName":"English"
+"dir":"ltr"
+}
+"es":{3 items
+"name":"Spanish"
+"nativeName":"Español"
+"dir":"ltr"
+}
+"et":{3 items
+"name":"Estonian"
+"nativeName":"Eesti"
+"dir":"ltr"
+}
+"fa":{3 items
+"name":"Persian"
+"nativeName":"فارسی"
+"dir":"rtl"
+}
+"fi":{3 items
+"name":"Finnish"
+"nativeName":"Suomi"
+"dir":"ltr"
+}
+"fil":{3 items
+"name":"Filipino"
+"nativeName":"Filipino"
+"dir":"ltr"
+}
+"fj":{3 items
+"name":"Fijian"
+"nativeName":"Na Vosa Vakaviti"
+"dir":"ltr"
+}
+"fr":{3 items
+"name":"French"
+"nativeName":"Français"
+"dir":"ltr"
+}
+"fr-CA":{3 items
+"name":"French (Canada)"
+"nativeName":"Français (Canada)"
+"dir":"ltr"
+}
+"ga":{3 items
+"name":"Irish"
+"nativeName":"Gaeilge"
+"dir":"ltr"
+}
+"gu":{3 items
+"name":"Gujarati"
+"nativeName":"ગુજરાતી"
+"dir":"ltr"
+}
+"he":{3 items
+"name":"Hebrew"
+"nativeName":"עברית"
+"dir":"rtl"
+}
+"hi":{3 items
+"name":"Hindi"
+"nativeName":"हिन्दी"
+"dir":"ltr"
+}
+"hr":{3 items
+"name":"Croatian"
+"nativeName":"Hrvatski"
+"dir":"ltr"
+}
+"hsb":{3 items
+"name":"Upper Sorbian"
+"nativeName":"Hornjoserbšćina"
+"dir":"ltr"
+}
+"ht":{3 items
+"name":"Haitian Creole"
+"nativeName":"Haitian Creole"
+"dir":"ltr"
+}
+"hu":{3 items
+"name":"Hungarian"
+"nativeName":"Magyar"
+"dir":"ltr"
+} 
+"hy":{3 items
+"name":"Armenian"
+"nativeName":"Հայերեն"
+"dir":"ltr"
+}
+"id":{3 items
+"name":"Indonesian"
+"nativeName":"Indonesia"
+"dir":"ltr"
+}
+"ikt":{3 items
+"name":"Inuinnaqtun"
+"nativeName":"Inuinnaqtun"
+"dir":"ltr"
+}
+"is":{3 items
+"name":"Icelandic"
+"nativeName":"Íslenska"
+"dir":"ltr"
+}
+"it":{3 items
+"name":"Italian"
+"nativeName":"Italiano"
+"dir":"ltr"
+}
+"iu":{3 items
+"name":"Inuktitut"
+"nativeName":"ᐃᓄᒃᑎᑐᑦ"
+"dir":"ltr"
+}
+"iu-Latn":{3 items
+"name":"Inuktitut (Latin)"
+"nativeName":"Inuktitut (Latin)"
+"dir":"ltr"
+}
+"ja":{3 items
+"name":"Japanese"
+"nativeName":"日本語"
+"dir":"ltr"
+}
+"ka":{3 items
+"name":"Georgian"
+"nativeName":"ქართული"
+"dir":"ltr"
+}
+"kk":{3 items
+"name":"Kazakh"
+"nativeName":"Қазақ Тілі"
+"dir":"ltr"
+}
+"km":{3 items
+"name":"Khmer"
+"nativeName":"ខ្មែរ"
+"dir":"ltr"
+}
+"kmr":{3 items
+"name":"Kurdish (Northern)"
+"nativeName":"Kurdî (Bakur)"
+"dir":"ltr"
+}
+"kn":{3 items
+"name":"Kannada"
+"nativeName":"ಕನ್ನಡ"
+"dir":"ltr"
+}
+"ko":{3 items
+"name":"Korean"
+"nativeName":"한국어"
+"dir":"ltr"
+}
+"ku":{3 items
+"name":"Kurdish (Central)"
+"nativeName":"Kurdî (Navîn)"
+"dir":"rtl"
+}
+"ky":{3 items
+"name":"Kyrgyz"
+"nativeName":"Kyrgyz"
+"dir":"ltr"
+}
+"lo":{3 items
+"name":"Lao"
+"nativeName":"ລາວ"
+"dir":"ltr"
+}
+"lt":{3 items
+"name":"Lithuanian"
+"nativeName":"Lietuvių"
+"dir":"ltr"
+}
+"lv":{3 items
+"name":"Latvian"
+"nativeName":"Latviešu"
+"dir":"ltr"
+}
+"lzh":{3 items
+"name":"Chinese (Literary)"
+"nativeName":"中文 (文言文)"
+"dir":"ltr"
+}
+"mg":{3 items
+"name":"Malagasy"
+"nativeName":"Malagasy"
+"dir":"ltr"
+}
+"mi":{3 items
+"name":"Māori"
+"nativeName":"Te Reo Māori"
+"dir":"ltr"
+}
+"mk":{3 items
+"name":"Macedonian"
+"nativeName":"Македонски"
+"dir":"ltr"
+}
+"ml":{3 items
+"name":"Malayalam"
+"nativeName":"മലയാളം"
+"dir":"ltr"
+}
+"mn-Cyrl":{3 items
+"name":"Mongolian (Cyrillic)"
+"nativeName":"Mongolian (Cyrillic)"
+"dir":"ltr"
+}
+"mn-Mong":{3 items
+"name":"Mongolian (Traditional)"
+"nativeName":"ᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ"
+"dir":"ltr"
+}
+"mr":{3 items
+"name":"Marathi"
+"nativeName":"मराठी"
+"dir":"ltr"
+}
+"ms":{3 items
+"name":"Malay"
+"nativeName":"Melayu"
+"dir":"ltr"
+}
+"mt":{3 items
+"name":"Maltese"
+"nativeName":"Malti"
+"dir":"ltr"
+}
+"mww":{3 items
+"name":"Hmong Daw"
+"nativeName":"Hmong Daw"
+"dir":"ltr"
+}
+"my":{3 items
+"name":"Myanmar (Burmese)"
+"nativeName":"မြန်မာ"
+"dir":"ltr"
+}
+"nb":{3 items
+"name":"Norwegian"
+"nativeName":"Norsk Bokmål"
+"dir":"ltr"
+}
+"ne":{3 items
+"name":"Nepali"
+"nativeName":"नेपाली"
+"dir":"ltr"
+}
+"nl":{3 items
+"name":"Dutch"
+"nativeName":"Nederlands"
+"dir":"ltr"
+}
+"or":{3 items
+"name":"Odia"
+"nativeName":"ଓଡ଼ିଆ"
+"dir":"ltr"
+}
+"otq":{3 items
+"name":"Querétaro Otomi"
+"nativeName":"Hñähñu"
+"dir":"ltr"
+}
+"pa":{3 items
+"name":"Punjabi"
+"nativeName":"ਪੰਜਾਬੀ"
+"dir":"ltr"
+}
+"pl":{3 items
+"name":"Polish"
+"nativeName":"Polski"
+"dir":"ltr"
+}
+"prs":{3 items
+"name":"Dari"
+"nativeName":"دری"
+"dir":"rtl"
+}
+"ps":{3 items
+"name":"Pashto"
+"nativeName":"پښتو"
+"dir":"rtl"
+}
+"pt":{3 items
+"name":"Portuguese (Brazil)"
+"nativeName":"Português (Brasil)"
+"dir":"ltr"
+}
+"pt-PT":{3 items
+"name":"Portuguese (Portugal)"
+"nativeName":"Português (Portugal)"
+"dir":"ltr"
+}
+"ro":{3 items
+"name":"Romanian"
+"nativeName":"Română"
+"dir":"ltr"
+}
+"ru":{3 items
+"name":"Russian"
+"nativeName":"Русский"
+"dir":"ltr"
+}
+"sk":{3 items
+"name":"Slovak"
+"nativeName":"Slovenčina"
+"dir":"ltr"
+}
+"sl":{3 items
+"name":"Slovenian"
+"nativeName":"Slovenščina"
+"dir":"ltr"
+}
+"sm":{3 items
+"name":"Samoan"
+"nativeName":"Gagana Sāmoa"
+"dir":"ltr"
+}
+"so":{3 items
+"name":"Somali"
+"nativeName":"Af Soomaali"
+"dir":"ltr"
+}
+"sq":{3 items
+"name":"Albanian"
+"nativeName":"Shqip"
+"dir":"ltr"
+}
+"sr-Cyrl":{3 items
+"name":"Serbian (Cyrillic)"
+"nativeName":"Српски (ћирилица)"
+"dir":"ltr"
+}
+"sr-Latn":{3 items
+"name":"Serbian (Latin)"
+"nativeName":"Srpski (latinica)"
+"dir":"ltr"
+}
+"sv":{3 items
+"name":"Swedish"
+"nativeName":"Svenska"
+"dir":"ltr"
+}
+"sw":{3 items
+"name":"Swahili"
+"nativeName":"Kiswahili"
+"dir":"ltr"
+}
+"ta":{3 items
+"name":"Tamil"
+"nativeName":"தமிழ்"
+"dir":"ltr"
+}
+"te":{3 items
+"name":"Telugu"
+"nativeName":"తెలుగు"
+"dir":"ltr"
+}
+"th":{3 items
+"name":"Thai"
+"nativeName":"ไทย"
+"dir":"ltr"
+}
+"ti":{3 items
+"name":"Tigrinya"
+"nativeName":"ትግር"
+"dir":"ltr"
+}
+"tk":{3 items
+"name":"Turkmen"
+"nativeName":"Türkmen Dili"
+"dir":"ltr"
+}
+"tlh-Latn":{3 items
+"name":"Klingon (Latin)"
+"nativeName":"Klingon (Latin)"
+"dir":"ltr"
+}
+"tlh-Piqd":{3 items
+"name":"Klingon (pIqaD)"
+"nativeName":"Klingon (pIqaD)"
+"dir":"ltr"
+}
+"to":{3 items
+"name":"Tongan"
+"nativeName":"Lea Fakatonga"
+"dir":"ltr"
+}
+"tr":{3 items
+"name":"Turkish"
+"nativeName":"Türkçe"
+"dir":"ltr"
+}
+"tt":{3 items
+"name":"Tatar"
+"nativeName":"Татар"
+"dir":"ltr"
+}
+"ty":{3 items
+"name":"Tahitian"
+"nativeName":"Reo Tahiti"
+"dir":"ltr"
+}
+"ug":{3 items
+"name":"Uyghur"
+"nativeName":"ئۇيغۇرچە"
+"dir":"rtl"
+}
+"uk":{3 items
+"name":"Ukrainian"
+"nativeName":"Українська"
+"dir":"ltr"
+}
+"ur":{3 items
+"name":"Urdu"
+"nativeName":"اردو"
+"dir":"rtl"
+}
+"uz":{3 items
+"name":"Uzbek (Latin)"
+"nativeName":"Uzbek (Latin)"
+"dir":"ltr"
+}
+"vi":{3 items
+"name":"Vietnamese"
+"nativeName":"Tiếng Việt"
+"dir":"ltr"
+}
+"yua":{3 items
+"name":"Yucatec Maya"
+"nativeName":"Yucatec Maya"
+"dir":"ltr"
+}
+"yue":{3 items
+"name":"Cantonese (Traditional)"
+"nativeName":"粵語 (繁體)"
+"dir":"ltr"
+}
+"zh-Hans":{3 items
+"name":"Chinese Simplified"
+"nativeName":"中文 (简体)"
+"dir":"ltr"
+}
+"zh-Hant":{3 items
+"name":"Chinese Traditional"
+"nativeName":"繁體中文 (繁體)"
+"dir":"ltr"
+}
+"zu":{3 items
+"name":"Zulu"
+"nativeName":"Isi-Zulu"
+"dir":"ltr"
+}
+}

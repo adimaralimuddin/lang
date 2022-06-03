@@ -1,0 +1,111 @@
+airport 
+
+@tprs./
+this is the airport/
+i am going/
+i am going to the airport/
+where am i going?/
+am i going to the airport?/
+yes, i am going to the airport/
+is Roni going to the airport?/
+no, Roni is not going to the airport/
+Roni is staying/
+where is he staying?/
+is he staying at home?/
+yes, he is staying at home/
+he stays inside the house/
+he is not going out/
+he is just staying inside the house/
+is Putri going?/
+yes, Putri is also going to the airport/
+she is going with Ambuh/
+they are going to the Airport togather/
+i am going to the airport alone/
+now, i am driving/
+i am driving towards the airport/
+where am i driving to?/
+am i driving to the airport?/
+yes, i am driving to the airport/
+why?. why am i driving to the airport?/
+is it because i am going to the airport?/
+yes, that is because i am going to the airport/
+am i going to the airport with someone?/
+no, i am not going to the airport with someone/
+am i going to the airport alone?/
+yes, i am going to the airport alone/
+who is going to the airport with someone?/
+is Putri going to the airport with somene?/
+yes, Putri is going to the airport with someone/
+she is going to the airport with Ambuh/
+Roni is leaving/
+is Roni leaving?/
+yes, he is leaving/
+where is he leaving?/
+do you know where he is leaving?/
+is he leaving to the airport?/
+yes, he is leaving to the airport/
+am i leaving to the airport?/
+yes, me too. i am leaving to the airport/
+i am going to the airport alone/
+i am driving towards the airport alone/
+i am leaving the house/
+i am leaving to the airport/
+am i staying in the house?/
+no, i am not staying/
+am i going?/
+yes, i am going/
+where am i going?/
+am i going to the airport?/
+yes, i am going to the airport/
+am i going to the airport with someone?/
+no, i am not going to the airport with someone/
+am i going to the airport alone?/
+yes, i am going to the airport alone/
+is Roni staying?/
+no, Roni is no longer staying inside the house/
+is he leaving?/
+yes he is leaving/
+he is leaving the house/
+where is he leaving?/
+do you know where he is leaving?/
+is he leaving for the airport?/
+yes, he is leaving for the airport/
+where is he going?/
+is he going to the airport?/
+yes, he is going to the airport/
+is he driving?/
+no, he is not driving/
+is he taking the bus?/
+yes, he is taking the bus/
+where does the bus go?/
+is the bus going to the airport?/
+yes, the bus is going to the airport/
+where am i ?/
+am i in the airport?/
+yes, i am in the airport/
+i am alone in the airport/
+is Roni coming?/
+yes, ROni is coming/
+where is he coming?/
+can you tell me where he is coming?/
+is he coming towards me?/
+yes, he is coming towards me/
+is Putri coming towards us?/
+yes Putri is coming towards us/
+is Putri alone?/
+no, Putri is not alone. Putri is with someone/
+is Putri with Ambuh?/
+yes, Putri is with Ambuh/
+are they coming?/
+yes, they are coming/
+are they coming towards us?/
+yes, they are coming towards us/
+are they staying at home?/
+no, they are not staying at home/
+are they going?/
+yes they are going?/
+are they going to the airport?/
+yes, they are going to the airport?/
+are they going to the airport with us?/
+yes, they are going to the airport with us/
+

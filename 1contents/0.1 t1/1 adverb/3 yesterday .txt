@@ -1,0 +1,27 @@
+
+@tprs./
+yesterday/
+yesterday was thursday/
+yesterday was sunday/
+yesterday was tuesday/ 
+i was eating/
+i was eating yesterday/
+did i eat?/
+did i eat today?/
+no, i did not eat today/
+when did i eat?/
+did i eat yesterday?/
+yes, i eat yesterday/
+i was eating the apple yesterday/
+am i eating the apple today?/
+no, i am not eating the apple today/
+when did i eat the apple?/
+was i eating the apple yesterday?/
+yes, i was eating the apple yesterday/
+i went yesterday/
+i went to school yesterday/
+did i went to school today?/
+no, i did not went to school today/
+when did i went to school?/
+did i went to school yesterday?/
+yes, i went to school yesterday/

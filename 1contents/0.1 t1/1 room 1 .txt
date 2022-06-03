@@ -1,0 +1,181 @@
+
+@tprs./
+this is a room/
+this is my room/
+this room is beautiful/
+this is a beautiful room/
+this is my beautiful room/
+this room is big/
+this room is very big/
+i have a big beautiful room/
+do i have a room?/
+yes, i have a room/
+do i have a big room?/
+yes, i have a big room/
+do i have two rooms?/
+no, i do not have two rooms/
+do i only have one room?/
+yes, i only have one room/
+do i have a beautiful room?/
+yes, i have a very beautiful room/
+i am inside my room/
+where am i?. am i outside my room?/
+no, i am not outside my room/
+am i far from my room?/
+no, i am not far from my room/
+am i inside my room?/
+yes, i am inside my room/
+i love my room/
+i love my beautiful room/
+i love my big beautiful room/
+is this room small?/
+no, this room is not small/
+is this room big?/
+yes, this room is big/
+this room is always opened/
+is this room always closed?/
+no, this room is not always closed/
+this room is always opened/ 
+that is my bed/
+that bed is white/
+is that bed white or blue?/
+yes, that bed is white. it is not blue/
+i am in my bed/
+am i under my bed?/
+no, i am not under my bed/
+am i between my beds?/
+no, i am not between my beds/
+am i in my bed?/
+yes, i am in my bed/
+this is my chair/
+my chair is new/
+it is a new white chair/
+where is my chair?/
+is my chair between  the beds?/
+no, the chair is not between the beds/
+is the chair besides the bed?/
+yes, the chair is besides the bed/
+there are one chair/
+how many chair do you see?/
+is there two chair?/
+no, there are no two chair/
+how many chairs are there?/
+are there only one chair?/
+yes, there are only one chair/
+i have one chair/
+i only have one chair/
+how many chairs do i have?/
+do i have a lot of chairs?/
+no, i do not have a lot of chairs/
+how many chairs do i have?/
+do i only have one chair?/
+yes, i only have one chair/
+i like my chair/
+i really like my chair/
+i always like my chair and my bed/
+my chair is very new/
+this is my pellow/
+these are my pellows/
+is there any pellows?/
+yes, there are pellows/
+there are two pellows/
+how many pellow are there?/
+what do you see?/
+is there one pellow?/
+no, there is not one pellow/
+are there two pellows?/
+yes, there are two pellows/
+i have two pellows/
+how many pellows do i have?/
+do i have one pellow?/
+no, i do not have one pellow/
+do i have two pellows?/
+yes, i have two pellows/
+i have two white pellows/
+my pellows are white/
+where are my pellows?/
+are my pellows under my bed?/
+no, my pellows are not under my bed/
+are my pellows between my chair?/
+no, my pellows are not between my chair/
+are my pellows on my bed?/
+yes, my pellows are on my bed/
+
+
+@tprs./ 
+sleep/
+i am sleeping/
+i am sleeping on my bed/
+i like to sleep on my bed/
+i like to sleep on my big bed/
+i like to sleep on my big beautiful bed/
+i always like to sleep on my big beautiful bed/
+i really like to slepp on my bed/
+i really like to sleep on my big beautiful bed/ 
+
+am i eating?/
+no, i am not eating/
+am i sleeping?/
+yes, i am sleeping/
+where am i sleeping?/
+do you know where?/
+do you know where i am sleeping?/
+am i sleeping under my bed?/
+no, i am not sleeping under my bed/
+am i sleeping under my chair?/
+no, i am not sleeping under my chair/
+am i sleeping between my beds?/
+no, i am not sleeping between my beds/
+am i sleeping on my bed?/
+yes, i am sleeping on my bed/
+
+i love to sleep on my bed/
+do i love to sleep on my bed?/
+yes, i really love to sleep on my bed/ 
+do i love to sleep under my bed?/
+no, i do not love to sleep under my bed/
+i really love to sleep on my bed/
+
+i always sleep on my big bed/
+do i always sleep on my big bed?/
+yes, i always sleep on my big bed/ 
+
+
+i sleep inside my room everyday/
+everyday, i sleep on my bed/
+do i sleep outside my room everyday?/
+no, i do not sleep outside my room everyday/
+do i sleep inside my room everyday?/
+yes, i sleep inside my room everyday/
+do i sleep under my bed everyday?/
+no, i do not sleep under my bed everyday/
+do i sleep on my bed everyday?/
+yes, i sleep on my bed everyday/
+
+i am sleeping inside my room today?/
+i am sleeping on my bed today/
+what am i doing today?/
+am i sleeping today?
+yes, i am sleeping today/
+am i sleeping outside my room today?/
+no, i am not sleeping outside my room today/
+am i sleeping outside my room today?/
+no, i am not sleeping outside my room today/
+am i sleeping inside my room today?/
+yes, i am sleeping inside my room today/
+am i sleeping between my big bed today?/
+no, i am not sleeping between my big bed today/
+am i sleeping on my big bed today?/
+yes, i am sleeping on my big bed today/ 
+
+
+@ask./
+today.tomorrow.
+big.small.
+
+
+
+
+
+
+

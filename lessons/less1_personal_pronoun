@@ -1,0 +1,516 @@
+esson 1 
+
+want 
+eat 
+drink 
+he 
+brother, father,sister, friend 
+
+see 
+tell 
+call
+take 
+give 
+ask  
+
+
+
+xiaosheng female ai3
+xiaoyou female kid ai3
+
+------------------------
+i am dewi
+
+@chat./
+#hello, #i am dewi./
+i am a #girl./
+#this #is roni./
+#he is a #boy./
+he is #my #brother. /
+
+@chat./
+this is my #mother/
+#her #name is sitti/
+#she is #beautiful/
+this is my #father/
+#his name is aki/
+
+@chat./
+#who is he?/
+is he romio?/
+#yes, he is romio/
+is he my brother?/
+#yes, he is my brother./
+
+who is she?/
+is she my mother?/
+yes, she is my mother./
+#what is her name?/
+her name is sitti/
+
+who is he?/
+is he my father?/
+yes, he is my father/
+what is his name?/
+his name is aki./
+
+-------------------
+
+@chat./
+this apple./
+this #orange/
+this apple #and this orange/
+
+this is an apple./
+this is an orange./
+
+this is an apple and an orange./
+this is a #banana and a #coffee./
+
+what is this?. is this an apple?/
+yes, it is an apple./
+
+what is this?. is this an orange?/ 
+yes, it is an orange./
+
+what is this? is this an orange?/
+#no, it is #not an orange./
+is this an apple?/
+no, it is #also not an apple/
+
+what is it?./
+it is a #water./
+
+-----------------------
+
+@chat./
+roni is #eating./
+what is he #doing?/
+he is eating/
+
+roni is eating an apple/
+what is he eating?/
+he is eating an apple./
+
+#now, what is he eating?/
+is he eating an apple?/
+no, he is not eating an apple/
+he is eating a banana./
+
+this is my mother/
+what is she doing?/
+she is #cooking/
+what is she cooking?/
+she is cooking some #fish/
+
+this is a fish/
+fishes are delicious/
+do you eat fish?/
+yes, you #sould eat fish./
+why?. #becuase, fishes are #healthy./
+
+----------------------------------------------
+
+@chat./
+,roni,hungry\#one #day, roni is #hungry/
+he #wants to eat/
+what does he wants?/
+he wants to eat/
+what does he wants to eat?/
+he wants to eat #some fish/
+roni #goes/
+roni goes to the kitchen/ 
+and then, he eats/
+he eats fish and banana/ 
+now, he is #full/
+and then, he goes to his #room/
+
+
+----------------------------------------------
+#what is this?/
+this is an #apple. /
+the apple is #red. /
+romio #like apple./
+he #loves to #eat apple./
+what is he #doing? /
+he is #eating./
+#who is eating?/
+
+------------------------------------------
+@chat./
+this is mina/
+mina is my #friend./
+she is a #gril/
+this is her #brother/
+his #name is bob/
+they #love to #play #together./
+#they love to play #music/
+mina plays the #guitar/
+and bob plays the #piano/
+#now, they are #singing/
+mina started to play the guitar/
+and bob started to play the piano/
+and then, they started singing together/
+this is their mother./
+her name is prya/
+she loves to #hear them singing./
+#everyday, they play and sing together/
+
+----------------------------------------
+@chat./
+this is a #man/
+his name is paki/
+he is a #farmer/
+everyday, he #works on a #farm/
+this is his #son/
+his name is kim/
+kim #helps his #father on the farm/
+kim #feeds the #chicken/
+kim #waters the #plant/
+kim also #cook/
+kim is a good boy/
+he #loves his father/
+and his father loves him/
+everyday, they work togather/
+
+
+------------------------
+at school
+
+@chat./
+#today is #monday/
+it is #time to #go to #school/
+#before going to school, i get up from my #bed/
+and then i get a #shower/
+then, i #brush my #teeth/
+#after i brush my teeth, i eat my breakfast/
+before i #leave the #house, i #say #goodbye to my #parent/
+once i have said #goodbye, i #ride on a bus/
+now, i am at school/
+#welcome, this is my #classroom/
+it is #very #big/
+this is my #desk/
+it's where i #sit/
+here comes our #teacher/
+this is our teacher/
+her name is melisa/
+she is #very #beutiful/
+when she is #infront of the #class/
+i #listen to her/
+why do i have to listen to her?/
+i listen to her so that i can #understand her lecture/
+she is a good teacher/
+
+--------------------------------------
+
+this is my room
+
+@chat./
+this is my #room/
+do you $know $where my $bed is?/
+yes, my bed is right #here/
+this is where i #sleep/
+#before i sleep, i #always pray/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------
+personal pronoun
+
+learn 1 
+
+@word.
+i. 
+i am. 
+i am mike. 
+i am aisha. 
+
+@word.
+teacher.
+i am a teacher.
+
+@word.
+doctor.
+i am a doctor.
+
+@word .
+who?.
+who am i?
+
+@word.
+am i mike?.
+am i a teacher?.
+am i a doctor?.
+
+
+@word.
+my. 
+name.
+my name.
+
+@word .
+my name is mike. 
+my name is aisha. 
+
+@chat./
+2 #hi, my name is mike./
+1 hi mike, my name is aisha./
+2 how are you aisha?/
+1 i am fine #thankyou./
+
+@ask. i.i am. my. my name.name 
+@ask. who.what.who am i?.what is my name?.
+@ask. teacher.doctor.
+
+@word.
+what?.
+name.
+what is my name?.
+
+@pair. i.my.name.my name. my name is mike 
+
+@chat./
+2 hi, i am romio. what is your name?./
+1 hi romio, my name is aisha. 
+
+@word.
+you. 
+you are. 
+you are aisha. 
+you are mike. 
+
+@ask. i.you 
+@ask. i am. you are. 
+@ask. i am mike.you are mike.
+
+@word.
+you are a teacher.
+you are a doctor.
+
+@word.
+who?.
+who are you?.
+who am i?.
+
+@word.
+are you a doctor?.
+are you a teacher?.
+
+@pair. i.you.i am mike.you are mike.
+
+@word .
+your. 
+name.
+your name. 
+
+@pair. i.you.my.your.
+@pair. my name.your name. i am aisha. your are mike.
+
+@word .
+your name is aisha.
+your name is mike. 
+
+@word .
+what?.
+name.
+your name.
+what is your name?.
+my name.
+what is my name?.
+
+@pair. you.your.your name. your name is aisha.
+@ask. i.you.my.your 
+@ask. i am mike.you are mike.
+@ask. name.my name is mike.your name is aisha.
+@ask. i.you.my.your.my name.your name.name
+
+
+@pair. what.who
+@ask. what is your name?. what is my name?.
+
+@chat./
+2 hi, i am mike. what is your name?./
+1 hi mike, my name is aisah./
+2 how are you aisha?/
+1 i am fine thank you. how about you?/
+2 i am doing well.
+
+@pair.
+thankyou. how are you?.i am fine.
+
+@chat./
+2 excused me,are you aisha?/
+1 yes, i am aisha./
+2 my name is mike, i will be your partner./
+1 hi mike, nice too meet you./
+2 nice to meet you too./ 
+1 are we #ready?./
+2 yes, let's #go.
+
+
+////////////////////////////////////////////////////////// 
+
+HE 
+
+@word. 
+he. 
+he is.
+he is james. 
+he is bob. 
+
+@ask. i.you.he 
+@ask. i am.you are. he is.
+@ask. i am mike. you are mike. he is mike.
+
+@word. 
+who?.
+who is he?.
+
+@ask. who are you?. who am i?. who is he?.who?
+
+@chat./
+2 hi aisha, i am mike. what is your name?./
+1 hi mike, my name is aisah/
+2 who is he?/
+1 he is romio.
+
+@word .
+his. 
+name.
+his name. 
+his name is romio. 
+his name is bob. 
+
+@ask. i.you.he.
+@ask. i am.you are. he is.
+@ask. my.your.his 
+@ask. my name.your name.his name.name
+@ask. my name is mike.your name is mike.his name is mike.
+
+@word.
+what?.
+name.
+his name.
+what is his name?.
+
+@pair.  what.who.
+@ask. what is your name?. what is his name?. what is my name?.
+
+@ask. i.you.he 
+@ask. i am .you are. he is.
+@ask. my.your.his 
+@ask. my name.your name.his name.name.
+@ask. i am mike.you are mike.he is mike.
+@ask. what?.what is your name?.what is his name?. what is my name?.
+@ask. who?.who are you?.who is he?.who am i?
+
+@chat./
+2 hi, i am mike. what is your name?/
+1 hi mike, my name is aisha./
+2 who is he?/
+1 he is my brother./
+2 what is his name?./
+1 his name is romio./
+
+@ask.
+i.you.he.
+i am.you are.he is.
+
+@ask.
+i am mike.you are mike.he is mike.
+
+@ask.
+my.your.his.
+my name.your name.his name.
+/////////////////////////////////////////////////////////////////
+SHE
+
+@word .
+she. 
+she is.
+she is maria. 
+she is jane. 
+
+@pair. i.you.he.she 
+@pair. i am.you are. he is. she is.
+
+@word. 
+her. 
+her name. 
+her name is maria. 
+her name is jane. 
+
+@pair. my.your.his.her 
+@ask. my name.your name.his name.her name.name.
+
+@word. 
+what?.
+name.
+her name.
+what is her name?.
+
+@ask. my name.your name.his name.her name.
+@ask. what is your name?. what is my name?. what is is name?. what is her name?.
+
+@ask. i.you.he.she.
+@ask. i am .you are.he is.she is.
+@ask. i am mike.you are mike.he is mike.she is mike.
+@ask. my.your.his.her 
+@ask. my name.your name. his name. her name.name.
+@ask. my name is mike. your name is mike. his name is mike. her name is mike.
+@ask. what?.what is your name?. what is his name?. what is my name?. what is her name?.
+@ask. who?.who are you?.who am i?.who is she?. who is he?.
+
+@chat./
+2 hi, i am mike. what is your name?/
+1 hi mike, my name is aisha./
+2 who is she?./
+1 she is maria./
+2 is she your sister?./
+1 yes, she is my #sister./
+2 what is her name?/
+1 her name is maria./
+2 who is he?. is he your brother?/
+1 yes, he is my brother./
+2 what is his name?/
+1 his name is romio./
+
+
+@ask.
+i.you.he.she.
+
+@ask.
+my.your.his.her.
+
+@pair.
+i.you.he.she.my.your.his.her.
+
+@ask.
+i am mike.you are mike.he is mike.she is mike.
+
+@ask.
+am i mike?.are you mike?.is he mike?.is she mike?.
+
+@pair.
+i am mike.you are mike.he is mike.she is mike.
+am i mike?.are you mike?.is he mike?.is she mike?.
+
+

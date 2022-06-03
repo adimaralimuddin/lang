@@ -1,0 +1,156 @@
+1 lesson 
+2 family 
+1 intro 
+
+@tprs./
+this is my father/
+his name is Ayah/
+this is my mother/
+her name is Ambuh/
+they are my parents/
+do you know them?/
+yes, you know theme/
+they are Ayah and Ambuh/
+they are my father and my mother/ 
+who are these?/
+do you know who they are?/
+yes, you know/
+they are Roni and Putri/
+they are my siblings/
+they are my brother and my sister/ 
+this is our house/
+we live in this house/
+me and my family live in this house/ 
+this is my room/
+this is my parents's room/
+this is Roni's room/
+this is Putri's room/
+this is the kitchen/
+this is the living room/
+this is the bath room/
+i am in my room/
+am i in my room?/
+yes, i am in my room/
+where am i?/
+am i in my room?/
+no, i am not in my room?/
+do you know where i am?/
+yes, i am in my parents'room/
+that is Ayah/
+Ayah is sleeping/
+that is Ambuh/
+Ambuh is cleaning/
+Ayah is sleeping on the bed/
+Ambuh is cleaning the room/
+where am i?/
+am i in my parents's room?/
+no, i am not in my parents's room/
+am i in roni's room?/
+yes, i am in Roni's room/
+that is Roni/
+what is he doing?/
+do you know what he is doing?/
+yes, he is eating/
+he is eating an apple/
+now, where am i?/
+am i in Roni's room/
+no, i am not in Roni's room/
+i am not in my parents's room too/
+am i in Putri's room?/
+yes, i am in putri's room/
+where is putri?/
+is that putri?/
+yes, that is putri/
+what is she doing?/
+do you know what she is doing?/
+is she sleep?/
+no, she is not sleep/
+is she cleaning?/
+no, she is not cleaning/
+what is she doing?/
+is she studying?/
+yes, she is studying
+what is she studying?/
+is she studying math?/
+yes, she is studying math/
+why?
+why is she studying?/
+do you know why she is studying?/
+because she had a quiz/
+tomorrow she had a quiz/
+she has to go to school tomorrow/
+where am i?/
+am i in my room? or in my parents room?/
+no, i am not in my room or in my parents?/
+i am also not in my siblings room/
+do you know where i am?/
+am i in the kitchen?/
+yes, i am in the kitchen/
+what am i doing?/
+what am i doing in the kitchen?/
+do you know what am i doing?/
+do you know what am i doing in the kitchen?/
+am i cooking?/
+yes, i am cooking/
+what am i cooking?/
+am i cooking an apple?/
+no, i am not cooking an apple/
+am i cooking some soup?/
+yes, i am cooking some soup/
+
+----------------------------------
+
+@chat./
+hi Purti, how are you?/
+3 hi Dewi, i am fine/
+are you my sister?/
+3 yes, i am your sister/
+are you a boy or a girl?/
+3 i am a girl/
+3 i am not a boy/
+what is that? is that a room?/
+3 yes, that is a room/
+is that your room?/
+3 yes, that is my room/
+where are you?/
+3 i am in my room/
+what are you doing?/
+3 i am studying/
+what are you studying?/
+3 i am studying math/
+why?/
+3 because i have a quiz/
+when?/
+3 tomorrow/
+you have a quiz tomorrow?/
+3 yes, i have a quiz tomorrow/
+are you going to school tomorrow?/
+3 yes, i am going to school tomorrow/
+
+@chat./
+hi Roni, how are you doing today?/
+2 i am doing well today/
+where are you?/
+2 i am in my room/
+what are you doing?/
+2 i am sleeping/
+why are you sleeping?/
+2 because i am tired/
+what did you do yesterday?/
+did you went to school yesterday?/
+2 yes, i went to school yesterday/
+
+@chat./
+4 where are you Dewi?/
+i am at the kitchen mom/
+4 what are you doing?/
+4 what are you doing in the kitchen?/
+i am cooking/ 
+4 what are you cooking?/
+i am cooking some soup/
+4 you know how to cook?/
+yes, i know how to cook/
+4 you know how to cook soup?/
+yes, i know how to cook soup/
+4 that is good/
+4 mmmmm. your soup is delicious/

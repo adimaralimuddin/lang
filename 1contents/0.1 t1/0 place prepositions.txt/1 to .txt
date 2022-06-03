@@ -1,0 +1,38 @@
+
+@tprs./
+to/
+to the school/
+to me/
+to you/
+to him/
+come/
+i am coming/
+i am coming to you/
+i am coming to her/
+she is coming/
+she is coming to me/
+you are coming/
+you are coming to me/
+going/
+i am going/
+i am going to school/
+i am going to the restaurant/
+i am going to the office/
+she is going to the hotel/
+Ahmed is going home/
+Putri is going to the airport/
+ROni is going to the bus station/
+my father is going to tokyo/
+this is a cat/
+the cat is walking/
+the cat is walking to the door/
+the cat is going to the table/
+the cat is at the table/
+the cat is walking to the sofa/
+the cat is on the sofa/
+the cat is coming to me/
+the cat is coming to Putri/
+the cat is going to Roni/
+the kids are going to school/
+the kids are going to the playground/
+the kids are at school/

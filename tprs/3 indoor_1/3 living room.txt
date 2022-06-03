@@ -1,0 +1,79 @@
+living room 1 
+
+@tprs./
+this is the living room/ 
+where am i?. am i in the living room?/
+yes, i am in the living room/ 
+this living room is big/
+this living room is very big/
+what is that?/
+is that a couch?/
+yes, that is a couch/
+who is that?/
+is that Roni?/
+yes, that is Roni/
+what is he doing?/
+is he sitting?/
+yes, he is sitting/
+where is he sitting?/
+is he sitting inside the room?/
+no, he is not sitting inside the room/
+is he sitting on a couch?/
+yes, he is sitting on a couch/
+what is that?/
+is that a tv?/
+yes, that is a tv/
+what am i doing?/
+am i watching tv?/
+yes, i am watching tv/
+look! it's Spiderman/
+what is Putri doing?/
+is Putri sleeping?/
+no, Putri is not sleeping/
+is Putri watching?/
+yes, Putri is watching/
+what is she watching?/
+is she watching tv?/
+yes, she is watching tv/
+she is watching Spiderman/
+what is that?/
+is that a couch?/
+no, that is not a couch/
+is that a tv?/
+no, that is not a tv/
+that is not a couch or a tv/
+what is that?. is that a table?/
+yes, that is a table/
+that is an apple/
+where is the apple?/
+do you know where the apple?/
+is the apple on the couch?/
+no, the apple is not on the couch/
+si the apple on the tv?/
+no, the apple is not on the tv/
+is the apple at the table?/
+yes, the apple is at the table/
+that is a flower base/
+where is the flower base?/
+is the flower base on the table?/
+yes, the flower base is on the table/
+is the orange on the table?/
+no, the orange is not on the table/
+is the orange inside the basket?/
+yes, the orange is inside the basket/
+this is a basket/
+what is this?. is this a basket?/
+no, this is not a basket/
+is this a sofa?/
+yes, this is a sofa/
+am i on the sofa?/
+yes, i am on the sofa/
+what am i doing?/
+what am i doing on the sofa?/
+do you know?/
+do you know what am i doing?/
+do you know what am i doing on the sofa?/
+am i sitting?/
+am i sitting on the sofa?/
+yes, i am sitting./
+i am sitting on the sofa/

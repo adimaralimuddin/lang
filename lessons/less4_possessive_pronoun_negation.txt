@@ -1,0 +1,407 @@
+lesson 4 possessive pronoun negation 
+
+@word.my.your.his.her.
+
+@word.
+my. 
+not my 
+
+@word.
+my brother. 
+not my brother.
+
+@word.
+my brother is romio. 
+my brother is not romio.
+
+@word.
+you are my brother.
+you are not my brother.
+
+@word.
+he is my brother. 
+he is not my brother.
+bob is my brother. 
+bob is not my brother.
+
+@ask.
+my.
+not my.
+my brother.
+not my brother.
+
+@ask.
+you are my brother.
+you are not my brother.
+he is my brother.
+he is not my brother.
+
+@ask.
+romio is my brother.
+romio is not my brother.
+my brother is romio.
+my brother is not romio.
+
+
+@ask.my.your.his.her.
+
+
+
+
+@word.
+my sister. 
+not my sister.
+
+@word.
+my sister is jane. 
+my sister is not jane.
+
+@ask.
+my. not my.
+my sister. not my sister.
+
+@ask.
+you are my sister.
+you are not my sister.
+she is my sister.
+she is not my sister.
+
+@ask.
+maria is my sister.
+maria is not my sister.
+my sister is maria.
+my sister is not maria.
+
+
+
+
+//////////////////////////////////////////////////////////////////////////
+YOUR 
+
+@word.
+your.
+not your.
+your brother.
+not your brother.
+your brother is bob. 
+your borther is not bob.
+
+@word.
+i am your brother.
+i an not your brother.
+
+@word.
+he is your brother.
+he is not your brother.
+bob is your brother. 
+bob is not your brother.
+
+@ask.
+my.your.
+not my. not your.
+
+@ask.
+my brother. not my brother. 
+your brother. not your brother.
+
+@ask.
+you are my brother. you are not my brother.
+i am your brother. i am not your brother.
+
+@ask.
+he is my brother. he is not my brother.
+he is your brother. he is not your brother.
+
+@ask.
+bob is my brother.bob is not my brother.
+bob is your brother. bob is not your brother.
+
+@word.
+your sister.  not your sister.
+i am your sister. i am not your sister.
+she is your sister.she is not your sister.
+
+@word.
+maria is your sister. maria is not your sister.
+your sister is maria. your sister is not maria.
+
+@ask.
+my.your. not my. not your.
+
+@ask.
+my brother.not my brother.
+your brother. not your brother.
+
+@ask.
+my sister. not my sister.
+your sister. not your sister.
+
+@ask.
+you are my brother. you are not my brother.
+i am your brother. i am not your brother.
+
+@ask.
+he is my brother.he is not my brother.
+he is your brother.he is not your brother.
+
+@ask.
+she is my sister.she is not my sister.
+she is your sister.she is not your sister.
+
+@ask.
+my brother is romio. my brother is not romio.
+your brother is romio. your brother is not romio.
+
+@ask.
+bob is my brother.bob is not my brother.
+bob is your brother.bob is not your brother.
+
+@ask.
+my sister is maria. my sister is not maria.
+your sister is maria. your sister is not maria.
+
+@ask.
+maria is my sister.maria is not my sister.
+maria is your sister.maria is not your sister.
+
+@ask.
+i.you.he.she
+
+@ask.
+my.your.his.her.
+not my. not your.not his.name.
+
+
+
+////////////////////////////////////////////////////////////////////////////
+HIS
+
+@word.
+his.
+his brother.
+not his brother.
+
+@word.
+i am his brother.i am not his brother.
+you are his brother. you are not his brother.
+he is his brother.he is not his brother.
+
+@word.
+his brother is romio.his brother is not romio.
+romio is his brother.romio is not his brother.
+
+@pair.
+i.you.he.she.
+my.your.his.her.
+
+@ask.
+my name.not my name.
+your name.not your name
+
+@ask.
+his name.not his name.
+her name.not her name.
+
+@ask.
+brother.sister.
+my brother.not my brother.
+your brother.not your brother.
+his brother. not his brother.
+
+@ask.
+you are my brother.you are not my brother.
+he is my brother. he is not my brother.
+
+@ask.
+i am your brother.i am not your brother.
+he is your brother.he is not your brother. 
+
+@ask.
+i am his brother. i am not his brother.
+you are his brother. you are not his brother.
+he is his brother. he is not his brother.
+
+@ask.
+romio is my brother.romio is not my brother.
+romio is your brother. romio is not your brother.
+
+@ask.
+romio is his brother.romio is not his brother.
+my brother is romio.my brother is not romio.
+
+@ask.
+your brother is romio.your brother is not romio.
+his brother is romio. his brother is not romio.
+
+@ask.
+his sister.
+not his sister.
+
+@ask.
+i am his sister. i am not his sister.
+
+@ask.
+you are his sister. you are not his sister.
+
+@ask.
+she is her sister. she is not her sister.
+
+@ask.
+brother.sister.
+you are my sister. you are not my sister.
+
+@ask.
+she is my sister. she is not my sister.
+i am your sister.i am not your sister.
+
+@ask.
+she is your sister. she is not your sister.
+i am his sister.i am not his sister.
+
+@ask.
+you are his sister.you are not his sister.
+she is his sister.she is not his sister.
+
+///////////////////////////////////////////////////////////////////
+HER 
+
+@word.
+her.
+her brother.
+i am her brother.
+you are her brother.
+he is her brother. 
+
+@word 
+his brother is romio.
+romio is his brother.
+
+@word.
+sister.
+her sister.
+i am her sister.
+you are her sister.
+she is her sister.
+
+@word.
+maria is her sister.
+her sister is maria.
+
+@ask.
+brother.sister.
+my brother.your brother. his brother. her brother.
+
+@ask.
+my sister.your sister.his sister.her sister.
+
+@ask.
+i am your brother. i am his brother. i am her brother.
+
+@ask.
+you are my brother. you are his brother.you are her brother.
+
+@ask.
+he is my brother.he is your brother. he is his brother. he is her brother.
+
+@ask.
+she is my sister. she is your sister. she is his sister. she is her sister.
+
+////////////////////////////////////////////////////////////////////
+QUESTION? 
+
+@word.
+are you my brother?.
+are you my sister?.
+is he my brother?.
+is she my sister?.
+
+@word.
+am i your brother?.
+am i your sister?>
+is he your brother?.
+is she your sister?.
+
+@word.
+am i his brother?.
+am i his sister?.
+are you his brother?.
+are you his sister?.
+is he his brother?.
+is she his sister?.
+
+@word.
+am i her sister?.
+am i her brother?.
+are you her brother?.
+are you her sister?.
+is he her borther?.
+is she her sister?.
+
+@ask.
+my.your.his.her.
+
+@ask.
+my brother. my sister.
+your brother.your sister.
+his brother. his sister.
+her brother. her sister.
+
+@ask.
+am i your brother?.
+am i your sister?.
+am i his brother?.
+am i his sister?.
+am i her brother?.
+am i her sister?.
+
+@ask.
+are you my brother?.
+are you my sister?.
+are you his brother?.
+are you his sister?.
+are you her brother?.
+are you her sister?.
+
+@ask.
+is he my brother?.
+is he your brother?.
+is he his brother?.
+is he her sister?.
+
+@ask.
+is she my sister?.
+is she your sister?.
+is she his sister?.
+is she her sister?.
+
+
+
+////////////////////////////////////////////////////////////////////////
+
+@practice 1
+
+hi, i am mike. what is your name? 
+hi mike. my name is aisha. 
+who is he? 
+he is my brother 
+what is his name? 
+his name is romio 
+who is she? 
+she is my sister 
+what is her name? 
+her name is maria 
+
+practice 2 -----------------------------------
+
+hi, i am mike. is your name aisha? 
+yes, my name is aisah. 
+who is he? is he romio? 
+no, he is not romio. 
+what is his name? is his name bob? 
+no, his name is not bob. his name is ahmed 
+who is she? is she maria? 
+no, she is not maria 
+what is her name? is her name jane? 
+no, her name is not jane. her name is sitti 
+
+

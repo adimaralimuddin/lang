@@ -1,0 +1,87 @@
+
+store 2 
+
+@tprs./
+look! that is a jacket/
+that jacket is awesome/
+i love that jacket/
+what color is that jacket?/
+is it brown?/
+yes, that jacket is brown/
+i love brown jacket/
+i want to buy/
+i want to buy that/
+i want to buy that jacket/
+but, how much?/
+how much is that jacket?/
+do you know how much?/
+do you know how much is that jacket?/
+is it cheap?/
+no, i don't think so/
+i do not think that jacket is cheap/
+what do you think?/
+is it expensive?/
+do you think it's expensive?/
+we will find out/
+what is that?/
+that is a sales person/
+i am going to her/
+i am asking her/
+am i going to her?/
+yes, i am going to her/
+am i asking her?/
+yes, i am asking her/
+what am i asking?/
+do you know what am i asking?/
+am i asking about the jacket?/
+yes, i am asking about the jacket/
+i am asking for the price/
+i am asking for what?/
+what am i asking for?/
+am i asking for the price?/
+yes, i am asking for the price/
+i am asking for the jacket's price/
+i am asking how much is the jacket/
+
+@chat./
+good day, how much is the jacket?/
+2 it's five dollars/
+
+@tprs./
+have you listen?/
+what did he siad?/
+what did i asked?/
+did i asked for the price?/
+yes, i did asked for the price/
+what did she said?/
+do you know what did she said?/
+yes, she said it was five dollars/
+the jacket cost five dollars/
+is the jacket expensive?/
+no, the jacket is not expensive/
+is the jacket cheap?/
+yes, the jacket is cheap/
+how much is the jacket?/
+does the jacket cost five dollars?/
+yes, the jacket cost five dollars/
+it was very cheap/
+now, i will take/
+i will take the jacket/
+what am i doing?. am i taking?/
+am i taking the jacket?/
+yes, i am taking the jacket/
+why?. why am i taking the jacket/
+do you know why?/
+do you know why am i taking the jacket?/
+am i buying?/
+am i buying the jacket?/
+yes, i am buying./
+i am buying the jacket/
+i take the jacket because i want to buy it/
+why do i want to buy?/
+why do i want to buy the jacket?/
+is it because it is cheap?/
+is it because the jacket is cheap?/
+yes, it is because the jacket is cheap/
+is it because the jacket is awesome?/
+yes, it is because the jacket is awesome/

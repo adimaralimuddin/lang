@@ -1,0 +1,204 @@
+my house 
+
+@tprs./
+what is this?/
+do you know what this is?/
+yes, you know. you know what this is/
+is this a house?/
+yes, this is a house/ 
+this is our house/
+who is that?/
+is that Roni?/
+yes, that is Roni /
+where is Roni?/
+is Roni inside the house?/
+yes, Roni is inside the house/
+is Roni outside the house?/
+no, Roni is not outside the house/
+Roni is inside the house/
+Roni is inside our house/
+what is he doing?/
+is he eating?/
+no, he is not eating/
+is he sitting?/
+yes, he is sitting/
+Roni is sitting/
+Roni sits on what?/
+do you know?/
+do you know what he is sitting on?/
+is he sitting on a table?/
+no, he is not sitting on a table/
+is he sitting on a chair?/
+yes, he is sitting on a chair/
+this is a chair/
+and this is a table/
+Roni is inside the house/
+Roni is sitting on a chair/
+what is this?/
+do you know what this is?/
+is this the kitchen?/
+yes, this is the kitchen/
+who is that?/
+is that a woman?/
+yes, that is a woman/
+who is she?/
+do you know who she is?/
+yes, she is my mother/ 
+what is her name?/
+do you know her name?/
+is her name Roni?/
+no, her name is not Roni/
+is her name Dewi or Putri?/
+no, her name is not Dewi or Putri/
+her name is Ambuh/
+where is Ambuh?/
+do you know where Ambuh is?/
+is Ambuh inside the house?/
+yes, Ambuh is inside the house/
+where is she inside the house?/
+do you know where she is inside the house?/
+is Ambuh at the kitchen?/
+yes, Ambuh is at the kitchen/
+what is Ambuh doing?/
+is Ambuh sitting?/
+no, Ambuh is not sitting/
+is Ambuh eating?/
+No, she is not eating.
+is Ambuh cooking?/
+yes, Ambuh is cooking/
+what is she cooking?/
+is she cooking an apple?/
+no, she is not cooking an apple/
+is she cooking some orange?/
+no, she is not cooking some orange/
+she is not cooking an apple or some orange/
+what is she cooking?/
+she is cooking some soup/
+she is cooking some delicious soup/
+who is that?/
+do you know who that is?/
+i know./
+i know who that is/
+that is my father/
+what is his name?/
+do you know his name?/
+i know. his name is Ayah/
+is his name Ambuh?/
+no, his name is not Ambuh/
+his name is Ayah. and he is my father/
+what is Ayah doing?/
+is he cooking?/
+no, he is not cooking/
+is he sitting?/
+no, he is not sitting/
+he is not cooking or sitting/
+what is he doing?/
+is he eating?/
+yes, He is eating/
+what is he eating?/
+do you know what is he eating?/
+is he eating an orange?/
+no, he is not eating an orange/
+is he eating some soup?/
+no, he is not eating some soup/
+he is not eating an orange or some soup/
+is he eating an apple?/
+yes, he is eating an apple/
+what is this?/
+is this a kitchen?/
+no, this is not a kitchen/
+do you know what this is?/
+yes, you know/
+this is a room/
+this is my room/
+this room is mine/ 
+what is this?/
+is this a room?/
+yes, it is a room/
+is this my room?/
+no, this is not my room/
+whos room is this?/
+is this Roni's room?/
+no, this is not Roni's room/
+is this my room?/
+no, this is not my room?/
+this is not my room or Roni's room/
+whos room is this?/
+this is Putri's room/
+who is that?/
+is that putri?/
+yes, that is putri/
+what is she doing?/
+is she sleeping?/
+no, she is not sleeping/
+is she cooking?/
+no, she is not cooking/
+she is not cooking or sleeping/
+what is she doing?/ 
+is she cleaning?/
+yes, she is cleaning/
+where is she cleaning?/
+is she cleaning in the kitchen?/
+no, she is not cleaning in the kitchen/
+is she cleaning in the room?/
+yes, she is cleaning in the room/
+what is she cleaning?/
+is she cleaning the room?/
+yes, she is cleaning the room/
+she is cleaning her room/
+
+
+@chat./
+hi Roni, how are you?/
+2 hi Dewi, i am find/
+what is this?/
+2 this is a house/
+is this your house?/
+2 this is our house/
+2 this is your house and my house/
+where are you?/
+2 i am inside the house/
+2 you too are inside the house/ 
+what are you doing?/
+2 i am sitting/
+what is this?/
+2 this is a chair/
+are you sitting on a chair?/
+2 yes, i am sitting on this chair/
+what is that?/
+2 that is the kitchen/
+where is the kitchen?/
+2 over there. there is the kitchen/
+are you inside the kitchen?/
+2 no, i am not inside the kitchen/
+who is inside the kitchen/
+2 Ambuh is inside the kitchen/
+what is she doing?/
+what is she doing inside the kitchen?/
+2 she is cooking/
+what is she cooking?/
+2 she is cooking a soup/
+2 she is cooking a delicious soup/
+who is that?/
+2 that is Ayah/
+what is he doing?/
+2 he is eating/
+what is he eating?/
+2 he is eating an apple/
+what is this?/
+2 this is a room/
+is this your room?/
+2 no, this is not my room/
+whos room is this?/
+2 this is Putri's room/
+where is putri?/
+2 she is inside the room/
+2 she is inside her room/
+what is she doing?/
+2 she is cleaning/
+2 she is cleaning inside her room/
+what is she cleaning?/
+2 she is cleaning her room/
+okay, thank you Roni/
+2 you are welcome Dewi/
+

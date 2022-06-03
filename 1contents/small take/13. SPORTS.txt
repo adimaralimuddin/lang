@@ -1,0 +1,73 @@
+@chat./
+
+A: Did you go to the basketball game on Friday?/
+
+B: No, I couldn't make it./
+
+A: You missed a really good game./
+
+B: Oh, really? Who won?/
+
+A: Our school did. They played really well./
+
+B: Too bad I was busy. I really wanted to go./
+
+A: Yeah, you should have. It was really exciting./
+
+B: So what was the score?/
+
+A: The score was 101-98./
+
+B: Man, that was a really close game./
+
+A: That's what made it so great./
+
+B: I'll make sure and make it to the next one./
+
+A: Were you able to attend Friday night's basketball game?/
+
+B: I was unable to make it./
+
+A: You should have been there. It was intense./
+
+B: Is that right. Who ended up winning?/
+
+A: Our team was victorious./
+
+B: I wish I was free that night. I'm kind of mad that I didn't go./
+
+A: It was a great game./
+
+B: What was the score at the end of the game?/
+
+A: Our team won 101-98./
+
+B: Sounds like it was a close game./
+
+A: That's the reason it was such a great game./
+
+B: The next game, I will definitely be there./
+
+A: I was meaning to ask you if you saw the basketball game on Friday./
+
+B: I wanted to go, but I couldn't./
+
+A: It was a great game./
+
+B: It's too bad that I couldn't make it. Who won?/
+
+A: Our team played hard and won./
+
+B: I really wish I went to the game./
+
+A: It was the best game ever./
+
+B: So tell me the final score./
+
+A: The other team lost by three points, 101-98./
+
+B: It must've been a close game./
+
+A: It really was. You should've gone./
+
+B: Hopefully, I'll make it to the next one./

@@ -1,0 +1,68 @@
+1 lesson 
+1 intro 
+4 time 
+
+@tprs./
+today/
+today i am eating/
+i am eating today/
+today is monday/
+it is raining today/
+
+@chat./
+hi Roni, what are you doing today?/
+2 hi Dewi, today i am eating/
+what are you eating today?/
+2 i am eating an apple today/
+is it sunny today?/
+2 no, it is not sunny outside/
+2 it is raining today/
+
+@tprs./
+tomorrow/
+tomorrow is holiday/
+i am going to eat tomorrow/
+tomorrow is monday/
+
+@chat./
+hi Putri, what are you doing today?/
+3 today? i am going to sleep/
+what will you do tomorrow?/
+3 tomorrow? i am going to school/
+what is tomorrow?/
+is tomorrow friday?/
+3 no, tomorrow is not sunday/
+3 today is sunday/
+3 tomorrow is monday/
+3 i am going to school tomorrow/
+3 i am going to school on monday/
+
+@tprs./
+yesterday/
+yesterday, i was sleeping/
+i was sleeping yester/ 
+yesterday was friday/
+
+@chat./
+hi Roni, how are you today?/
+2 hi Dewi, i am doing well/
+what are you doing today?/
+2 today i am studying/ 
+what are you studying?/
+2 i am studying math/
+what did you do yesterday?/
+2 yesterday i was sleeping/
+2 i was eating yesterday/
+2 yesterday i went to school/
+did you study yesterday?/
+2 yes, i did study yesterday/
+will you go to school today?/
+2 yes, i will go to school today/
+will you study tomorrow?/
+2 yes, i will study tomorrow/
+2 i have a quiz tomorrow/
+2 i need to study today/
+will you go to school tomorrow?/
+2 yes, i will go to school tomorrow/
+2 i will have a quiz tomorrow/
+

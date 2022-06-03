@@ -1,0 +1,114 @@
+verb 2 
+
+@tprs./
+i am going/
+i am going to the airport/
+i am going to the police station/
+i am going to the train station/ 
+where am i going?/
+am i going to the airport?/
+yes, i am going to the airport/
+do you know where i am going?/
+am i going to the train station?/
+no, i am not going to the train station/
+am i going to the police station?/
+yes, i am going to the police station/
+today i am going to the police station with my Friend/
+is Roni going to the police station?/
+no, Roni is not going to the police station/
+where is he going?/
+can you tell me where he is going?/
+is he going to the office?/
+yes, he is going to the office/
+we are going to the airport/
+me and my friend are going to the train station./
+today we are going to the police station/
+he is going to the train station/
+she is going to the train station/
+where is he going?/
+can you tell me where is he going?/
+is he going to the airport or to the police station?/
+yes, he is going to the airport and not to the police station/
+they are going to the office./
+what do you see?/
+do you see theme going to the airport?/
+yes, they are going to the airport/
+
+i am staying at the airport/
+how about you?/
+do you stay at the airport?/
+no, you are not staying at the airport/
+you are staying at home/
+he is staying at home/
+she is staying at school/
+she is staying at the office/
+we are staying at the police station/
+they are staying at the hotel/
+leave/
+i am leaving/
+i am leaving my house/
+i am leaving him/
+where am i leaving?/
+am i leaving to the airport?/
+yes, i am leaving to the airport/
+we are leaving our home/
+they are leaving the country/
+why are they leaving the country?/
+because they are going home/
+they are now at the airport/
+what are they doing at the airport?/
+are they waiting?/
+yes, they are waiting/
+i am waiting/
+i am waiting for a car/
+i am waiting for my friend/
+i am waiting for you/
+are you waiting for someone?/
+yes, you are waiting for someone/
+are you waiting for me?/
+yes, you are waiting for me/
+we are waiting for you/
+we are waiting for them/
+i am coming/
+am i coming?/
+yes, i am coming/
+i am coming home/
+where do i came from?/
+i came from the airport/
+when will you come?/
+will you come tomorrow?/
+yes, you will come tomorrow/
+i will come tomorrow/
+are you coming with me?/
+yes, i am coming with you/
+do you want to come with me to the airport?/
+sure, i want to come with you to the airport/
+are you coming with me to the police station?/
+of course you are coming with me to the police station/
+where do you live?/
+do you live here?/
+yes, i live here/
+how long do you live here?/
+have you been here for a very long time?/
+yes, you have been here for a very long time/
+where does she live?/
+is she living with you?/
+yes, she is living with me/
+we live together/
+i am going/
+i am leaving/
+i am waiting/
+i am coming/
+i am staying/
+you are going to the police station/
+he is going to the airport/
+she is going to the train station/
+they are going to the hotel/
+we are going to the hospital/
+he is waiting for you/
+they are waiting for me/ 
+we are waiting for them/
+
+
+
+

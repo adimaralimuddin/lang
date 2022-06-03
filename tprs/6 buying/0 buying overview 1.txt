@@ -1,0 +1,102 @@
+
+
+@tprs./
+shoping/
+today, i am shoping/
+this is a store/
+do you know what this is?/
+is this a store?/
+yes, this is a store/
+what am i doing?/
+am i shoping?/
+yes, i am shoping/
+where am i shoping?/
+do you know where am i shoping?/
+yes, i am shoping on a store/
+am i in the store?/
+yes, i am in the store/
+who is that?/
+is that a salesman?/
+yes, that is a salesman/
+what are these?/
+are these items?/
+yes, these are items/
+what is he doing?/
+is he taking?/
+yes, he is taking/
+what is he taking?/
+is he taking items?/
+yes, he is taking items/
+what is that?. is that the cashier/
+yes, that is the cashier/
+where is he going?/
+is he going to the cashier?/
+yes, he is going to the cashier/
+what is he doing?/
+is he studying?/
+no, he is not studying/
+is he buying?/
+yes, he is buying/
+what is he doing?/
+is he sleeping?/
+no, he is not sleeping/
+is he paying?/
+yes, he is paying/
+what is that?/
+is that a money?/
+yes, that is a money/
+is that a soup or an orange?/
+no, that is not a soup or an orange/
+is that a money?/
+yes, that is a money/
+what is he doing with the money?/
+is he eating the money?/
+no, he is not eating the money/
+is he cooking the money?/
+no, he is not cooking the money/
+is he paying with the money?/
+yes, he is paying/
+he is paying with the money/
+what is he saying?/
+do you know what is he saying?/
+did he said thank you?/
+yes, he did/
+he said thank you/
+he said thank you to who?/
+did he said thank you to the salesman?/
+yes, he said thank you to the salesman/
+what did the sales man said/
+do you know what the salesman said?/
+did the salesman said you're welcome?/
+yes, the salesman said you're welcome/
+what is this?. do you know what this is?/
+is this the price tag?/
+yes. it is the price tag/
+the price and the price tag/
+this is a jacket/
+this jacket is expensive/
+is this jacket expensive?/
+yes this jacket is expensive/
+this is a papaya/
+this papaya is cheap/
+is this papaya expensive?/
+no, this papaya is not expensive/
+is the papaya cheap?/
+yes, the papaya is cheap/
+which is expensive?/
+is papaya expensive or the jacket?/
+yes, the jacket is expensive/
+and the papaya is cheap/
+this is my purse/
+is this his purse?/
+no, this is not his purse/
+is this my purse?/
+yes, this is my purse/
+what is inside?/
+do you know what is inside?/
+do you know what is inside the purse?/
+is there a money?/
+is there a money inside the purse?/
+yes, there is a money in the purse/
+this is my money/
+

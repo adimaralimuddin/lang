@@ -1,0 +1,84 @@
+
+
+food 1 
+
+@tprs./ 
+what do you see?/
+do you see a bread?/
+can you see a bread?/
+yes, that is a bread.
+that bread is on a plater/
+who cooks the bread?/
+is that man the one who is cooking the bread?/
+yes, that man is cooking the bread/
+where did he put the bread?/
+do you know where did he put the bread?/
+did he put the bread on a plater?/
+yes, he did put the bread on a plater/
+is he touching the bread?/
+yes, he is touching the bread/
+the bread is soft and hot/
+is the bread very delicious?/
+aboslutely! the bread is really delicious/
+i want to eat the bread/
+do you want to eat that bread?/
+of course you do. you do want to eat that bread/
+why?/
+because that bread looks delicious/
+is he touching the bread?/
+no, he is no longer touching the bread/
+is he smelling the bread?/
+yes, he is smelling the bread/
+how does the bread smell like?/
+does it smell good?/
+yes, the bread does smell so good/
+he is touching and smelling the bread/
+is he touching or smelling the bread?/
+no, he is not touching or smelling the bread anymore/
+is he tasting the bread?/
+yes, he is tasting the bread/
+how does the bread taste like?/
+does the bread taste good?/
+yes, the bread does taste good/
+what is he doing now?/
+is he still tasting the bread?/
+no, he is no longer tasting the bread/
+is he cutting the bread?/
+yes, he is cutting the bread/
+he cuts the bread with a knife/
+can he cuts the bread with his hands?/
+yes but he is not cutting the bread with his hands/
+he is cutting the bread with a knife/
+can i cut a bread?/
+yes, i can cut a bread. it is easy to cut a bread/
+do you know how to cut a bread?/
+yes, you do. you do know how to cut a bread/
+does ROni know how to cut the bread?/
+yes he does. he do know how to cut a bread/
+because cutting a bread is very easy/
+am i holding the bread?/
+yes, i am holding the bread/
+are they holding the bread?/
+yes, they are holding the bread/
+are we holding the bread?/
+no, we are not holding the bread/
+who is holding the bread?/
+Putri is holding the bread/
+am i touching the bread?/
+yes, i am touching the bread/
+am i smelling the bread?/
+yes, i am smelling the bread/
+does the bread smells good?/
+yes, the bread does smells so good/
+are we touching the bread??
+no, we are not touching the bread/
+am i drinking the bread?/
+no, i am not drinking the bread/
+i cannot drink the bread/
+can they drink the bread?/
+no, they cannot drink the bread/
+we cannot drink the bread/
+we can only eat the bread/
+we can touch, hold, smell and eat the bread/
+i can only taste and cut the bread/
+

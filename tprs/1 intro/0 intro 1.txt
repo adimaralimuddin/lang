@@ -1,0 +1,45 @@
+
+hi, i am Dewi./
+my name is Dewi./
+and i am a girl./
+this is Roni./
+his name is Roni/
+he is a boy./
+he is my brother./
+what is my name?/
+is my name Roni?/
+no, my name is not roni./
+is my name Dewi?/
+yes, my name is Dewi./
+am i a boy?/
+no, i am not a boy/
+am i a girl?/
+yes, i am a girl/
+who is he?/
+what is his name?/
+do you know?/
+do you know him?/
+do you know his name?/
+is his name Dewi?/
+no, his name is not Dewi./
+my name is Dewi./
+is his name Roni?/
+yes, his name is Roni./
+he is Roni./
+is he a girl?/
+no, he is not a girl./
+i am a girl./
+is he a boy?/
+yes, he is a boy./
+he is not a girl./
+who is the girl?/
+is it me?/
+am i the girl?/
+yes, it is me./
+i am the girl./
+
+
+
+
+
+

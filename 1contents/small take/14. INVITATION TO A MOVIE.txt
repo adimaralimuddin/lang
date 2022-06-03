@@ -1,0 +1,61 @@
+@chat./
+
+A: What are you doing this weekend?/
+
+B: I'm going to the movies with a friend. How about you?/
+
+A: I'm not sure yet./
+
+B: Well, did you want to go see a movie with me?/
+
+A: What movie are you going to see?/
+
+B: I'm not sure yet. Is there something you want to see?/
+
+A: There's nothing I can think of./
+
+B: So, did you want to go?/
+
+A: No, thanks, maybe another time./
+
+B: Okay, sounds good./
+
+A: Do you know what you're going to do this weekend?/
+
+B: I am going to see a movie with a friend of mine. What about you?/
+
+A: I don't know./
+
+B: Would you like to see a movie with me and my friend?/
+
+A: Do you know what movie you're going to watch?/
+
+B: I don't know, but was there a certain movie you wanted to see?/
+
+A: None that I can think of./
+
+B: Well, would you like to go?/
+
+A: Thank you for inviting me, but I think I'll pass./
+
+B: All right. Another time then./
+
+A: You have any ideas as to what you want to do this weekend?/
+
+B: I'm going to the movie theater with my friend. What are you going to do?/
+
+A: I'm not quite sure yet./
+
+B: How about you see a movie with me and my friend?/
+
+A: What movie are you and your friend planning on watching?/
+
+B: Not sure. Is there a movie out that catches your eye?/
+
+A: No good movies come to mind./
+
+B: Have you decided whether or not you would like to go?/
+
+A: No, thanks. Maybe another time./
+
+B: For sure another day./

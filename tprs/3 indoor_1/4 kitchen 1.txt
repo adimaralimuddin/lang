@@ -1,0 +1,141 @@
+
+kitchen 
+
+@tprs./
+this is the kitchen/
+this kitchen is very beautiful/
+it is spacious/ 
+this is the door to the kitchen/
+i am going to the kitchen/
+now, i am at the kitchen/
+what is inside the kitchen?/
+what do you see?/
+do you know what is inside the kitchen?/
+yes, there is many things/
+there is many things inside the kitchen/
+look at that!. that is the dinning table/
+and this, this is the cooking area/
+this is the cabinet/ 
+the apple is on the table/
+the apple is in the cabinet/
+the orange is inside the basket/
+the basket is at the table/
+what are these?/
+do you know what these are?/
+yes, these are foods/
+these are fruits/
+these are vegetables/
+and these are meats/
+this is a banana/
+banana is a fruit/
+this is a garlic/
+is garlic a fruit?/
+no, garlic is not a fruit/
+is garlic a vegetables?/
+yes, garlic is a vegetables/
+this is a chicken/
+is chicken a fruit?/
+no, chicken is not a fruit/
+is chicken a vegetables?/
+no, chicken is not a vegetables/
+is chicken a meat?/
+yes, chicken is a meat/
+look! who is that?/
+is that my mother?/
+yes, that is my mother/
+where is she?/
+is she in the kitchen?/
+yes, she is in the kitchen/
+i am going to her/
+what is she doing?/
+is she eating?/
+no she is not eating/
+is she cooking?/
+yes, she is cooking/ 
+what is she cooking?/
+do you know?/
+do you know what is she cooking?/
+is she cooking an apple?/
+no, she is not cooking an apple/
+is she cooking an orange?/
+no, she is not cooking an orange/
+is she cooking a soup?/
+yes, she is cooking a soup/
+is this a spatula?/
+yes, this is a spatula/
+what do we do with spatula?/
+do you know what we do?/
+we mix/ 
+we mix with spatula/
+i am mixing/
+my mother is mixing/
+she is mixing the soup/
+she is mixing the soup with spatula/
+is she mixing the soup?/
+yes, she is mixing the soup/
+is she mixing the soup with basket?/
+no, she is not mixing it with the basket/
+is she mixing the food with table?/
+no, she is not. she is not mixing the food with table or with spatula/
+what is she mixing the food with?/
+is she mixing the food with is spatula?/
+yes, she is mixing the food with spatula/
+this is a garlic/
+where is the garlic?/
+is the garlic on the talbe?/
+no, the garlic is not on the table/
+is the garlic inside the cabinet?/
+yes, the garlic is inside the cabinet/
+she is taking the garlic/
+is Ambuh taking the garlic?/
+yes, she is taking the garlic/
+she is taking the garlic from the cabinet/
+she puts a garlic/
+she puts a garlic into the soup/
+what is she putting?/
+is she putting a garlic?/
+yes, she is putting a garlic./
+she is putting a garlic into the soup/
+what is she doing?/
+she is mixing the garlic/
+she is mixing the garlic with the soup/
+what is she mixing?/
+is she mixing the garlic?/
+yes, she is mixing the garlic/
+she is mixing the garlic with the soup/
+what is that?/
+is that a teapot?/
+yes, that is a teapot/
+that tea pot is hot/
+what is inside that tea pot?/
+is it water inside the tea pot?/
+yes, it is water inside the tea pot/
+a hot water is inside the tea pot/
+what are these?/
+are these silverware?/
+yes, these are silverware/
+this is a spoon/
+i eat with spoon/
+this is a fork/
+i eat spagetti with a fork/
+what are these?/
+are these dishes?/
+yes, these are dishes/
+this is a plate/
+i put foods on a plate/
+i eat foods on a plate/
+she is washing the plate/
+Putri is washing the plate/
+this is a cup/
+i drink tea on a cup/
+i drink coffee on a cup/
+this is a bowl/
+i put soup on a bowl/
+i am drinking some soup on a bowl/
+what Putri is doing?/
+ 
+
+
+
+
+

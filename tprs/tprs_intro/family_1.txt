@@ -1,0 +1,237 @@
+
+
+@tprs./
+hi, i am Dewi/
+my name is Dewi/
+i am a girl/
+who am i?/
+am i Roni?/
+no, i am not Roni/
+am i Dewi?/
+yes, i am Dewi/
+what is my name?/
+is my name Roni?/
+no, my name is not Roni/ 
+is my name Dewi?/
+yes, my name is Dewi/
+what am i?/
+am i a boy?/
+no, i am not a boy/
+am i a girl?/
+yes, i am a girl/
+This. this is Roni/
+He is a boy/
+He is my brother/ 
+who is he?/
+is he Dewi?/
+no, he is not Dewi.
+who is Dewi?/
+i am Dewi/
+who is he?/
+he is Roni/
+what is his name?/
+is his name Dewi?/
+no, his name is not Dewi/
+my name is Dewi/
+is his name Roni?/
+yes, his name is Roni/
+what is Roni?/
+is he a girl?/
+no, Roni is not a girl?/
+i am a girl/
+is Roni a boy?/
+yes, Roni is a boy/
+who is she?/
+do you know her?/
+she is Putri/
+she is my sister/
+is Putri a boy?/
+no, Putri is not a boy/ 
+what is Putri?. 
+is Putri a girl?/
+yes, Putri is a girl/ 
+
+
+
+@chat./
+hi Roni?/
+2 hi Dewi/
+how are you?/
+2 i am fine/
+how about you?/
+2 i am fine/
+are you a girl?/
+2 no, i am not a girl/
+what are you?/
+2 i am a boy/
+are you my sister?/
+2 no, i am not your sister/
+are you my brother?/
+2 yes, i am your brother/
+bye Roni/
+2 bye Dewi/
+
+-----------------------------------------------------------
+action
+
+@tprs ./
+an apple/
+this is an apple/
+what is this?/
+is this an apple?/
+yes, this is an apple/
+what is this?/
+is this an apple?/
+no, this is not an apple/
+what is this then?/
+this is an orange/
+is this an orange?/
+no, this is not an orange/
+is this an apple?/
+yes, this is an apple/
+what is this?/
+this is an apple/
+this one is an orange/
+
+@tprs./
+Roni is drinking/
+Roni drinks water/
+is Roni drinking?/
+yes, Roni is drinking/
+Roni drink what?/
+is Roni drinking water?/
+yes, Roni drinks water/
+Putri is eating/ 
+Putri eats an apple/
+is Putri eating?/
+yes, Putri is eating/
+Putri eats what?/
+is Putri eating water?/
+no, Putri is not eating water/
+is Putri eating an apple?/
+yes, Putri is eating an apple/ 
+is Putri drinking?/
+no, Putri is not drinking/
+who is drinking?/
+is Roni drinking?/
+yes, Roni is drinking/
+
+@chat./
+hi Roni/
+2 hi Dewi/
+what are you doing?/
+are you eating?/
+no, i am not eating/
+what are you doing?/
+are you drinking?/
+yes, i am drinking/
+what are you drinking?/
+are you drinking an apple?/
+no, i am not drinking an apple/
+what are you drinking?/
+are you drinking some water?/
+yes, i am drinking some water/
+
+@chat./
+hi Putri/
+3 hi Dewi/
+what are you doing?/
+are you drinking?/
+no, i am not drinking/
+what are you doing?/
+are you eating?/
+yes, i am eating/
+what are you eating?/
+are you eating some water?/
+no, i am not eating some water/
+what are you eating?/
+are you eating an apple?/
+yes, i am eating an apple/
+
+
+location 1 -------------------------------------------------
+
+@tprs./
+what is this?/
+this is a table/
+is this a table?/
+yes, this is a table/
+what is this?./
+is this a table?/
+no, this is not a table/
+what is this?/
+this is a chair/
+this is a chair and a table/
+that is a chair/
+this is a table/
+
+where?/
+where is the apple?/
+the apple is at the table/
+is the apple at the table?/
+yes, the apple is at the table/
+where is the apple?/
+is the apple at the table?/
+no, the apple is not at the table/
+where is the apple?/
+is the apple on the chair?/
+yes, the apple is on the chair/
+where is the apple?/
+is the apple on the chair/
+no, the apple is not on the chair/
+where is the apple?/
+the apple is on the table/
+apple is red/
+is apple red?/
+yes, apple is red/
+is the table red?/
+no, the table is not red/
+the table is blue/
+is the chair blue?/
+no, the chair is not blue/
+the chair is brown/
+
+property ----------------------------------------------------
+
+@tprs./
+apple is red/
+is apple red?/
+yes, apple is red/
+banana is yellow/
+is banana red?/
+no, banana is not red/
+is banana blue?/
+no, banana is not blue/
+is banana yellow?/
+yes, banana is yellow/
+what is that?/
+is that an apple?/
+no, that is not an apple/
+what is that?/
+that is a water/
+water is blue/
+is water blue?/
+yes and no/
+water is blue and water is not blue/
+
+@chat./
+hi Roni, what is that?/
+is that an banana?/
+2 no, that is not a banana/
+what is that?/
+2 that is an apple/
+is apple yellow?/
+2 no, apple is not yellow/ 
+apple is red/
+2 what is this?/
+is this a banana?/
+2 yes, this is a banana/
+is banana red?/
+2 no, banana is not red./
+2 banana is yellow/
+
+
+
+
+
+
